@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>小众软件</title>
+	<atom:link href="https://www.appinn.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.appinn.com</link>
+	<description>分享免费、小巧、实用、有趣、绿色的软件</description>
+	<lastBuildDate>Thu, 28 Mar 2024 08:45:02 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Free Control &#8211; 基于 Scrcpy，使用 Windows 控制安卓手机</title>
+		<link>https://www.appinn.com/free-control-for-android/</link>
+					<comments>https://www.appinn.com/free-control-for-android/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 08:44:50 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Scrcpy]]></category>
+		<category><![CDATA[控制]]></category>
+		<category><![CDATA[控制手机]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48017</guid>
+
+					<description><![CDATA[Free Control 是一款开源的 Windows 程序，它可以通过 Windows 来控制安卓手机，支持使用 adb 进行 Wi-Fi 连接控制。充电时支持唤醒，简单易用。@Appinn Scr ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Free Control</strong> 是一款开源的 Windows 程序，它可以通过 Windows 来控制安卓手机，支持使用 <kbd>adb</kbd> 进行 Wi-Fi 连接控制。充电时支持唤醒，简单易用。@<a href="https://www.appinn.com/free-control-for-android/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096.jpg" alt="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机" class="wp-image-48021" title="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 1" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="scrcpy-%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">Scrcpy 是什么</h2>
+
+
+<p><a href="https://github.com/Genymobile/scrcpy" target="_blank" rel="noopener">Scrcpy</a> 同样是一款开源项目，简单、轻量级，用来显示和控制 Android 设备，但需要命令行操作。</p>
+
+
+
+<p>小众软件已经介绍过多次了：</p>
+
+
+
+<ul>
+<li><a href="https://www.appinn.com/scrcpy-2/">Scrcpy 2 发布，新增音频支持｜用 Win 电脑控制 Android 手机</a></li>
+
+
+
+<li>命令行版：<a href="https://www.appinn.com/scrcpy-remote-android-from-computer/">Scrcpy – 用电脑控制 Android 手机[Win/macOS/Linux]</a></li>
+
+
+
+<li>图形界面：<a href="https://www.appinn.com/scrcpy-gui/">用电脑控制 Android 手机的 Scrcpy 拥有更易使用的图形界面了</a>(第三方)</li>
+
+
+
+<li><a href="https://www.appinn.com/scrcpy-remote/">Scrcpy Remote – 用 iPhone 远程控制 Android 设备[iOS]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/ws-scrcpy/">ws-scrcpy – 用浏览器远程控制 Android 手机，实现云手机效果</a></li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="free-control-%25e7%2594%25a8%25e7%2594%25b5%25e8%2584%2591%25e6%258e%25a7%25e5%2588%25b6%25e6%2589%258b%25e6%259c%25ba">Free Control 用电脑控制手机</h2>
+
+
+<p>Free Control 在 Scrcpy 的基础之上，提供了图形界面：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1050" height="1130" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.03.45@2x.jpg" alt="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 1" class="wp-image-48018" title="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 2" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.03.45@2x.jpg 1050w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.03.45@2x-768x827.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e4%25bd%25bf%25e7%2594%25a8%25e6%25ad%25a5%25e9%25aa%25a4">使用步骤</h2>
+
+
+<p>使用也和 Scrcpy 保持了简单，三步走：通过 USB 连接手机，打开 adb wifi 连接，通过 FreeControl 连接就行了。</p>
+
+
+
+<p>具体来说，需要先准备 adb 命令行工具（<a href="https://d.appinn.com/adb-sdk-platform-tools/" target="_blank" rel="noopener">SDK Platform Tools</a> 搬运），用来第一次连接手机。</p>
+
+
+
+<ol>
+<li>先打开手机的开发者模式</li>
+
+
+
+<li>通过 USB 连接电脑，授权电脑连接（在手机上点<kbd>始终</kbd>）</li>
+
+
+
+<li>在电脑上（打开命令提示符 cmd）输入 <kbd>adb devices</kbd> 确认授权成功</li>
+
+
+
+<li>在电脑上输入 <kbd>adb tcpip 5555</kbd> 开启无线连接</li>
+
+
+
+<li>拔掉手机与电脑的连接，转而去充电。</li>
+
+
+
+<li>在 Free Control 里输入 IP 地址（手机的IP地址）进行控制即可。</li>
+</ol>
+
+
+
+<p>由于青小蛙之前折腾过 Scrcpy，所以这一条龙操作下来很顺利，如果你遇到什么困难，可以前往留言讨论。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="822" height="1325" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.23.26@2x.jpg" alt="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 2" class="wp-image-48019" style="width:441px;height:auto" title="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 3" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.23.26@2x.jpg 822w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.23.26@2x-768x1238.jpg 768w" sizes="(max-width: 822px) 100vw, 822px" /></figure></div>
+
+
+<p>然后，就能在电脑里，用鼠标来控制 android 手机了。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1294" height="639" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.28.24@2x.jpg" alt="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 3" class="wp-image-48020" title="Free Control - 基于 Scrcpy，使用 Windows 控制安卓手机 4" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.28.24@2x.jpg 1294w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-2024-03-28-16.28.24@2x-768x379.jpg 768w" sizes="(max-width: 1294px) 100vw, 1294px" /></figure>
+
+
+
+<p>有个问题，如果你的手机有锁屏密码，那么是没有办法在电脑上输入的，所以最好取消密码，就能直接控制了。</p>
+
+
+
+<p>不重启的情况下，Wi-Fi 可以随时连接。Android 12 以上系统自动获取声音。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://github.com/pdone/FreeControl" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://awaw.cc/post/free-control" target="_blank" rel="noopener">开发者页面</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/476817807858" target="_blank" rel="noopener">搬运</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/free-control-for-android/</p>
+
+
+
+<p>实际上只需要对外打开 5555 端口，或者通过 <a href="https://www.appinn.com/tag/zerotier/">Zerotier</a>、tailscale 等组网工具，可以实现远程控制你的手机。</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/free-programming-books-chinese/" rel="bookmark" title="Permanent Link: 500+ 免费的中文编程电子书">500+ 免费的中文编程电子书</a></li><li><a href="https://www.appinn.com/sound-control-3/" rel="bookmark" title="Permanent Link: Sound Control 3 &#8211; Mac 音量高级控制：单独控制各应用音量">Sound Control 3 &#8211; Mac 音量高级控制：单独控制各应用音量</a></li><li><a href="https://www.appinn.com/webrtc-control/" rel="bookmark" title="Permanent Link: 如何解决国内某视频网站利用 WebRTC 占满上行带宽的问题">如何解决国内某视频网站利用 WebRTC 占满上行带宽的问题</a></li><li><a href="https://www.appinn.com/best-46-free-utilities/" rel="bookmark" title="Permanent Link: 善用佳软:邀请你翻译 最佳 46 款免费软件">善用佳软:邀请你翻译 最佳 46 款免费软件</a></li><li><a href="https://www.appinn.com/free-chmzoomer/" rel="bookmark" title="Permanent Link: Free ChmZoomer &#8211; 放大 CHM 的帮助字体">Free ChmZoomer &#8211; 放大 CHM 的帮助字体</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/free-control-for-android/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48017" data-ulike-factor="up"
+            data-ulike-nonce="fcea5396ab" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48017 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48017" data-ulike-factor="down"
+            data-ulike-nonce="fcea5396ab" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48017 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/free-control-for-android/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/free-control-for-android/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI三步生成万字论文，提供免费论文大纲！</title>
+		<link>https://www.appinn.com/ibiling-ai-paper/</link>
+					<comments>https://www.appinn.com/ibiling-ai-paper/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 09:59:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[在线应用]]></category>
+		<category><![CDATA[大纲]]></category>
+		<category><![CDATA[论文]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47999</guid>
+
+					<description><![CDATA[论文写作是一项既重要又具挑战性的任务。对于忙碌的大学生、研究生以及各学科领域的研究人员来说，面对繁杂的研究主题和严格的格式要求时，常常感到不知所措。 此时，笔灵AI论文写作作为一个能够简化论文写作流程 ]]></description>
+										<content:encoded><![CDATA[
+<p>论文写作是一项既重要又具挑战性的任务。对于忙碌的大学生、研究生以及各学科领域的研究人员来说，面对繁杂的研究主题和严格的格式要求时，常常感到不知所措。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="804" height="350" src="https://www.appinn.com/wp-content/uploads/2024/03/ibiling.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 4" class="wp-image-48000" title="AI三步生成万字论文，提供免费论文大纲！ 5" srcset="https://www.appinn.com/wp-content/uploads/2024/03/ibiling.jpg 804w, https://www.appinn.com/wp-content/uploads/2024/03/ibiling-768x334.jpg 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure>
+
+
+
+<p>此时，笔灵AI论文写作作为一个能够简化论文写作流程、提供专业辅助的工具显得尤为重要。面向700+学科专业，笔灵AI论文写作致力于一键解决所有论文写作难题。平台支持免费生成千字大纲，创作多种类型论文，且生成速度快、效率高，保证内容原创，低查重率。</p>
+
+
+
+<ul>
+<li><strong>官网入口</strong>：<a href="https://ibiling.cn/paper?from=xzrjpaper" target="_blank" rel="noopener">https://ibiling.cn/paper</a></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2164" height="1320" src="https://www.appinn.com/wp-content/uploads/2024/03/image-9.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 5" class="wp-image-48001" title="AI三步生成万字论文，提供免费论文大纲！ 6" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-9.jpg 2164w, https://www.appinn.com/wp-content/uploads/2024/03/image-9-768x468.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/image-9-1536x937.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/image-9-2048x1249.jpg 2048w" sizes="(max-width: 2164px) 100vw, 2164px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e4%25b8%2580%25e7%25ac%2594%25e7%2581%25b5ai%25e8%25ae%25ba%25e6%2596%2587%25e5%259b%259b%25e5%25a4%25a7%25e5%2586%2599%25e4%25bd%259c%25e4%25bc%2598%25e5%258a%25bf">一、笔灵AI论文四大写作优势</h2>
+
+<h3 class="wp-block-heading" id="1-%25e5%2585%258d%25e8%25b4%25b9%25e5%258d%2583%25e5%25ad%2597%25e5%25a4%25a7%25e7%25ba%25b2%25e7%2594%259f%25e6%2588%2590%25e7%25b2%25be%25e5%2587%2586%25e6%258a%258a%25e6%258f%25a1%25e8%25ae%25ba%25e6%2596%2587%25e7%25bb%2593%25e6%259e%2584">1. 免费千字大纲生成：精准把握论文结构</h3>
+
+
+<p>笔灵AI论文写作提供千字大纲的免费生成服务。你只需输入相关关键词，就能获得一个详尽且结构清晰的论文大纲，以此有效规划文章结构。此外，你还可在线编辑大纲，随时删减章节。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1286" height="1892" src="https://www.appinn.com/wp-content/uploads/2024/03/image-10-1.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 6" class="wp-image-48003" title="AI三步生成万字论文，提供免费论文大纲！ 7" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-10-1.jpg 1286w, https://www.appinn.com/wp-content/uploads/2024/03/image-10-1-768x1130.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/image-10-1-1044x1536.jpg 1044w" sizes="(max-width: 1286px) 100vw, 1286px" /></figure>
+
+
+<h3 class="wp-block-heading" id="2-700%25e5%25ad%25a6%25e7%25a7%2591%25e4%25b8%2593%25e4%25b8%259a%25e5%2585%25a8%25e8%25a6%2586%25e7%259b%2596%25e6%25bb%25a1%25e8%25b6%25b3%25e4%25b8%258d%25e5%2590%258c%25e4%25b8%2593%25e4%25b8%259a%25e8%25ae%25ba%25e6%2596%2587%25e8%25a6%2581%25e6%25b1%2582">2. 700+学科专业全覆盖：满足不同专业论文要求</h3>
+
+
+<p>笔灵AI论文写作服务于从专科生到研究生的各个学术层次，还提供超过700个不同专业的论文写作支持，从文学、历史到工程、科学，无一不包。无论你学术背景或研究领域如何，都能在这个平台上找到适合自己需求的专业帮助。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1296" height="777" src="https://www.appinn.com/wp-content/uploads/2024/03/image-11.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 7" class="wp-image-48004" title="AI三步生成万字论文，提供免费论文大纲！ 8" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-11.jpg 1296w, https://www.appinn.com/wp-content/uploads/2024/03/image-11-768x460.jpg 768w" sizes="(max-width: 1296px) 100vw, 1296px" /></figure>
+
+
+<h3 class="wp-block-heading" id="3-%25e5%25a4%259a%25e7%25b1%25bb%25e5%259e%258b%25e8%25ae%25ba%25e6%2596%2587%25e6%2594%25af%25e6%258c%2581%25e8%25af%25be%25e9%25a2%2598%25e8%25ae%25ba%25e6%2596%2587%25e5%25bc%2580%25e9%25a2%2598%25e6%258a%25a5%25e5%2591%258a%25e6%25af%2595%25e4%25b8%259a%25e8%25ae%25ba%25e6%2596%2587%25e4%25b8%2580%25e7%25bd%2591%25e6%2589%2593">3. 多类型论文支持：课题论文、开题报告、毕业论文一网打尽</h3>
+
+
+<p>笔灵AI论文写作提供对多种类型论文的全面支持。无论是处于学习早期的课题论文、学术研究的开题报告，还是学业的重要里程碑——毕业论文，该平台都能提供专业的写作指导和辅助，使你轻松应对各种类型的论文挑战。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1200" height="754" src="https://www.appinn.com/wp-content/uploads/2024/03/image-12.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 8" class="wp-image-48005" title="AI三步生成万字论文，提供免费论文大纲！ 9" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-12.jpg 1200w, https://www.appinn.com/wp-content/uploads/2024/03/image-12-768x483.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+<h3 class="wp-block-heading" id="4-%25e8%25ae%25ba%25e6%2596%2587%25e7%2594%259f%25e6%2588%2590%25e9%2580%259f%25e5%25ba%25a6%25e5%25a4%25a7%25e7%25ba%25b21%25e5%2588%2586%25e9%2592%259f%25e5%2585%25a8%25e6%2596%25875%25e5%2588%2586%25e9%2592%259f">4. 论文生成速度：大纲1分钟，全文5分钟</h3>
+
+
+<p>笔灵AI论文写作能在短短一分钟内提供完备的论文大纲，仅需五分钟就能完成整篇论文的撰写，充分体现了它在人工智能写作领域的专业优势。你因此可以节约大量准备和撰写论文时间，将更多精力投入到研究和创新中。</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?aid=1402353338&#038;bvid=BV1vr421b74R&#038;cid=1483577226&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e4%25ba%258c%25e4%25bd%25bf%25e7%2594%25a8%25e7%25ac%2594%25e7%2581%25b5ai%25e8%25ae%25ba%25e6%2596%2587%25e5%2586%2599%25e4%25bd%259c%25e6%2590%259e%25e5%25ae%259a%25e8%25ae%25ba%25e6%2596%2587%25e5%258f%25aa%25e9%259c%2580%25e5%259b%259b%25e6%25ad%25a5">二、使用笔灵AI论文写作搞定论文，只需四步：</h2>
+
+
+<p><strong>第1步</strong>：进入笔灵AI论文写作官方网站。</p>
+
+
+
+<p><strong>第2步</strong>，选择专业，并输入题目，生成千字大纲目录。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1278" height="735" src="https://www.appinn.com/wp-content/uploads/2024/03/image-13.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 9" class="wp-image-48006" title="AI三步生成万字论文，提供免费论文大纲！ 10" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-13.jpg 1278w, https://www.appinn.com/wp-content/uploads/2024/03/image-13-768x442.jpg 768w" sizes="(max-width: 1278px) 100vw, 1278px" /></figure>
+
+
+
+<p><strong>第3步</strong>，编辑大纲，生成全文模板，可增加、删减章节，修改章节内容。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1290" height="866" src="https://www.appinn.com/wp-content/uploads/2024/03/image-14.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 10" class="wp-image-48007" title="AI三步生成万字论文，提供免费论文大纲！ 11" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-14.jpg 1290w, https://www.appinn.com/wp-content/uploads/2024/03/image-14-768x516.jpg 768w" sizes="(max-width: 1290px) 100vw, 1290px" /></figure>
+
+
+
+<p><strong>第4步</strong>，下载论文文件。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1226" height="523" src="https://www.appinn.com/wp-content/uploads/2024/03/image-15.jpg" alt="AI三步生成万字论文，提供免费论文大纲！ 11" class="wp-image-48008" title="AI三步生成万字论文，提供免费论文大纲！ 12" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image-15.jpg 1226w, https://www.appinn.com/wp-content/uploads/2024/03/image-15-768x328.jpg 768w" sizes="(max-width: 1226px) 100vw, 1226px" /></figure>
+
+
+
+<p>无论是毕业论文还是课题论文，笔灵AI论文都能成为你学术写作路上的强大助力，让你的研究工作更加轻松，成果更加显著。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<p>笔灵AI论文写作官网入口：<a href="https://ibiling.cn/paper?from=xzrjpaper" target="_blank" rel="noopener">https://ibiling.cn/paper</a></p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/paper-planes/" rel="bookmark" title="Permanent Link: Paper Planes &#8211; 原来纸飞机还可以这样玩，另类版漂流瓶[Android]">Paper Planes &#8211; 原来纸飞机还可以这样玩，另类版漂流瓶[Android]</a></li><li><a href="https://www.appinn.com/ibiling/" rel="bookmark" title="Permanent Link: 笔灵AI写作｜一键生成社媒公文、 小说论文 、作业教案">笔灵AI写作｜一键生成社媒公文、 小说论文 、作业教案</a></li><li><a href="https://www.appinn.com/pencil-by-53/" rel="bookmark" title="Permanent Link: Pencil by 53 &#8211; 一只很不错的 iPad 触控笔[硬件]">Pencil by 53 &#8211; 一只很不错的 iPad 触控笔[硬件]</a></li><li><a href="https://www.appinn.com/yfzhe-product-hunt-2/" rel="bookmark" title="Permanent Link: yfzhe 的 Product Hunt 精选第 2 期：截图美化、数据可视化、博客背景图、to-do">yfzhe 的 Product Hunt 精选第 2 期：截图美化、数据可视化、博客背景图、to-do</a></li><li><a href="https://www.appinn.com/ibiling-ai/" rel="bookmark" title="Permanent Link: 笔灵AI写作：人人用的上的写作助手，一键解决所有写作难题">笔灵AI写作：人人用的上的写作助手，一键解决所有写作难题</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/ibiling-ai-paper/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47999" data-ulike-factor="up"
+            data-ulike-nonce="bf3e58f532" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47999 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47999" data-ulike-factor="down"
+            data-ulike-nonce="bf3e58f532" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47999 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/ibiling-ai-paper/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/ibiling-ai-paper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>假装 Windows 升级界面｜还有 macOS、Android、iOS 升级界面&#8230;</title>
+		<link>https://www.appinn.com/fakeupdate/</link>
+					<comments>https://www.appinn.com/fakeupdate/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 09:17:23 +0000</pubDate>
+				<category><![CDATA[趣味软件]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[假装]]></category>
+		<category><![CDATA[升级]]></category>
+		<category><![CDATA[恶搞]]></category>
+		<category><![CDATA[蓝屏]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48013</guid>
+
+					<description><![CDATA[假装 Windows 升级界面是一个莫名其妙的网站，你可以在里面观看从 Windows 98、XP、Vista，到 Windows 10/11 的系统升级界面动画，如果全屏食用的话，还可以假装自己在升 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>假装 Windows 升级界面</strong>是一个莫名其妙的网站，你可以在里面观看从 Windows 98、XP、Vista，到 Windows 10/11 的系统升级界面动画，如果全屏食用的话，还可以假装自己在升级。@<a href="https://www.appinn.com/fakeupdate/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T171116.964.jpg" alt="假装 Windows 升级界面｜还有 macOS、Android、iOS 升级界面..." class="wp-image-48014" title="假装 Windows 升级界面｜还有 macOS、Android、iOS 升级界面... 13" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T171116.964.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T171116.964-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T171116.964-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T171116.964-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>对了，另外还有 macOS、Android、iOS 升级界面，以及 SteamOS、勒索病毒 界面&#8230;</p>
+
+
+
+<p>也是真够无聊的。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25b0%258f%25e8%25a7%2586%25e9%25a2%2591">小视频</h2>
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?aid=1052376501&#038;bvid=BV1HH4y1H73P&#038;cid=1483841481&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+
+
+<p>可能没啥用，一不小心就露馅了。</p>
+
+
+
+<p>但是那个蓝屏很赞啊，吓唬下小朋友还是没问题的，嗯。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://fakeupdate.net/?utm_source=appinn.com" target="_blank" rel="noopener">官网</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/fakeupdate/</p>
+<hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/fakeupdate/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48013" data-ulike-factor="up"
+            data-ulike-nonce="340914ae1e" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48013 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48013" data-ulike-factor="down"
+            data-ulike-nonce="340914ae1e" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48013 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/fakeupdate/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/fakeupdate/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chrome 将在本周推出兼容 Arm 处理器的 Windows 版本</title>
+		<link>https://www.appinn.com/chrome-arm-version-for-snapdragon-x-elite/</link>
+					<comments>https://www.appinn.com/chrome-arm-version-for-snapdragon-x-elite/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 07:57:39 +0000</pubDate>
+				<category><![CDATA[业界消息]]></category>
+		<category><![CDATA[arm]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[高通]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47998</guid>
+
+					<description><![CDATA[在今天早上 Chrome 的产品博客中提到：他们针对搭载高通骁龙（Snapdragon）处理器的 Windows PC 电脑推出了一个优化版本的 Chrome ，这可以使浏览网页的操作更快、更流畅。将 ]]></description>
+										<content:encoded><![CDATA[
+<p>在今天早上 Chrome 的<a href="https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/" target="_blank" rel="noopener">产品博客</a>中提到：他们针对搭载高通骁龙（Snapdragon）处理器的 Windows PC 电脑推出了一个优化版本的 Chrome ，这可以使浏览网页的操作更快、更流畅。将在本周提供下载。@Appinn</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T154423.012.jpg" alt="Chrome 将在本周推出兼容 Arm 处理器的 Windows 版本 12" class="wp-image-48011" title="Chrome 将在本周推出兼容 Arm 处理器的 Windows 版本 14" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T154423.012.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T154423.012-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T154423.012-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T154423.012-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>这是一个针对 Snapdragon X Elite 处理器的优化版本，并且可以在其他兼容 Arm 处理器的 Windows 电脑上运行。</p>
+
+
+
+<p>使用了正经 Windows 系统的 Arm 处理器电脑虽然不算完整，但比 ChromeBook 能干的事情要多很多了。</p>
+
+
+
+<p>但与苹果那边 M 系芯片的生态相比，还是弱了太多了。</p>
+
+
+
+<p>文章并未给出具体的时间，只是留下了 <a href="https://www.google.com/chrome/" target="_blank" rel="noopener">Chrome 官网下载</a>地址。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>对了，有 Snapdragon X Elite 用户来举个手嘛</p>
+
+
+
+<p>虽然但是，Windows 就好好打游戏呗。</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/chrome-4-extensions-setup/" rel="bookmark" title="Permanent Link: Chrome 4.0，用扩展武装它">Chrome 4.0，用扩展武装它</a></li><li><a href="https://www.appinn.com/parallels-desktop-16-5-surpport-apple-m1/" rel="bookmark" title="Permanent Link: Parallels Desktop 16.5 for Mac 正式发布，原生支持 M1 和 Intel 芯片，在 Mac 上以原生速度运行 Windows 10，限时 9 折优惠">Parallels Desktop 16.5 for Mac 正式发布，原生支持 M1 和 Intel 芯片，在 Mac 上以原生速度运行 Windows 10，限时 9 折优惠</a></li><li><a href="https://www.appinn.com/new-tab-reloaded-for-chrome/" rel="bookmark" title="Permanent Link: New Tab Reloaded &#8211; 找回最熟悉的 Chrome 新标签页">New Tab Reloaded &#8211; 找回最熟悉的 Chrome 新标签页</a></li><li><a href="https://www.appinn.com/chrome-87-released/" rel="bookmark" title="Permanent Link: Chrome 87 发布，2020 年最后一个版本，启动速度提高 25%">Chrome 87 发布，2020 年最后一个版本，启动速度提高 25%</a></li><li><a href="https://www.appinn.com/supertabs-for-chrome/" rel="bookmark" title="Permanent Link: 打开了超多的 Chrome 标签页，看不到标题怎么办？">打开了超多的 Chrome 标签页，看不到标题怎么办？</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/chrome-arm-version-for-snapdragon-x-elite/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47998" data-ulike-factor="up"
+            data-ulike-nonce="4885604d6a" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47998 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47998" data-ulike-factor="down"
+            data-ulike-nonce="4885604d6a" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47998 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/chrome-arm-version-for-snapdragon-x-elite/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/chrome-arm-version-for-snapdragon-x-elite/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>小萌GIF &#8211; 免费、开源，将视频转换为 GIF[Android]</title>
+		<link>https://www.appinn.com/cutegif-for-android/</link>
+					<comments>https://www.appinn.com/cutegif-for-android/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 09:02:20 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[GIF]]></category>
+		<category><![CDATA[格式转换]]></category>
+		<category><![CDATA[视频转换]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47995</guid>
+
+					<description><![CDATA[小萌GIF 是一款免费、开源的 Android 应用，它可以将视频转换为 GIF，并且支持剪裁、变速、加文字，以及还能从 GIF 里抽帧保存为图片，将 GIF 转换为视频，将小米、三星的动态照片转换为 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>小萌GIF</strong> 是一款免费、开源的 Android 应用，它可以将视频转换为 GIF，并且支持剪裁、变速、加文字，以及还能从 GIF 里抽帧保存为图片，将 GIF 转换为视频，将<strong>小米</strong>、<strong>三星</strong>的动态照片转换为高清 GIF。@<a href="https://www.appinn.com/cutegif-for-android/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-26T162549.378.jpg" alt="小萌GIF - 免费、开源，将视频转换为 GIF[Android]" class="wp-image-47996" title="小萌GIF - 免费、开源，将视频转换为 GIF[Android] 15" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-26T162549.378.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-26T162549.378-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-26T162549.378-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-26T162549.378-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @tasy5kg 自荐：<a href="https://meta.appinn.net/t/topic/53977" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/53977</a></p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25b0%258f%25e8%2590%258cgif%25e7%25ae%2580%25e6%25b4%2581%25e5%25a5%25bd%25e7%2594%25a8%25e7%259a%2584%25e8%25a7%2586%25e9%25a2%2591%25e8%25bd%25acgif%25e8%25bd%25af%25e4%25bb%25b6">小萌GIF：简洁好用的视频转GIF软件</h2>
+
+
+<p>小萌GIF 是一款简洁好用的 Android 端视频转 GIF 软件。软件免费、开源、无广告、不联网，不需要任何权限，也不收集任何隐私。</p>
+
+
+
+<p><strong>开发者</strong>：光光可爱小仙女，源码以 <strong>GPL-3.0</strong> 许可开源</p>
+
+
+
+<p>视频转 GIF 时，只需点滑几下，即可对视频进行<strong>剪辑、裁剪、倍速和加字</strong>操作。支持将小米、三星等 Android 设备拍摄的<strong>动态照片转换成高清 GIF</strong>。还可对动态照片画面开启<strong>防抖</strong>功能，一键减轻画面抖动。</p>
+
+
+
+<p>导出 GIF 时，可以随心调节<strong>画质、帧率</strong>等参数，支持<strong>色度抠图</strong>功能，一键去除绿幕背景。大部分选项在导出前就能<strong>即时预览效果</strong>，无需反复导出。</p>
+
+
+<h3 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h3>
+
+
+<p>安装包以及源码可在 <a href="https://github.com/tasy5kg/CuteGIF/releases/latest" target="_blank" rel="noopener">GitHub Releases</a> 下载，如果不方便访问 GitHub，也可关注小仙女的微信公众号<a href="https://mp.weixin.qq.com/s/XEmbc67zx8858shc6oRaQg" target="_blank" rel="noopener">光光可爱小仙女</a>，点击聊天框底部的<code>小萌GIF</code>菜单，即可收到安装包下载链接。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>那个，青小蛙也不确定小仙女性别啊，你们矜持点。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%25a7%2586%25e9%25a2%2591">视频</h2>
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?aid=1602350044&#038;bvid=BV1Vm421n7CL&#038;cid=1482696746&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+
+
+<ul>
+<li>搬运：<a href="https://pan.quark.cn/s/78d4be0cb7fc" target="_blank" rel="noopener">https://pan.quark.cn/s/78d4be0cb7fc</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/cutegif-for-android/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/android-security-6-tips-and-tricks-to-protect-you-and-your-employees/" rel="bookmark" title="Permanent Link: Android 安全性：6 個提示和技巧來保護您和您的員工">Android 安全性：6 個提示和技巧來保護您和您的員工</a></li><li><a href="https://www.appinn.com/41-cats-games/" rel="bookmark" title="Permanent Link: 一次玩个够，43 款喵星人游戏">一次玩个够，43 款喵星人游戏</a></li><li><a href="https://www.appinn.com/10-addons-android-firefox/" rel="bookmark" title="Permanent Link: 10 款有用的 Android 版本 Firefox 扩展">10 款有用的 Android 版本 Firefox 扩展</a></li><li><a href="https://www.appinn.com/lizhi-23618/" rel="bookmark" title="Permanent Link: 618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价">618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价</a></li><li><a href="https://www.appinn.com/android-12-dp-1-download/" rel="bookmark" title="Permanent Link: Android 12 第一个开发者预览版已经可以下载了，支持 Pixel 3 以上设备">Android 12 第一个开发者预览版已经可以下载了，支持 Pixel 3 以上设备</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/cutegif-for-android/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47995" data-ulike-factor="up"
+            data-ulike-nonce="098342f79b" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47995 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47995" data-ulike-factor="down"
+            data-ulike-nonce="098342f79b" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47995 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/cutegif-for-android/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/cutegif-for-android/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PairDrop &#8211; 开源跨设备文件传输工具，替代 SnapDrop[在线工具]</title>
+		<link>https://www.appinn.com/pairdrop/</link>
+					<comments>https://www.appinn.com/pairdrop/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 09:20:27 +0000</pubDate>
+				<category><![CDATA[在线应用]]></category>
+		<category><![CDATA[Snapdrop]]></category>
+		<category><![CDATA[文件传输]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47991</guid>
+
+					<description><![CDATA[PairDrop 是一款开源的跨设备文件传输工具，非常适合在陌生设备之间使用浏览器传输文件，无需安装任何应用，即开即用。用来替代不再更新的 SnapDrop。@Appinn 说起来，青小蛙使用 Sna ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>PairDrop</strong> 是一款开源的跨设备文件传输工具，非常适合在陌生设备之间使用浏览器传输文件，无需安装任何应用，即开即用。用来替代不再更新的 <a href="https://www.appinn.com/snapdrop-for-web/">SnapDrop</a>。@<a href="https://www.appinn.com/pairdrop/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-25T170413.320.jpg" alt="PairDrop - 开源跨设备文件传输工具，替代 SnapDrop[在线工具]" class="wp-image-47992" title="PairDrop - 开源跨设备文件传输工具，替代 SnapDrop[在线工具] 16" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-25T170413.320.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-25T170413.320-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-25T170413.320-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-25T170413.320-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>说起来，青小蛙使用 SnapDrop 已经很多年了，一直是首选工具。但近年来连接成功率越来越低，有时候要等很久，就很烦。</p>
+
+
+
+<p>于是找到了这个基于 SnapDrop 二次开发的工具 PairDrop，它同样开源、可以自己部署，并且多了设备配对、临时房间两个功能，同样的，基于 PWA 可以离线使用，支持 CLI 命令行方式使用。有第三方工具：Android 客户端和 Firefox 扩展。</p>
+
+
+<h2 class="wp-block-heading" id="pairdrop-%25e6%259c%2580%25e7%25ae%2580%25e5%258d%2595%25e7%259a%2584%25e8%25b7%25a8%25e8%25ae%25be%25e5%25a4%2587%25e4%25bc%25a0%25e8%25be%2593%25e6%2596%25b9%25e6%25a1%2588">PairDrop &#8211; 最简单的跨设备传输方案</h2>
+
+
+<p><em>浏览器中的本地文件共享。灵感来自苹果的 AirDrop，fork 自 Snapdrop。</em></p>
+
+
+
+<p>总的来说，PairDrop 是一个类似于苹果 AirDrop 的跨平台文件共享解决方案，使用本地网络进行连接。它能够在连接到同一本地网络的设备之间分享各种类型的文件，包括图片、文档和文本。</p>
+
+
+
+<p>另外，还可以通过临时公共房间进行互联网传输。该解决方案通过 Web 应用程序操作，并且与所有配备有现代Web浏览器的设备兼容。</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%25ae%2589%25e5%2585%25a8%25e6%2580%25a7">安全性</h3>
+
+
+<p>它使用 WebRTC 点对点连接，WebRTC 需要一个仅用于建立连接的信令服务器，服务器不参与文件传输。如果设备位于同一网络上，则任何文件都不会发送到任何服务器。</p>
+
+
+
+<p>当进行互联网传输时（用户位于 NAT 后面（路由器后面）时），内容通过通道发送，只能由接收者解密。并且，就算 PairDrop 服务器不可靠，也只能看到有连接，但看不到发送的内容。</p>
+
+
+
+<p>以及，自己部署时可选择是否开启互联网传输功能，如果你仅需要局域网，不开最好，最安全。</p>
+
+
+
+<p>配对功能可以做到数据持久化，并且是可被发现的。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://pairdrop.net/" target="_blank" rel="noopener">官网实例</a></li>
+
+
+
+<li><a href="https://github.com/schlagmichdoch/pairdrop" target="_blank" rel="noopener">GitHub</a></li>
+</ul>
+
+
+
+<p>支持 Docker 部署，最近一次更新在1个月左右，推荐用 PairDrop 替代 SnapDrop。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/pairdrop/</p>
+
+
+
+<p>对于经常在局域网内传输文件情况，推荐使用：</p>
+
+
+
+<ul>
+<li><a href="https://www.appinn.com/localsend/" data-type="post" data-id="44457">LocalSend – 无联网，开源跨平台的局域网文件互传工具[2023年的第一个精选]</a></li>
+</ul>
+<hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/pairdrop/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47991" data-ulike-factor="up"
+            data-ulike-nonce="b9ed8371cb" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47991 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47991" data-ulike-factor="down"
+            data-ulike-nonce="b9ed8371cb" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47991 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/pairdrop/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/pairdrop/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>多邻国上线 DIY 虚拟头像制作功能：捏脸</title>
+		<link>https://www.appinn.com/duolingo-create-avatar/</link>
+					<comments>https://www.appinn.com/duolingo-create-avatar/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 13:04:39 +0000</pubDate>
+				<category><![CDATA[业界消息]]></category>
+		<category><![CDATA[多邻国]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47985</guid>
+
+					<description><![CDATA[这个宇宙最喜欢催用户学习的应用多邻国昨天上线了一个新功能：DIY 头像制作，再也不用对着彩底字母或文字画风的单调头像了。@Appinn 来自多邻国公众号的消息：多邻国「捏脸」功能上线！快来DIY专属头 ]]></description>
+										<content:encoded><![CDATA[
+<p>这个宇宙最喜欢催用户学习的应用<strong>多邻国</strong>昨天上线了一个新功能：DIY 头像制作，再也不用对着彩底字母或文字画风的单调头像了。@Appinn</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-24T210251.738.jpg" alt="多邻国上线 DIY 虚拟头像制作功能：捏脸" class="wp-image-47989" title="多邻国上线 DIY 虚拟头像制作功能：捏脸 17" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-24T210251.738.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-24T210251.738-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-24T210251.738-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-24T210251.738-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://mp.weixin.qq.com/s/aZOZnCybSZdvUKjxDwaE3g" target="_blank" rel="noopener">多邻国公众号</a>的消息：多邻国「捏脸」功能上线！快来DIY专属头像吧</p>
+
+
+
+<p>你可以在<strong>头像</strong> > <strong>个人档案</strong>页面看到现有的头像（如果你之前还没玩过「捏脸」，那么将会看到这样一个空白头像。</p>
+
+
+<h2 class="wp-block-heading" id="%25e6%258d%258f%25e8%2584%25b8%25e6%2580%258e%25e4%25b9%2588%25e7%258e%25a9"><strong>「捏脸」怎么玩</strong></h2>
+
+
+<p>点击头像，就进入捏脸界面：</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="719" height="1417" src="https://www.appinn.com/wp-content/uploads/2024/03/640-1.webp" alt="多邻国上线 DIY 虚拟头像制作功能：捏脸 13" class="wp-image-47987" style="width:333px;height:auto" title="多邻国上线 DIY 虚拟头像制作功能：捏脸 18"></figure>
+
+
+
+<p>在捏脸界面，你可以切换不同的选项卡，选择自己中意的肤色、身体、表情、发型、头饰、胡须、衣服颜色、背景色。每设置一个选项，头像区的预览形象都会实时变化为当前选择的样子。</p>
+
+
+
+<p>做好的头像有动画效果，比如眼睛。</p>
+
+
+
+<p>头像除了在个人档案页面显示以外，还会显示在排行榜和好友列表中。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1080" height="1080" src="https://www.appinn.com/wp-content/uploads/2024/03/640-2.webp" alt="多邻国上线 DIY 虚拟头像制作功能：捏脸 14" class="wp-image-47988" style="width:629px;height:auto" title="多邻国上线 DIY 虚拟头像制作功能：捏脸 19" srcset="https://www.appinn.com/wp-content/uploads/2024/03/640-2.webp 1080w, https://www.appinn.com/wp-content/uploads/2024/03/640-2-768x768.webp 768w, https://www.appinn.com/wp-content/uploads/2024/03/640-2-115x115.webp 115w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+
+
+
+<p><strong>「捏脸」英语怎么说？</strong></p>
+
+
+
+<p>最后，多儿给大家分享一点英语小知识。捏脸 (创建虚拟头像) 在英语里称为 <strong>create avatar</strong>这里的 avatar 就表示「虚拟头像」。这个词源自<strong>梵语 अवतार</strong> (avatāra)，原本表示「化身」。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>那个，你多久没打开多邻国了？ </p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/2023-duolingo-language-report/" rel="bookmark" title="Permanent Link: 多邻国：2023 全球语言学习趋势报告">多邻国：2023 全球语言学习趋势报告</a></li><li><a href="https://www.appinn.com/duolingo/" rel="bookmark" title="Permanent Link: 多邻国 &#8211; 在线英语学习课程[Web/iOS/Android/WP]">多邻国 &#8211; 在线英语学习课程[Web/iOS/Android/WP]</a></li><li><a href="https://www.appinn.com/tinycards-flashcards-by-duolingo/" rel="bookmark" title="Permanent Link: Tinycards &#8211; 来自「多邻国」的卡片学习应用[iPad/iPhone]">Tinycards &#8211; 来自「多邻国」的卡片学习应用[iPad/iPhone]</a></li><li><a href="https://www.appinn.com/shanghai-wechat-avatar/" rel="bookmark" title="Permanent Link: 魔都头像生成器 &#8211; 让团长一眼找到你，让你一眼发现团长">魔都头像生成器 &#8211; 让团长一眼找到你，让你一眼发现团长</a></li><li><a href="https://www.appinn.com/bing-images-create/" rel="bookmark" title="Permanent Link: 微软 Bing 图像创建者：想画什么图像，对它说就行">微软 Bing 图像创建者：想画什么图像，对它说就行</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/duolingo-create-avatar/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47985" data-ulike-factor="up"
+            data-ulike-nonce="83dae6219b" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47985 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47985" data-ulike-factor="down"
+            data-ulike-nonce="83dae6219b" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47985 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/duolingo-create-avatar/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/duolingo-create-avatar/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等 </title>
+		<link>https://www.appinn.com/how-to-log-daily-consumables-with-reminder/</link>
+					<comments>https://www.appinn.com/how-to-log-daily-consumables-with-reminder/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 12:04:05 +0000</pubDate>
+				<category><![CDATA[问答]]></category>
+		<category><![CDATA[日常]]></category>
+		<category><![CDATA[生活消耗品]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47982</guid>
+
+					<description><![CDATA[现在日常生活中需要定期更换的耗品越来越多：电动牙刷头、净水器滤芯、空气净化器滤芯等等，单靠人脑已经记不过来了，所以我想找一个大概是这样的工具（iOS或Android都行，最好是iOS）： 来自问题求助 ]]></description>
+										<content:encoded><![CDATA[
+<p>现在日常生活中需要定期更换的耗品越来越多：电动牙刷头、净水器滤芯、空气净化器滤芯等等，单靠人脑已经记不过来了，所以我想找一个大概是这样的工具（iOS或Android都行，最好是iOS）：</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/faq-5.jpg" alt="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等 " class="wp-image-47983" title="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  20" srcset="https://www.appinn.com/wp-content/uploads/2024/03/faq-5.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/faq-5-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/faq-5-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/faq-5-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/wen-ti-qiu-zhu/7" target="_blank" rel="noopener"><strong>问题求助频道</strong></a>：<a href="https://meta.appinn.net/t/topic/53527" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/53527</a></p>
+
+
+
+<ul>
+<li>设定好耗材需要更换的周期之后就可以在用户设定的时间（当天还是提前多久）提醒用户；</li>
+
+
+
+<li>有一个按钮（可以叫“我已更换”），当用户完成耗材更换之后点一下这个按钮工具就会自动开始下一轮周期计算，同时将更换信息记录，待查。</li>
+</ul>
+
+
+
+<p>之前用的一个APP名字叫“倒数日”，跟我的需求不太对得上，最大的一个问题就是：比如我的净水器滤芯今天到期，但是由于各种原因，我今天没顾得上更换，而且拖得时间比较久（一两个月），但是在APP里的情况是今天发出了提醒今天就算新换的滤芯已经开始工作、开始记录下一次循环了，这样的话我下次更换的滤芯可能寿命就少算了一两个月，如果这种情况重复发生几次之后就等于这种滤芯白白扔掉一个，很亏！</p>
+
+
+
+<p>题外话：父母家里用米家净水器，滤芯本体上写着滤芯更换周期请用户根据用水量和当地市政自来水水质决定，但是米家APP里确实单纯根据滤芯使用时长来提醒用户更换滤芯，不过米家APP却能记录用水量和进出水水质，也就是说要实现根据用户具体情况来提醒用户更换滤芯这件事在技术上是完全没有困难的，但是小米不做，为什么？还是不要深究的好？</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>这个问题，或者说这个类别，实际上小众软件也介绍过不少了：</p>
+
+
+
+<ul>
+<li><a href="https://www.appinn.com/shoushi-for-iphone/">收食 – 食物、药品过期提醒：只要你敢记录，就不怕错过有效期 [iPhone]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/tunfanfan-for-iphone/">囤饭饭，过家家：家庭应急食物与物资管理应用[iPhone]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/expify-you-qi-app/">有期 – 记录保质期、到期日，提醒食物、物品、证件、订阅、优惠券到期[iPhone/Android]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/ru-qi-er-zhi-for-iphone/">如期而至 – 记录并提醒食物、日用品、药品、优惠券等任何会过期的物品[iPhone]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/lazypig-timebox/">懒猪时间盒 – 时间提醒好助手，目标提醒、有效期提醒、纪念日提醒[iPhone/iPad]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/woaixinxian-wechatapp/">我爱新鲜 – 帮你记录食品、物品「保质期」[微信小程序]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/trendyapp-refrigerator/">我家的冰箱 – 记录冰箱里的物品与保质期，并在过期前提醒你[Android]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/best-before/">Best Before – 记录一切会过期的东西[iPhone]</a></li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="%25e4%25bd%2586%25e6%2598%25af%25e4%25bd%2586%25e6%2598%25af">但是但是 </h2>
+
+
+<p>有个不好的消息，就是这个品类的应用完全不赚钱，所以上面这些小众软件曾经介绍过的应用，很多都…下架了，找不见了 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>且用切珍惜</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%2588%25ab%25e8%25b5%25b0%25e5%2588%25ab%25e8%25b5%25b0%25e4%25b8%258a%25e6%25ac%25a1">别走别走：上次</h2>
+
+
+<p>除了有效期这种提醒类别，实际上小众软件还收录过另外一种类型的软件：<strong><a href="https://www.appinn.com/tag/%e4%b8%8a%e6%ac%a1/">上次</a></strong>。</p>
+
+
+
+<p>这是一类专门帮你记录上一次什么时候做这件事情的应用，比如：</p>
+
+
+<h3 class="wp-block-heading" id="xago-%25e4%25b8%258a%25e6%25ac%25a1%25e6%25b5%2587%25e8%258a%25b1%25e4%25b8%258a%25e6%25ac%25a1%25e4%25bd%2593%25e6%25a3%2580%25e4%25b8%258a%25e6%25ac%25a1%25e6%258d%25a2%25e6%25bb%25a4%25e8%258a%25af%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588%25e6%2597%25b6%25e5%2580%2599">XAgo – 上次浇花、上次体检、上次换滤芯，是什么时候？</h3>
+
+
+<ul>
+<li><a href="https://www.appinn.com/xago-app/">https://www.appinn.com/xago-app/</a></li>
+</ul>
+
+
+
+<p>这是青小蛙去年还在用的应用（真的好久没打开过了 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" />）</p>
+
+
+
+<p> 它能记录并追踪上次做这件事是什么时候的应用，支持 iPhone 与 Android，比如：上次清理油烟机、上次换滤芯、上次浇花、上次看牙医、上次换牙刷、上次体检等各种需要精确知道上一次做这件事具体时间的事情。XAgo 不但可以提醒你上一次，还能详细记录每一次的具体时间。</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://static1.appinn.com/images/202104/xago.jpg!o" alt="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  15" title="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  21"></figure>
+
+
+
+<p>唯一的问题，是他不带提醒功能，需要你自己去翻看，所以青小蛙也忘记继续用它了。</p>
+
+
+
+<p>另外它也好几年没更新了。</p>
+
+
+<h3 class="wp-block-heading" id="timejot-%25e6%2597%25b6%25e9%2597%25b4%25e7%25ba%25bf%25e7%25ae%25a1%25e7%2590%2586%25e7%25a5%259e%25e5%2599%25a8android">TimeJot – 时间线管理神器[Android]</h3>
+
+
+<p>这货在 2021 年介绍过：<a href="https://www.appinn.com/timejot-for-android/">https://www.appinn.com/timejot-for-android/</a></p>
+
+
+
+<p>我觉得非常符合题主的需求，可以记录，可以提醒，只有 Android。感觉有必要重新介绍一次，人家最近一次更新是本月初：</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://static1.appinn.com/images/202104/photo_2021-04-27_16-35-29-2.jpg!o" alt="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  16" title="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  22"></figure>
+
+
+<h3 class="wp-block-heading" id="becord-%25e8%25ae%25b0%25e5%25bd%2595%25e7%2594%259f%25e6%25b4%25bb%25e5%25a4%25a7%25e4%25ba%258b%25e5%25b0%258f%25e4%25ba%258b%25e6%2584%259f%25e5%2586%2592%25e7%2586%25ac%25e5%25a4%259c%25e9%2594%25bb%25e7%2582%25bc%25e7%259a%2584%25e9%25a2%2591%25e7%258e%2587%25e4%25b8%258e%25e8%25b6%258b%25e5%258a%25bfiphone">Becord – 记录生活大事小事：感冒、熬夜、锻炼的频率与趋势[iPhone]</h3>
+
+
+<ul>
+<li><a href="https://www.appinn.com/becord-for-iphone/">https://www.appinn.com/becord-for-iphone/</a></li>
+</ul>
+
+
+
+<p>Becord 是一款用来记录生活中大事小事的 iPhone 应用，相较于其他 #上次 应用，它为每件事生成了「活跃图」，能够一眼就看出这些事情的发生频率、趋势，仅 2.9MB 大小。</p>
+
+
+
+<p>这个也好用，也在更新，也有提醒功能：</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://static1.appinn.com/images/202204/becord.jpg!o" alt="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  17" title="想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等  23"></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>还有，一些可能有用的应用：</p>
+
+
+
+<ul>
+<li><a href="https://www.appinn.com/jicilang-app/" data-type="post" data-id="40753">计次郎 – 记录次数：游泳课、份子钱、理发、摸鱼、旅行…[Android/iPhone]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/xiaowupin-for-ios/">小物品 – 只记录一件事：你有什么？[iPhone/iPad]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/shoushi-for-iphone/">收食 – 食物、药品过期提醒：只要你敢记录，就不怕错过有效期[iPhone]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/expiry-date-checker/">Expiry Date Checker – 与系统日历联动，过期物品提醒工具[iPhone]</a></li>
+
+
+
+<li><a href="https://www.appinn.com/when-the-last-time-for-iphone/">When The Last Time – 我上次做这事情是什么时候？我有多久没有处理这件事情呢？</a></li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="%25e9%25a2%2598%25e5%25a4%2596%25e8%25af%259d%25e8%25af%25b7%25e9%259d%2592%25e5%25b0%258f%25e8%259b%2599%25e5%2596%259d%25e6%259d%25af%25e5%2592%2596%25e5%2595%25a1">题外话：请青小蛙喝杯咖啡</h2>
+
+
+<p>提到咖啡，如果有愿意请青小蛙喝杯咖啡的，可以前往爱发电，先行感谢：<a href="https://afdian.net/a/qingxwa" target="_blank" rel="noreferrer noopener">https://afdian.net/a/qingxwa</a></p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/missed-call-reminder-for-android/" rel="bookmark" title="Permanent Link: Missed call reminder &#8211; 含有情景模式的重复提醒应用[Android]">Missed call reminder &#8211; 含有情景模式的重复提醒应用[Android]</a></li><li><a href="https://www.appinn.com/my-daily-wallpaper/" rel="bookmark" title="Permanent Link: My Daily Wallpaper &#8211; 超过60万张壁纸每日自动更新">My Daily Wallpaper &#8211; 超过60万张壁纸每日自动更新</a></li><li><a href="https://www.appinn.com/daily-wallpaper-with-bing-for-android/" rel="bookmark" title="Permanent Link: Daily Wallpaper with Bing &#8211; 必应壁纸更换[Android]">Daily Wallpaper with Bing &#8211; 必应壁纸更换[Android]</a></li><li><a href="https://www.appinn.com/how-to-get-new-ip-address-in-windows/" rel="bookmark" title="Permanent Link: 怎么获取家中最新的公网 IP [Windows]">怎么获取家中最新的公网 IP [Windows]</a></li><li><a href="https://www.appinn.com/yellow-reminder/" rel="bookmark" title="Permanent Link: Yellow Reminder &#8211; 黄色提醒者">Yellow Reminder &#8211; 黄色提醒者</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/how-to-log-daily-consumables-with-reminder/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47982" data-ulike-factor="up"
+            data-ulike-nonce="e0251dce2f" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47982 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47982" data-ulike-factor="down"
+            data-ulike-nonce="e0251dce2f" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47982 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/how-to-log-daily-consumables-with-reminder/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/how-to-log-daily-consumables-with-reminder/feed/</wfw:commentRss>
+			<slash:comments>15</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>豆瓣+图书馆查询助手：从豆瓣读书查询「真图书馆」馆藏信息[Chrome/Firefox]</title>
+		<link>https://www.appinn.com/douban-library-search-assistant/</link>
+					<comments>https://www.appinn.com/douban-library-search-assistant/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sat, 23 Mar 2024 03:35:00 +0000</pubDate>
+				<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[图书馆]]></category>
+		<category><![CDATA[学习]]></category>
+		<category><![CDATA[线下]]></category>
+		<category><![CDATA[读书]]></category>
+		<category><![CDATA[豆瓣]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47979</guid>
+
+					<description><![CDATA[豆瓣+图书馆查询助手是一款浏览器扩展，支持 Chrome、Edge、Firefox，它可以帮你在访问豆瓣图书的时候，顺带显示线下真图书馆的藏书情况，比如所在馆、编码、可借数量等信息，让你能通过最传统的 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>豆瓣+图书馆查询助手</strong>是一款浏览器扩展，支持 Chrome、Edge、Firefox，它可以帮你在访问豆瓣图书的时候，顺带显示线下真图书馆的藏书情况，比如所在馆、编码、可借数量等信息，让你能通过最传统的方式，获得书籍，获得知识。目前已支持 34 个城市的图书馆。@<a href="https://www.appinn.com/douban-library-search-assistant/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T212451.111.jpg" alt="豆瓣+图书馆查询助手：从豆瓣读书查询「真图书馆」馆藏信息[Chrome/Firefox]" class="wp-image-47980" title="豆瓣+图书馆查询助手：从豆瓣读书查询「真图书馆」馆藏信息[Chrome/Firefox] 24" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T212451.111.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T212451.111-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T212451.111-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T212451.111-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @LiShu_Wu 同学自荐：<a href="https://meta.appinn.net/t/topic/54108" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/54108</a></p>
+
+
+
+<p>此插件是浏览器插件，目前支持chrome,firefox 。让用户在浏览豆瓣网站时，轻松查看图书馆的藏书情况。 它提供了图书所在馆、编码、可借数量等信息， 让用户更便捷地找到需要的图书资源。省去了单独查询图书馆的步骤，让图书查询变得更高效便捷。</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://meta-cdn1.appinn.com/uploads/default/optimized/3X/6/f/6f894e0a4e6e5a883366416b9816be5f49cd4dc9_2_1380x734.jpeg" alt="豆瓣+图书馆查询助手：从豆瓣读书查询「真图书馆」馆藏信息[Chrome/Firefox] 18" style="width:840px;height:auto" title="豆瓣+图书馆查询助手：从豆瓣读书查询「真图书馆」馆藏信息[Chrome/Firefox] 25"></figure>
+
+
+<h2 class="wp-block-heading" id="%25e6%2594%25af%25e6%258c%2581%25e7%259a%2584%25e5%259b%25be%25e4%25b9%25a6%25e9%25a6%2586">支持的图书馆</h2>
+
+
+<ul>
+<li>黑龙江省图书馆</li>
+
+
+
+<li>天津市图书馆</li>
+
+
+
+<li>湖南省图书馆</li>
+
+
+
+<li>辽宁省图书馆</li>
+
+
+
+<li>浙江省图书馆</li>
+
+
+
+<li>安徽省图书馆</li>
+
+
+
+<li>福建省图书馆</li>
+
+
+
+<li>湖北省图书馆</li>
+
+
+
+<li>江西省图书馆</li>
+
+
+
+<li>山西省图书馆</li>
+
+
+
+<li>贵州省图书馆</li>
+
+
+
+<li>成都市图书馆</li>
+
+
+
+<li>广西省图书馆</li>
+
+
+
+<li>济南市图书馆</li>
+
+
+
+<li>青岛市图书馆</li>
+
+
+
+<li>杭州市图书馆</li>
+
+
+
+<li>株洲市图书馆</li>
+
+
+
+<li>厦门市图书馆</li>
+
+
+
+<li>赤峰市图书馆</li>
+
+
+
+<li>广州市图书馆</li>
+
+
+
+<li>鞍山市图书馆</li>
+
+
+
+<li>武汉市图书馆</li>
+
+
+
+<li>铁岭市图书馆</li>
+
+
+
+<li>鄂州市图书馆</li>
+
+
+
+<li>绍兴市图书馆</li>
+
+
+
+<li>百色市图书馆</li>
+
+
+
+<li>珠海市图书馆</li>
+
+
+
+<li>张家港市图书馆</li>
+
+
+
+<li>长沙市图书馆</li>
+
+
+
+<li>晋城市图书馆</li>
+
+
+
+<li>中山市图书馆</li>
+
+
+
+<li>温州市图书馆</li>
+
+
+
+<li>莆田市图书馆</li>
+
+
+
+<li>江阴市图书馆</li>
+
+
+
+<li>东莞市图书馆</li>
+
+
+
+<li>柳州市图书馆</li>
+
+
+
+<li>深圳市图书馆</li>
+
+
+
+<li>上海浦东图书馆</li>
+
+
+
+<li>福泉市图书馆</li>
+
+
+
+<li>来宾市图书馆</li>
+</ul>
+
+
+
+<p>如果你住在这些图书馆附近，那么办一张卡去借书是一件非常有趣的事情。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://navy81.com/" target="_blank" rel="noopener">官网</a>（开发者提供本地下载）</li>
+
+
+
+<li><a href="https://chromewebstore.google.com/detail/%E8%B1%86%E7%93%A3+%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9F%A5%E8%AF%A2%E5%8A%A9%E6%89%8B/ikdabfmbodafpkjkhbookfbimcjgkdnl" target="_blank" rel="noopener">Chrome 商店</a></li>
+
+
+
+<li><a href="https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E7%93%A3-%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9F%A5%E8%AF%A2%E5%8A%A9%E6%89%8B/?utm_source=www.appinn.com&amp;utm_medium=referral&amp;utm_content=post">Firefox 商店</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/douban-library-search-assistant/</p>
+
+
+
+<p>问题来了，你上次进图书馆是什么时候？青小蛙上次去是&#8230;去办卡 <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/bookmarklet/" rel="bookmark" title="Permanent Link: Bookmarklet &#8211; 小书签，实用浏览器小工具补完">Bookmarklet &#8211; 小书签，实用浏览器小工具补完</a></li><li><a href="https://www.appinn.com/douban-book-plus/" rel="bookmark" title="Permanent Link: Douban Book+ &#8211; 为豆瓣读书页面添加微信读书、Kindle、多看、蜗牛等在线资源链接">Douban Book+ &#8211; 为豆瓣读书页面添加微信读书、Kindle、多看、蜗牛等在线资源链接</a></li><li><a href="https://www.appinn.com/zlib-finder/" rel="bookmark" title="Permanent Link: Z-Library 发布 Chrome、Firefox 浏览器扩展 Z-Library Finder，防失联、防走失神器">Z-Library 发布 Chrome、Firefox 浏览器扩展 Z-Library Finder，防失联、防走失神器</a></li><li><a href="https://www.appinn.com/z-points/" rel="bookmark" title="Permanent Link: Z-Library 又搞事情：Z-Points &#8211; 提供纸质书籍分享，中国5个点">Z-Library 又搞事情：Z-Points &#8211; 提供纸质书籍分享，中国5个点</a></li><li><a href="https://www.appinn.com/aomei-partition-assistant-pro/" rel="bookmark" title="Permanent Link: AOMEI Partition Assistant Pro 限免：傲梅分区助手国际版｜区别不大，可以不领。">AOMEI Partition Assistant Pro 限免：傲梅分区助手国际版｜区别不大，可以不领。</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/douban-library-search-assistant/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47979" data-ulike-factor="up"
+            data-ulike-nonce="fe34c1612d" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47979 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47979" data-ulike-factor="down"
+            data-ulike-nonce="fe34c1612d" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47979 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/douban-library-search-assistant/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/douban-library-search-assistant/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI影片處理工具 VideoProc 限時免費 &#124; 62% 折扣（立即購買並永久保留）</title>
+		<link>https://www.appinn.com/videoproc-ai-62off/</link>
+					<comments>https://www.appinn.com/videoproc-ai-62off/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 09:13:50 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[视频]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=47969</guid>
+
+					<description><![CDATA[請注意，所有內容創作者、影片愛好者以及所有需要處理圖片和影片的人員，VideoProc Converter AI為您奉上复活节提供了超值優惠！立即購買，永久保留，只需 29.95 美元，即可擁有價值  ]]></description>
+										<content:encoded><![CDATA[
+<p>請注意，所有內容創作者、影片愛好者以及所有需要處理圖片和影片的人員，VideoProc Converter AI為您奉上复活节提供了超值優惠！立即購買，永久保留，只需 29.95 美元，即可擁有價值 78.90 美元的終身授權。此外，限時免費提供視訊轉換與下載軟體，請把握機會！</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211.jpg" alt="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 19" class="wp-image-47970" title="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 26" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e4%25b8%2580%25e7%25ab%2599%25e5%25bc%258f%25e8%25a6%2596%25e8%25a8%258a%25e8%2599%2595%25e7%2590%2586%25e5%25b7%25a5%25e5%2585%25b7"><strong>一站式視訊處理工具</strong></h2>
+
+
+<p><strong><a href="https://www.videoproc.com/zh/video-converting-software/?ttref=w1bd-ocy2403-appi" target="_blank" rel="noopener">VideoProc Converter AI</a> </strong>是一款功能強大、多功能的視訊轉換軟體，提供廣泛的功能。無論您是要轉換視訊、音訊還是DVD，它均支援所有流行格式，包括MP4、MOV、AVI、MKV、MP3、AAC、FLAC等。此外，它還能兼容各種設備，包括智慧型手機、平板電腦、電腦和電視等。</p>
+
+
+<h3 class="wp-block-heading" id="4k-%25e5%2592%258c-8k-%25e5%25bd%25b1%25e7%2589%2587%25e8%25bd%2589%25e6%258f%259b%25e7%259a%2584%25e4%25bd%25bc%25e4%25bd%25bc%25e8%2580%2585">4K 和 8K 影片轉換的佼佼者</h3>
+
+
+<p>除了一般功能外，VideoProc Converter AI最大的特色在於將影片轉換為 4K 和 8K 分辨率，並通過GPU加速，大幅縮短處理時間，即使在老舊設備上也能輕鬆運行。此外，也全面支援Apple的M-Chip Mac。</p>
+
+
+
+<p>對於那些渴望在 YouTube、Netflix 或 Amazon Prime Video 等串流平台上分享自己創作的人來說，VideoProc Converter 還提供專用的轉換功能。 此功能允許對影片進行最佳格式化，確保線上串流時的兼容性和最佳品質。</p>
+
+
+
+<p><strong><a href="https://www.videoproc.com/giveaway/index-zh.htm?ttref=w1bd-ocy2403-appi" target="_blank" rel="noopener">復活節限免活動點擊獲取>></a></strong></p>
+
+
+<h2 class="wp-block-heading" id="%25e5%2585%258d%25e8%25b2%25bb%25e7%259a%2584%25e7%25b6%25b2%25e8%25b7%25af%25e5%25bd%25b1%25e7%2589%2587%25e4%25b8%258b%25e8%25bc%2589%25e5%2599%25a8"><strong>免費的網路影片下載器</strong></h2>
+
+
+<p>除了視訊轉換功能外，它還包括一個可以輕鬆從 1,000 多個網站（包括 YouTube、Facebook、Instagram 或 SoundCloud）下載音樂、影片和播放清單的工具。 載入的影片可以轉換為 mp4、mp3 或 iPhone 相容的格式等。 除此之外，還有螢幕錄製功能，具有三種錄製模式、可變更的視窗大小和附加工具。</p>
+
+
+<h2 class="wp-block-heading" id="ai%25e5%25b7%25a5%25e5%2585%25b7%25e7%259b%25ae%25e5%2589%258d%25e5%2583%2585%25e5%259c%25a8windows%25e7%2589%2588%25e6%259c%25ac%25e4%25b8%25ad%25e5%258f%25af%25e7%2594%25a8"><strong>AI工具目前僅在Windows版本中可用</strong></h2>
+
+
+<p>雖然令人遺憾，但目前只有 Windows 版本支援基於人工智慧的工具。 不過，Mac 版本的 AI 功能正在開發中，並將在未來的更新中提供。 如果您現在購買Mac版本，您將在後續更新中免費獲得AI工具。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="777" height="535" src="https://www.appinn.com/wp-content/uploads/2024/03/image2-2.jpg" alt="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 20" class="wp-image-47971" title="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 27" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image2-2.jpg 777w, https://www.appinn.com/wp-content/uploads/2024/03/image2-2-768x529.jpg 768w" sizes="(max-width: 777px) 100vw, 777px" /></figure>
+
+
+<h3 class="wp-block-heading" id="ai-%25e8%25b6%2585%25e8%25a7%25a3%25e6%259e%2590%25e5%25ba%25a6">AI 超解析度：</h3>
+
+
+<p>透過先進的 AI 模型將直播和動畫影片、復古照片、AI 生成的藝術作品和低解析度影像升級到令人驚嘆的 4K/8K 分辨率，從而提高它們的品質。 借助此功能，您可以將影片品質提高到 4K，以便在更大的螢幕上以非凡的清晰度進行編輯、儲存或播放。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211.jpg" alt="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 19" class="wp-image-47970" title="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 26" srcset="https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T105727.211-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h3 class="wp-block-heading" id="ai%25e5%25b9%2580%25e6%258f%2592%25e5%2580%25bc">AI幀插值：</h3>
+
+
+<p>高幀率拍攝設備可能很昂貴，您可以使用VideoProc Converter AI將幀率從24/30/60FPS提高到120/240/300/480FPS等。 創造電影慢動作效果，沒有任何不需要的偽影。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1280" height="720" src="https://www.appinn.com/wp-content/uploads/2024/03/image4-2.jpg" alt="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 22" class="wp-image-47972" style="width:803px;height:auto" title="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 29" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image4-2.jpg 1280w, https://www.appinn.com/wp-content/uploads/2024/03/image4-2-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+<h3 class="wp-block-heading" id="ai-%25e7%25a9%25a9%25e5%25ae%259a">AI 穩定：</h3>
+
+
+<p>錄製穩定、無抖動的影片可能是一項挑戰，尤其是在使用 GoPro、手機、無人機或手持相機等裝置時。 VideoProc Converter AI 可輕鬆消除使用 GoPro、手機、無人機或手持相機錄製的鏡頭中的視訊震動。 對裁剪、調整和快速處理進行精確控制。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="1280" height="720" src="https://www.appinn.com/wp-content/uploads/2024/03/image3-1.jpg" alt="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 23" class="wp-image-47973" style="width:803px;height:auto" title="AI影片處理工具 VideoProc 限時免費 | 62% 折扣（立即購買並永久保留） 30" srcset="https://www.appinn.com/wp-content/uploads/2024/03/image3-1.jpg 1280w, https://www.appinn.com/wp-content/uploads/2024/03/image3-1-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e5%25a4%258d%25e6%25b4%25bb%25e7%25af%2580%25e7%2589%25b9%25e6%2583%25a062%25e6%258a%2598%25e6%2589%25a3">【复活節特惠】62%折扣！</h2>
+
+
+<p><strong><a href="https://www.videoproc.com/event/holiday-offer-zh.htm?ttref=w1bd-ocy2403-appi" target="_blank" rel="noopener">VideoProc Converter AI 的复活节優惠</a></strong>將終身授權的價格從 79.95美元降至29.95美元。 除了龐大的折扣外，您還可以無限制地使用所有功能，以及終身免費更新新版本和功能。</p>
+
+
+
+<p>此外，在產品的整個生命週期內，免費提供技術支援。 30 天退款保證增強了購買安全性。</p>
+
+
+
+<p>如果您正在尋找功能強大、價格實惠的視訊轉換和處理工具，VideoProc Converter AI絕對是您的不二之選。立即把握<strong><a href="https://www.videoproc.com/event/holiday-offer-zh.htm?ttref=w1bd-ocy2403-appi" target="_blank" rel="noopener">复活節特惠，節省62%費用</a></strong>，體驗這款多功能、易用的工具帶來的便利！</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/videoproc-2022/" rel="bookmark" title="Permanent Link: VideoProc 限免：一站式视频处理工具：支持 GPU 加速，视频下载、视频编辑、格式转换、录屏等[Win/macOS]">VideoProc 限免：一站式视频处理工具：支持 GPU 加速，视频下载、视频编辑、格式转换、录屏等[Win/macOS]</a></li><li><a href="https://www.appinn.com/videoproc/" rel="bookmark" title="Permanent Link: 价值 59.95 美元，集在线视频下载、视频编辑与格式转换于一体的工具 VideoProc 限免">价值 59.95 美元，集在线视频下载、视频编辑与格式转换于一体的工具 VideoProc 限免</a></li><li><a href="https://www.appinn.com/videoproc-converter/" rel="bookmark" title="Permanent Link: 支持GPU加速的视频转换和下载神器 黑五限时免费中 | 更有聚划算的AI升级优惠">支持GPU加速的视频转换和下载神器 黑五限时免费中 | 更有聚划算的AI升级优惠</a></li><li><a href="https://www.appinn.com/medlexo/" rel="bookmark" title="Permanent Link: 魔力玄(Medlexo) &#8211; 只有 3MB 的 FFmpeg 图形界面工具：视频格式转换、.ts 视频合并、音视频合并、视频压缩、提取音轨[Windows]">魔力玄(Medlexo) &#8211; 只有 3MB 的 FFmpeg 图形界面工具：视频格式转换、.ts 视频合并、音视频合并、视频压缩、提取音轨[Windows]</a></li><li><a href="https://www.appinn.com/bundlehunt-2023-black-friday/" rel="bookmark" title="Permanent Link: Bundlehunt 2023年 macOS 软件黑五捆绑包【慢讯】">Bundlehunt 2023年 macOS 软件黑五捆绑包【慢讯】</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/videoproc-ai-62off/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="47969" data-ulike-factor="up"
+            data-ulike-nonce="e951c1ff22" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_47969 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="47969" data-ulike-factor="down"
+            data-ulike-nonce="e951c1ff22" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_47969 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="-6"></span>    </div></div>
+<p><a href="https://www.appinn.com/videoproc-ai-62off/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/videoproc-ai-62off/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

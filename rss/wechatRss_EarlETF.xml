@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>EarlETF</title><link>https://totototot.asuscomm.com/ppf/wechatRss_EarlETF.xml</link><description>EarlETF</description><lastBuildDate>Thu, 28 Mar 2024 00:42:37 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>猴市飞跃</title><link>https://mp.weixin.qq.com/s/c4znd9E_MXG-LbIL1vj6xA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content" style="visibility: hidden;"&gt;
+ &lt;p data-mpa-powered-by="yiban.io"&gt;
+  A股又跌了，还挺惨。创业板都是 2.5%+。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502813113" data-ratio="0.9101851851851852" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahffNqy5YnMdqr1D0VJXA9mYlGDuanJ792EiaH2WTMX5JgoicIxUqaxS1y104BMwN164qBsQIiaiaXYeg/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  不过，看过上周六推送的读者，应该不会太意外吧？
+ &lt;/p&gt;
+ &lt;p&gt;
+  周一那根刷新前一日最低点的新低阳线，意味着连续两日 5 日均线之下的调整。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502813112" data-ratio="0.8148148148148148" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahffNqy5YnMdqr1D0VJXA9mzmEEpF0YtibfXibfOgEDPSeMmopiaZPqGobM76iaZFTiabsDpYfp0B7yNYw/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  之前很多次说过，出现这种风格的两根阴线，随后出现下跌才是应有之意。
+ &lt;/p&gt;
+ &lt;p&gt;
+  更何况，这波反弹涨了那么多，跌跌才健康。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从主要宽基指数来看，中证红利一度硬挺着，但到尾盘约在恐慌性的抛盘下翻绿的，我跟踪的一堆行业中，也就银行股能微涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从因子角度来看，周三领跌的是前期领涨的高波、反转等因子，只能说出来混终究是要还的。
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502813114" data-ratio="0.7935185185185185" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahffNqy5YnMdqr1D0VJXA9mgdWMwmH9LmBqFI9p3VVeoibTibKzYrYic76IwNPOVjoGyQvMloeSd3KOQ/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  A股这个样子，不奇怪，也不值得特别关注。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这两天，都在玩一个好玩的东西——Suno.ai这个AI 写歌应用，22 日出的 V3 版本被认为可以真正挑战从业者了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这两天，我冲了会员，也输出了大概有超过 100 首的歌曲，算是多少有点心得。Suno 这东西，要替代音乐从业者，暂时是做不到。最简单的就是歌曲转调之类精细调整，还做不到，更不要说输出分轨、Midi 这种工业化音乐必须得前置操作。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但是！
+ &lt;/p&gt;
+ &lt;p&gt;
+  作为一个普惠工具，Suno 可以完成作词+作曲+演唱三合一，就极为惊人了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  多少视频 up 主，需要花费大价格去买背景音乐素材，但 suno 可以根据你的文字来生成无人声的背景音乐替代。
+ &lt;/p&gt;
+ &lt;p&gt;
+  举个例子，有感于这两天 A股，我给 suno 提了一个写歌的要求：
+ &lt;/p&gt;
+ &lt;blockquote style='margin-left: 0.5em;padding-top: 0px;padding-left: 0.5em;color: rgb(153, 153, 153);border-left-width: 1px;border-left-color: rgb(242, 74, 114);font-family: 思源黑体, "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;font-size: 16px;letter-spacing: normal;text-align: start;text-wrap: wrap;'&gt;
+  &lt;p&gt;
+   写一首描述中国股票市场跌多了就要上涨，涨多了就要下跌，永远像一只猴子那样上蹿下跳的歌曲，让投资者有些吃不消，歌曲悲伤中带一点欢快。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  然后 suno 就生成了完整的一首歌，取了一个歌名叫《猴市飞跃》，歌词如下：
+ &lt;/p&gt;
+ &lt;blockquote style='margin-left: 0.5em;padding-top: 0px;padding-left: 0.5em;color: rgb(153, 153, 153);border-left-width: 1px;border-left-color: rgb(242, 74, 114);font-family: 思源黑体, "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;font-size: 16px;letter-spacing: normal;text-align: start;text-wrap: wrap;'&gt;
+  &lt;p&gt;
+   [Verse]
+盘面波动如猴舞
+忽飘忽跌闹哄哄
+涨多了 就跌回去
+跌多了 又猛上蹿 (猴子翻)
+筹码蓦然扔下手
+买卖战火 点燃心头
+投资者踌躇 像迷雾
+这市场 孤独又迷茫
+  &lt;/p&gt;
+  &lt;p&gt;
+   [Chorus]
+猴子市场飞越 (哎哟)
+投资情彷徨 (猴儿跳)
+股票上落起伏 (来也匆匆)
+损益如同泡沫 (啊哈哈哈)
+猴市飞跃 不可捉摸
+股票交易伤不浅
+猴市飞跃 不可捉摸
+波动中 掩不住伤
+  &lt;/p&gt;
+  &lt;p&gt;
+   [Verse 2]
+市场飞舞叫人累
+风云变幻 如梦魇
+金钱血液 难挪动
+买多时 期望如潮
+卖少时 心如悬崖
+雨打风吹 无奈笑 (哈哈哈)
+股市情怀 贪婪中悔怨
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  你觉得如何？
+ &lt;/p&gt;
+ &lt;p&gt;
+  suno 初始版本用的是 pop 的曲风，不过在今天这个下跌的交易日，我觉得更愤怒的 hard rock 明显更合适，所以让他重新改了一版。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下面这个视频，就是 sono 生成的，可惜现在还很简陋，只有不动的封面，没能叠加字幕效果。我是用剪映在视频上又叠加了字幕。大家可以看看效果。
+ &lt;/p&gt;
+ &lt;section class="channels_iframe_wrp wxw_wechannel_card_not_horizontal"&gt;
+  &lt;mp-common-videosnap class="js_uneditable custom_select_card channels_iframe videosnap_video_iframe" data-authiconurl="" data-desc="A股之猴市飞跃 词曲唱：Suno" data-errortips="" data-from="new" data-headimgurl="http://wx.qlogo.cn/finderhead/0G3rUlRtFiackZV43s4ddHolrXrtgqv4UDVLznlT0qt0/0" data-height="1624" data-id="export/UzFfAgtgekIEAQAAAAAAyQktCgQqYAAAAAstQy6ubaLX4KHWvLEZgBPE6KJULgddKPqEzNPgMIvcJ9an3yYjwoPNz8QS5o8j" data-isdisabled="0" data-mediatype="undefined" data-nickname="张翼轸" data-nonceid="4495082579604291298" data-pluginname="mpvideosnap" data-type="video" data-url="https://findermp.video.qq.com/251/20304/stodownload?encfilekey=rjD5jyTuFrIpZ2ibE8T7YmwgiahniaXswqz3icAueIekozA8zrFvEj6d4LLLlMFtUm2OcRxtClNseS57B7LKpXKtXND5pFYIK8zHXaKX9V8jGXupsic7TPRhFHg&amp;amp;bizid=1023&amp;amp;dotrans=0&amp;amp;hy=SH&amp;amp;idx=1&amp;amp;m=&amp;amp;scene=0&amp;amp;token=AxricY7RBHdU4icic8SEH6icojnfuicwZlGMY1J1ibyttgv6ctDSBtiay5BX6CjLPMa7eJRxh5Ymical8qw" data-username="v2_060000231003b20faec8cae38b1ccbd4cd07ee35b07702d5b898f1eb00868966046163c46c9f@finder" data-width="1080"&gt;
+  &lt;/mp-common-videosnap&gt;
+ &lt;/section&gt;
+ 
+ &lt;p&gt;
+  &lt;mp-style-type data-value="3"&gt;
+  &lt;/mp-style-type&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+</description><pubDate>Thu, 28 Mar 2024 00:42:37 GMT</pubDate></item><item><title>居家养老：在老需求中开拓新蓝海</title><link>https://mp.weixin.qq.com/s/t3UiniBC6hLNlmKIEfY2iQ</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  老去之时，怎样的“养老生活”是最佳状态？
+ &lt;/p&gt;
+ &lt;p&gt;
+  在很长一段时间里，我都觉得新潮的“高端养老院”或许是最佳之选，全适老化的装修，一天三顿食堂供应，医院内置，一切老了之后需要的服务，都唾手可及，虽然一个月一两万元的租金不菲，但服务和品质却也对得起。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_jpg/C4xib9axrYahGs7LYg6Qg9gYU3wDwgsq2rjTl7le15BFsxt9Twmk30kOdpib5aDDcKLfsFMeFXyygQ2nSt9kn7Zg/640?wx_fmt=jpeg&amp;amp;from=appmsg" style="height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  但最近和一些朋友聊起了一些细节，才发现“高端养老院”或许是未来某一天的发展方向，但却未必能成为当下的主流，这无关乎供给，甚至更多是观念和习惯，或许“居家养老”才是当务之急。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  高端养老院，住了一天就逃走了
+ &lt;/h2&gt;
+ &lt;p&gt;
+  最近，和朋友聊天，听到了一个从“高端养老院”逃走的故事。
+ &lt;/p&gt;
+ &lt;p&gt;
+  朋友是很新潮的人，几年前就开始看各种高端养老院，喜欢的很，并打定主意等自己老了，就要住在哪里——对于一个不想为家务所烦，希望享受生活的人，高端养老院现代的装修、高端食堂、健康服务，外加各类锻炼场所，的确是很吸引人。
+ &lt;/p&gt;
+ &lt;p&gt;
+  朋友心动，还行动了。他给自己的父母安排某家高端养老院的“一日试住体验”。没想到两位老人试住之后，回来坚定的说“不”，打死也不去。
+ &lt;/p&gt;
+ &lt;p&gt;
+  看着很好的养老院，却被老人视为“可怕”，这到底是为什么？老人的理由很有趣，年轻人觉得一天三顿有着落的食堂，在老人看来是被限制定时吃饭像“坐牢”，唾手可及的医疗，用老人说法“开窗就能看到医院不吉利”，至于各种健身设施，老人不需要，反而觉得告别邻里要重新建立社交圈是一件极其痛苦的事情。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_jpg/C4xib9axrYahGs7LYg6Qg9gYU3wDwgsq2hDuYWIG58VGJOeianlrT4dZ0nicvDjApsgRTlx3FfYRn2sxJ5QN5KruA/640?wx_fmt=jpeg&amp;amp;from=appmsg" style="height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  听完朋友的讲述，虽然在意料之外，但细想却在情理之中。
+ &lt;/p&gt;
+ &lt;p&gt;
+  十年前就听说过上海的一些高端养老社区，之后之前采访过一些高端养老社区，了解许多住在里面老人的构成。许多能介绍这种生活状态的老人，往往是高级知识分子、高端人才，他们哪怕退休，也依然和许多年轻人一样有着丰富多彩的外部活动，讲学、顾问、演出，所谓的“家”只是一个睡觉的地方，这样的前提下高端养老社区的服务，是极好的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但在这个社会，更多的老人，不是这样的生活状态，他们生活在社区之中，交际圈在社区之中，退休后没有太多外部多姿多彩的生活，帮子女带娃是打发时间的重要事物，这样的老人注定是不愿意离开“家”，是无法接受便利但没那么温情的高端养老社区的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  听完这个故事，才发现在 2023 年开始如火如荼的居家养老，原来太重要了。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  居家养老产业元年
+ &lt;/h2&gt;
+ &lt;p&gt;
+  居家养老，不是新鲜事。身边不乏重病卧床的老人，请住家保姆上门照顾，这也是居家养老的一种；之前许多社区开展的家庭“适老化装修”，也是居家养老的一环。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但毫不夸张的说，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   2023 年，或许才是“居家养老”作为一个产业开始发展的元年
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从宏观层面来看，2023 年10 月，《居家养老上门服务基本规范》 国家标准发布，这是我国针对居家养老上门服务发布的首个国家标准，将为合理界定居家养老上门服务范围、规范供给主体资质条件及供给流程内容要求等提供基本依据，对于推动居家养老服务标准化、规范化、专业化发展具有现实意义。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_jpg/C4xib9axrYahGs7LYg6Qg9gYU3wDwgsq2eYdk6kK2SR5lvXpEOibCo3Azz5ic6xIiarD6wMQCM57w8TpB8UeicbEkiag/640?wx_fmt=jpeg&amp;amp;from=appmsg" style="height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  从微观层面来看，越来越多的投资机构、服务机构开始关注“银发经济”，并身先士卒。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从企业层面来说，可以作为一个风向标的，无疑是金融巨头中国平安的切入。早在 2022 年，在中国平安的财务报告中，就有了“金融顾问、家庭医生、养老管家”的提法，并在随后的每一次重要财报中都反复提及(下图为 2023 年中报)，可以算是一众金融机构中，最为从战略层面强调“养老”价值的企业。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahGs7LYg6Qg9gYU3wDwgsq2hkq2u8jibDWDbuH4ZCWL5mrva0RiblH9t5ZlCcdb4Vu5004ZAGKX2wzw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  而作为整个平安集团“养老管家”战略重要的执行者，平安健康医疗科技有限公司（股票简称"平安好医生"，1833.HK,以下简称"平安健康"或"公司"）日前在公布2023年年度业绩报告时，不但强调：
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   构建三位一体“养老管家”，打造全场景、高品质养老体验
+  &lt;/strong&gt;
+  ，同时也披露了相关数据：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   至2023年，平安居家养老服务覆盖全国54个城市，累计近10万人获得平安管家服务资格。‌管家服务满意度服95%。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  而在平安健康的业绩发布会现场，平安健康总裁吴军更进一步披露相关业务数据：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   2023年ARPU就达到了近1600元，将为平安健康的长期增长贡献新动能
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;h2&gt;
+  老需求，新蓝海
+ &lt;/h2&gt;
+ &lt;p&gt;
+  养老管家，或许是一个新名词，但其实并不算新需求。从住家保姆到陪诊再到适老化改造，许多人或是用过，或是看到身边人用过。
+ &lt;/p&gt;
+ &lt;p&gt;
+  此时此刻，为什么“养老管家”可以视为一个“新蓝海”？
+ &lt;/p&gt;
+ &lt;p&gt;
+  两方面，一方面自然是老人越来越多。类似上海这样的大型城市，正在快速步入老龄化：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   截至2022年12月31日，上海市60岁及以上的户籍老年人口数量为553.66万人，占户籍总人口的36.8%。这一数据显示上海已经步入重度老龄化阶段。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  上海的数据，不过是全国的一个“前瞻”：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   预计到2033年左右，中国将进入占比超过20%的超级老龄化社会，之后持续快速升至2060年的35%。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  越来越多的老人，再加上独生子女的叠加因素，对养老服务的需求本就越来越大。
+ &lt;/p&gt;
+ &lt;p&gt;
+  更重要的是，这些老人的子女，往往是 70 后、80 后乃至 90 后，这些伴随新时代成长起来的现代消费者，对于养老服务的要求也越来越高。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就以“陪诊”这样一个简单的业务为例，从《新闻晨报》的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=Nzg1MzAxMTgx&amp;amp;mid=2655084188&amp;amp;idx=4&amp;amp;sn=5143155ca177efdfd0616fc43b60a125&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   陪诊产业调查：老人靠陪诊员实现“医院出入自由”还有多远？
+  &lt;/a&gt;
+  》可以看到，虽然目前社会上涌现了许多陪诊服务，但细看从业人员，往往缺乏资质良莠不齐，难以呈现标准化的服务，甚至连所谓的从业资格，也是线上培训能速成的：
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahGs7LYg6Qg9gYU3wDwgsq2ReCEL4k6uoT9jjjF4dIIHCkpicANh8LNAzVicB9xibklTHnG8q0Yo4ibIQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  好不夸张的说，当下人民群众日益高涨的居家养老需求，与相对滞后的社会供应，是“居家养老”的一大困境？
+ &lt;/p&gt;
+ &lt;p&gt;
+  破局点何在？
+ &lt;/p&gt;
+ &lt;p&gt;
+  归根到底，还是标准化。
+ &lt;/p&gt;
+ &lt;p&gt;
+  《居家养老上门服务基本规范》代表的是顶层设计层面的标准化。
+ &lt;/p&gt;
+ &lt;p&gt;
+  而以平安健康推出的
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   居家养老“护联体”
+  &lt;/strong&gt;
+  和
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   “平安家医.长者守护版”
+  &lt;/strong&gt;
+  ，则代表了产品端的标准化。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   “平安家医.长者守护版”
+  &lt;/strong&gt;
+  聚焦年长用户的医疗健康痛点和需求，期待帮助更多中国老人加强日常健康管理，实现便捷就医问药，让长辈们身心多保障更多，让儿女们外出打拼少顾虑。该产品主要通过1名孝心管家、1名平安家医、3重健康守护，为用户提供“专业诊、主动护、安心居”一站式特色、专属服务，主要包括1V1管家式陪伴、7*24小时线上秒级问诊、线下看病住院全程陪同、护士上门巡护、慢病主动管理、适老化居住改造指导等25项特色服务。
+ &lt;/p&gt;
+ &lt;p&gt;
+  而
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   居家养老“护联体”
+  &lt;/strong&gt;
+  则是：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   平安依托集团医疗健康生态圈资源和科技实力，融合北大医疗康复服务标准，联合40多家康复护理服务商及行业内产学研专家，匠心打造
+   &lt;strong style="color: rgb(17, 17, 17);"&gt;
+    居家养老“护联体”
+   &lt;/strong&gt;
+   ，通过建立标准-系统-服务-履约闭环，提升服务质量，提高客户满意度。具体而言，平安居家养老“护联体”包括一套科学的服务管理规范、一套完善的康复护理产品、一套专业的人员认证体系、一个优质的服务战略联盟和一套智能的康复护理系统。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  从以往的报道来看，愿意使用平安健康相关服务的消费者，看重的也正是这种平安健康作为这种标准化服务集中入口的价值：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   95岁高龄的欧阳先生，正在使用平安管家平台上架的“无忧护”住家护理服务。据其女儿介绍，欧阳先生目前中度失能，因此需要护工日常陪伴；“在确定使用平安‘无忧护’服务前，其实我们也考虑过其他几家公司的居家养老护理服务，但效果均不理想。最终之所以选择平安，最主要就是‘护联体’有多家服务商可供选择，有统一标准，而且上门服务的人员都是经过培训且面试后上岗，让人十分放心”。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  养老服务这件事儿，不是在网购平台买一件商品，用的不满意大不了退货，很多时候甚至可能“人命关天”，在这样试错成本极高的前提下，大平台+统一标准，无疑可以让人更为放心。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  难而正确的事情
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在健康服务这条道路上，平安健康始终在做一件“难而正确”的事情。
+ &lt;/p&gt;
+ &lt;p&gt;
+  为了提供更标准化的医疗资讯服务，平安健康始终有一只庞大的医生团队，根据今次业绩发布会公布的数据：
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   平安健康拥有约5万名内外部医生
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  自有的医生团队，是竞争上的一个重要优势，但也是运营商的巨大压力。如果产生与医生资源相匹配的营收，这些年平安健康做了非常多的尝试。比如起家的线上问诊业务，又比如前几年大力拓展的 B 端业务，都有可喜的成绩。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在业绩发布会上，管理层公布了以下数据：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   家医会员覆盖持续提升，达到1300万人，在过去一年家医在服务能力、主动触达、精细化会员运营方面进行了全面提升，这些举措使得家医年平均使用频次较2022年提升了0.8次，达到了3.7次
+  &lt;/p&gt;
+  &lt;p&gt;
+   2023年在战略2.0深化的第二个完整年度，我们的B端业务规模增长显著，累计服务企业数达到1508家，同比增长54%。同时，B端战略业务，也就是企康业务，或者说B端的医健养服务在过去12个月的付费用户数超过510万，同比增长达75%。对B端企康业务增长做出重要贡献。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  但是，无论是面向普通受众的家医服务，还是面向企业的企康服务，本质上都是缔造一个我们传统生活中没有的需求，新需求固然是蓝海，但是要渗透，尤其快速渗透，需要整个社会观念的提升。
+ &lt;/p&gt;
+ &lt;p&gt;
+  与之相比，居家养老，是一个很传统但是伴随老龄化越来越高频的需求，一直存在，只不过没有足够多的高标准服务去满足。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从这个角度来说，家庭养老与平安健康已有的业务是一种很好新需求与老需求很好的互补。
+ &lt;/p&gt;
+ &lt;p&gt;
+  更重要的是，面对一个年轻人，你很难通过家医或者企康服务大幅的提升ARPU，毕竟一个健康的中青年，本身的医疗需求就是少的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但是居家养老则不同，这是一个注定自然增长的市场。一方面，人口的老龄化，意味着需要居家养老的人群越来越多；另一方面，已有用户的逐渐老去，意味着对居家养老服务的需求会快速攀升。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里，推荐有兴趣的朋友，可以看“上海市民生活指南”的这篇《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MzAwNzAyNTE3MA==&amp;amp;mid=2650522002&amp;amp;idx=1&amp;amp;sn=0cfb84da356d3c4ec6a2cdd9316a7ccb&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   可不可以在家养老，即便失能
+  &lt;/a&gt;
+  》，他描述了上海老西门街道许多“在家养老”老人的真实状况，其中有一组数据非常具有参考价值：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   “家床”服务分为多个等级。最低一个等级，每月上门服务13个小时，目前自付660元/月。最高等级是全天24小时陪护，自付8220元
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  将这些月度缴费数字，与平安健康目前居家养老目前将近 1600 元的ARPU对比，你就知道这块的增长潜力有多大。
+ &lt;/p&gt;
+ &lt;p&gt;
+  更重要的是，相比许多服务产品必须不断“鼓动”消费者去尝试更高的服务等级不同，居家养老的升级过程，往往是伴随身体的衰老，是“自动”的——必须从最低等级的“家床”服务向上升级，从这个角度说，对于居家养老服务而言，获客并能服务好培养出粘性，就是营收自然增长的必然。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在平安健康刚刚公布的 2023 年财报中，亏损快速缩窄，盈利有望加速实现：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   公司全年营收录得46.7亿元，净亏损同比大幅收窄47.6%至3.3亿元。其中，战略业务强势增长，保险及金融客户端的医健养服务收入22.0亿元，同比增长14.8%，企业端的企业员工健康管理服务收入10.8亿元，同比增长81.2%，业务结构实现持续优化，推动公司毛利率同比上升5.4个百分点至32.3%，盈利有望加速实现。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  那么，居家养老这个老需求下的新蓝海，会不会成为盈利加速实现的助推剂？
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Wed, 27 Mar 2024 00:42:07 GMT</pubDate></item><item><title>新发布的中证 1000 红利，价值几何？</title><link>https://mp.weixin.qq.com/s/CcOEkfLkrdGN0iRHlJdp9w</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  前不久，中证指数公司发布了中证800红利和中证1000红利两条新指数，由此整个三五十宽基指数体系的红利指数也全部构建完成。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLGckfpXC1ibucCoG5hKgrPDLkibQjkz1p9tu1Sobyqk0uPJVATnJvgab2w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  在已经有 300 红利和 500 红利的前提下，800 红利更多是一种锦上添花的意义，但中证1000红利就有雪中送炭的味道了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  1000 红利价值几何？
+ &lt;/p&gt;
+ &lt;p&gt;
+  我做了一些历史数据的回测，与诸位分享一下。
+ &lt;/p&gt;
+ &lt;p&gt;
+  首先需要说明一下，中证指数公司公布的 1000 红利指数，最早数据回溯至 2013 年末，所以我的统计也以此为基准。此外，以下所有的讨论，均是基于包含了股息收入的全收益指数口径。
+ &lt;/p&gt;
+ &lt;p&gt;
+  要讨论 1000 红利的价值，参照物很重要。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我的比较，选择了中证1000代表小盘股，1000 价值稳健代表小盘价值 Smartbeta 指数，中证红利代表红利策略，通过1000 红利与这三者的比较，来讨论其增量价值。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  基本数据
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在讨论之前，先将一些基本的统计表格放出，有兴趣的读者可以先自己端详一下。
+ &lt;/p&gt;
+ &lt;p&gt;
+  先来一张 2014 年至 2024 年 3 月 22 日的阶段表现对比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLG4VyuZf4wuS4vBeSUC95wWKIl635mPIqv3aCQUavnMuickibwF14nmOJA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  再来一张逐年表现对比，2024 年的数据截至 3 月 22 日。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLGJz3D891iaebfHNYr4J0agtXDBiajEPn1BGoEjDPL7YeFlotPjw7D6ic7w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  最后给一张2014、2016、2019 和 2021 年迄今不同其实时段的年化收益对比，需要说明的是这里将 2024 年迄今的数据视为全年数据来计算的年化收益，与第一张表的年化数据口径不同。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLG0ufaHMo4V8ibcM4OkmKW8KiaOJvuV5GwKkQeMs3erFCEo8mSYlUeblHg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  更好的 1000 指数！
+ &lt;/h2&gt;
+ &lt;p&gt;
+  毫无疑问，长期持有中证1000指数，是一个比较糟糕的投资，年化收益很是萎靡。
+ &lt;/p&gt;
+ &lt;p&gt;
+  毫无疑问，1000 红利是对中证1000指数极好的修正，通过引入红利因子，剔除那些各种不靠谱的泡沫股，实现了相当不错的指数增强。从下图可以看到，2014 年迄今，也就 2014 年和 2020 年两年是小幅跑输中证1000指数的，但跑输的幅度都很有限，而其他年份跑赢的幅度却是相当不俗。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLG2wI98bzDS0MTiaWTNzAsmKZHTnXichSHZSBQk2Y37rVhnULXRiaeEUhWw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是 1000 红利相对中证1000指数的风格三棱镜，请注意第二张比值曲线，可以看到那么多年里面，绝大多数时间都是稳步向上，就偶尔有些反复而已。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLGI9VUzARsJakUIG41MoliazbRrCnLVePlzSWLEUUqic3qphiaNytZcScYQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是 1000 红利相对中证1000逐月超额收益的分布，可以看到
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   连续跑输的频率很少，一般也就连续跑输两个月，跑输三个月的极少
+  &lt;/strong&gt;
+  。从这点来说，也可以作为一个 1000 红利相对 1000 择时的小技巧。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLGibEOwoVmyQ1veyANZAbWrlDWUh7IiahE2S8CfvTCd8Peibg1rrVrUSQYA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  更好的 1000 价值指数？
+ &lt;/h2&gt;
+ &lt;p&gt;
+  通过价值类因子对中证1000指数加强，1000 红利并不是第一个。
+ &lt;/p&gt;
+ &lt;p&gt;
+  笔者之前介绍过，华夏基金定制的规模风格六指数中，就有 1000 价值稳健这样一个通过复合因子来筛选价值股的 Smartbeta 指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  那么 1000 红利相比 1000 价值稳健如何呢？
+ &lt;/p&gt;
+ &lt;p&gt;
+  从各类数据来看，还是略有不如。
+ &lt;/p&gt;
+ &lt;p&gt;
+  无论是下表哪个起点，1000 价值稳健都有优势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLG842HiaREKeDFgpVGL5krV4m0SAiaVx2gA4s4ZvlyKAM7uxx6xCxibgFkA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，因为这两个指数本质上是一个大风格的，所以没有哪个指数能占据长期的优势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下表是 1000 红利相对 1000 价值稳健的月度超额分布，可以看到跑输主要在 2014 年至 2016 年，后面相若，略有不如。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLGPZ94UyZrO01Z35nVzRrLzIhdSWrDKaQ2ibMQrrq48LbbN4BjQaiaQu6g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  即使如此，我依然认为 1000 红利指数的发布，意义重大。
+ &lt;/p&gt;
+ &lt;p&gt;
+  1000 价值稳健指数虽好，但是作为一个华夏基金定制的指数，其他基金公司往往不会基于此发布 ETF 产品，而华夏发行的跟踪这个指数的 ETF，每天的成交额连 1000 万都很难超过，许多交易日甚至不足 500 万，可用性很低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  1000 红利的出现，至少给了更多基金公司参与的机会，从这点而言，即使其长期表现略有不如1000 价值稳健，也依然有极大的意义。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  无法替代中证红利
+ &lt;/h2&gt;
+ &lt;p&gt;
+  那么，聚焦小盘股的 1000 红利，是否可以替代中证红利这样的宽基红利指数呢？
+ &lt;/p&gt;
+ &lt;p&gt;
+  对比这两个指数的逐年表现，可以看到差异极大。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajp2Fg6sxlWqWC2D0FhzGLGj9scNGZVKdXRxGCQZicrQVUjKK6g7xmDrgoZdMiaqjkuicicZTLtaib8C9g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  在类似 2015 年、2021 年这样小盘股领涨的行情下，1000 红利相比中证红利必然有更靓丽的表现，但是当类似近年这样大小盘相若，甚至大盘股领先的行情下，1000 红利必然又略有不如。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从这个角度而言，对于红利爱好者，1000 红利，是一个大小盘轮动视角下基于红利策略的择时好工具。当然，也可以搭配已有的 300 红利，进行红利策略下的规模配置。
+ &lt;/p&gt;
+ &lt;hr /&gt;
+ &lt;p&gt;
+  总体来说，1000 红利是一个极有价值的新指数，那么问题就来了，各家基金公司何时产品能跟上，早早把 ETF 给发行了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  PS:一个小福利。上周写《
+  &lt;a href="http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650296519&amp;amp;idx=1&amp;amp;sn=e8ff581337f35d64f12da149cb364ba4&amp;amp;chksm=beed0246899a8b50b352184bcfe40e987ff7adcb27970895d59fbc97926d621867bb55651711&amp;amp;scene=21#wechat_redirect" target="_blank"&gt;
+   预期收益：投资获利大百科
+  &lt;/a&gt;
+  》，介绍了我超爱的《预期收益》一书。《预期收益》最新这本的出版社编辑表示，愿意给我的读者10 本赠阅。想要赠阅的请留言，
+  &lt;strong&gt;
+   留下名字、地址、电话
+  &lt;/strong&gt;
+  。抽奖我继续分两个奖池，第一个 5 本，先到先得，最先留言的 5 位获得；第二个奖池 5 本，则是从之前我精选留言大于等于 5 条的留言读者中，先到先得。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Tue, 26 Mar 2024 00:52:57 GMT</pubDate></item><item><title>这只红利类ETF 或开启季度派息，兼谈当下红利投资</title><link>https://mp.weixin.qq.com/s/2QqvAYiMVBsMH2PV2kzo3Q</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  3 月 22 日，招商中证红利 ETF(515080)宣布 2024 年的第一次派息。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对此前一直稳定奉行每年 2 次派息的这只 ETF 而言，破天荒的在三月公布派息计划，或许将由此进化到季度派息。这对于热爱红利投资，更热爱稳定收息的“食息一族”，无疑是刚想瞌睡遇上枕头。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  红利类ETF，向季度派息进军
+ &lt;/h2&gt;
+ &lt;p&gt;
+  根据公告，招商中证红利 ETF(515080)将每 10 份派息0.15 元。如果以收益分配基准日 1.4984 元计算，分红比例是 1.00%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDraB2gHy4BAeU7QajbmJaIDZZjHHDxthWByoLO7CxTyveHOktIHP5JmA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  一次看似普普通通的派息公告，为何我认为中证红利 ETF(515080)或将开启“
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   季度派息
+  &lt;/strong&gt;
+  ”的计划？
+ &lt;/p&gt;
+ &lt;p&gt;
+  因为在一众红利 ETF 中，这只是有着极为稳定高频派息往绩的 ETF。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利 ETF(515080)此前三年的派息记录，可以看到从 2021 年到 2023 年，它都是每年派息 2 次，而且都在六月上中旬和 11 月下旬宣布。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDrNezBzrnH4cx5PuD0CbMHVzSSH9dng1J2DD3MVVic401HE79icBF9kyUA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果具体看分红金额，前两年每次 0.03 元，2023 年开始增加到 0.035 元，在分红金额上显然也是要构建一个稳定的预期。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果你看过的红利 ETF 足够多，就会知道
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   这种较高频率的稳定分红，很是难得
+  &lt;/strong&gt;
+  。有的红利 ETF，还是偏爱 1 年派息一次。有的红利 ETF，时而一年两次，时而一年三次，很难掌握规律。
+ &lt;/p&gt;
+ &lt;p&gt;
+  本就规律的招商中证红利，显然是希望在规律的基础上，向季度派息进化。在3 月13 日公布的《招商基金管理有限公司关于招商中证红利交易型开放式指数证券投资基金调整基金收益分配原则并修改基金合同的公告》中，就已将每季度评估写入。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDremte63Lre23uibhCha3AUwg3bgfEKQyEv4LPLpue3H4dGEZ4y4icAQ7w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  虽然合同说的只是每季度可评估而非强制，但当中证红利 ETF(515080)在 2024 年选择 3 月就发布分红公告，就在基金合同修改数日之后，我更倾向于认为这是拉开了季度派息的序幕。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   季度派息，是个好东西，无论是对持有人还是对基金本身
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对持有人而言，这意味着可以成为更好的食息一族。毕竟类似房租等大金额开销，季度频率的现金流，远比年度现金流要来的平滑。
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于对基金本身，也可以降低跟踪误差。对于这个问题，我在一次研讨会闲余，与某基金经理交流，他表示分红的频率上升，意味着单次分红金额的减少，可以降低现金空仓期对跟踪误差的影响，对基金运作更有力。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  派息稳定比股息率更重要
+ &lt;/h2&gt;
+ &lt;p&gt;
+  谈及 ETF 的派息，不同参与者有不同看法。尤其传统上 A股的投资者更看重价格波动(或者说“炒作”)，而对股息分红往往“不屑一顾”，甚至进而觉得 ETF 分红，也属于“脱裤子放屁”。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但其实，这是一种“炒家”的心态，A股那么多年大涨大跌，动辄过山车，其实与这种“炒家”心态也有密切关系。不过，伴随增长的放缓，目前终于也有越来越多的投资者意识到成长股投资不是唯一的道路，有时候稳定的派息，其实更为重要。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在这点上，其实东亚地区许多证券市场，已经为我们揭示了一条
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   不看上涨看派息的基金发展路径
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  日本崇尚高股息基金，其实并不奇怪，毕竟常年负利率，银行存款利息可以忽略不计，这时候股票基金的派息，就成为极为重要的稳定收益来源。在日本，每月派息的基金甚至是主流。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里转引莽叔在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MzI4NjM0MTYzMw==&amp;amp;mid=2247485636&amp;amp;idx=1&amp;amp;sn=619b192e2adcb81147b0c2f6f4b579b5&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   月度分红型产品爆红背后——老龄社会的深刻领悟
+  &lt;/a&gt;
+  》中引用的一张图表，可以看到日本不同分红周期产品的比率。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDrRezUUn6o2lGhdcm63VVfP0oHcria6by6jiacmOCIRaOgfETnkRvopLnw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于台湾股市，也有类似的特点，这里我要给一张网站截图，来自台湾证券交易所，它们有一个栏目叫“配息行事历”，这里说的配息就是我们所说的 ETF 分红。从这张图我们可以明晰两点：❶ 台湾证交所大量 ETF 的全年分红都是实现规定好的；❷ 台湾投资者对分红很看重，所以会有这样官方的集纳日历。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDr90YXuCtZibOgoGg2AIxAyh4jLVCULYc5BujH55Ny0zoqwrCNDWhkaxg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  招商中证红利 ETF(515080)此次的派息，无疑是 A股 ETF 在探索季度派息上的一次重要探索。
+ &lt;/p&gt;
+ &lt;p&gt;
+  其实从其去年的两次派息可以看到，两次的分红比率分别是 2.41% 和 2.36%。考虑到去年中证红利的股息率在 6%左右，应该没有将所有的收息派发。就个人感觉，这某种程度上是一种平滑机制。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDr2EAZYRV63V6OBGIfiaziauwPcdKvkNh5rNV1FzBG6mlYUHEttYrkhrfQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  是的，对于真正打算依靠 ETF 分红来应对日常生活的现金流，那么
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   分红的稳定性，比股息率的些许差异甚至更重要
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于这点，不妨做一个情景假设，如果你是 FIRE 提前退休一族，卖了房子套现 1000 万，全部买了红利类 ETF，并准备用 ETF 的分红来维持日常开销(包括房租、餐饮、娱乐等)。这时候这只 ETF 是不是每半年年乃至每季度能给你相对固定金额的派息，是不是就变得至关重要了？
+ &lt;/p&gt;
+ &lt;p&gt;
+  当 ETF 从半年派息进化到季度派息时，一个重要的挑战就是：目前上市公司的派息，集中在每年年中，年初派息的极少。
+ &lt;/p&gt;
+ &lt;p&gt;
+  因此在ETF层面，将每季度派息比例均衡设置，使得年度派息比例与此前基本一致，也是给投资者一个频率上和金额上都较为稳定的派息预期。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在证监会 3 月 15 日发布的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MzA4NzAzMDgwMw==&amp;amp;mid=2651078560&amp;amp;idx=4&amp;amp;sn=1cb939a294a63f0fc753408722626e30&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   关于加强上市公司监管的意见（试行）
+  &lt;/a&gt;
+  》中明确有这样的条款：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   （十二）推动一年多次分红。完善监管规则，进一步明确中期分红利润基准，消除对报表审计要求上的理解分歧。要求中期分红以最近一期经审计未分配利润为基准，合理考虑当期利润情况。简化中期分红审议程序，压缩实施周期，推动在春节前结合未分配利润和当期业绩预分红，增强投资者获得感。引导优质大市值上市公司中期分红，发挥示范引领作用。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  而此前全国两会上，证监会主席吴清更是有鼓励春节前分红的提法，所以不出意外未来上市公司的分红会更均匀，这也意味着 ETF 一年四次分红，或更具现金流基础，可谓是恰逢其时。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  此刻如何看待红利投资
+ &lt;/h2&gt;
+ &lt;p&gt;
+  最近一段时间，谈及红利投资，许多基民尤其是持有人都有种“赢了分红输了指数”又如何的胸闷。
+ &lt;/p&gt;
+ &lt;p&gt;
+  的确，本轮反弹，小微盘、成长股是先锋，此前因抗跌而饱受关注的中证红利指数反而成了拖后腿的一族。
+ &lt;/p&gt;
+ &lt;p&gt;
+  其实，如果当下你因为中证红利的滞涨而胸闷，那或许说明你尚未真正认识红利投资的意义。
+ &lt;/p&gt;
+ &lt;p&gt;
+  EarlETF 的老读者都知道，我很喜欢《兄弟连》中的一句台词“我们是伞兵，伞兵天生就是被包围的!”，这句话其实在投资的风险教育上，同样极具现实意义。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就像我以前说过趋势投资，作为一种低胜率高赔率的策略，天生就是要被追涨打耳光的；
+ &lt;/p&gt;
+ &lt;p&gt;
+  红利策略也是类似，作为一种崇尚低估值带有逆向策略的投资思路，天生就不以进攻而见长的，除非类似 2007 年下半年这样的权重股疯牛行情出现，否则在上涨中就不应该对红利的进攻性有太大的期待。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于中证红利ETF 这样的品种，如果你追求的是三年一倍赚快钱的，那么必然不适合你，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   因为绝大多数时候红利的收益主要来自于分红加利润增长，赚的是“慢钱”
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  其实对广大普通基民，困扰或者阻碍他们赚钱的，绝不是基金涨得太慢，而是高位买入后跌的太快。这点 2021 年初卖核心资产或者随后卖新能源的，应该深有感受。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是过去十几年来中证红利指数与代表小盘股的中证1000指数的走势以及 1 年滚动回撤的对比，可以看出
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   中证红利的回撤幅度在绝大多数时候都要小于中证1000指数
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDrXh52Be8ZDZsMMk0QfcfRc5ZKlyGFzTjibZkpGMYNybJ4TpdnxZkVFYQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于中证红利为代表的红利投资，我一直建议诸位要有“绝对收益”的思维。这里的绝对收益思维，不是指追求年年正收益，而是指不要去其他权益基金比较，尤其是在牛市和成长股、小盘股甚至于偏股基金指数去比较，这种比较是自找不自在。
+ &lt;/p&gt;
+ &lt;p&gt;
+  投资红利股，核心追求的是现金流，是现金流的增长，股价本身的波动，反而是其次的——尤其是在通过派息不断收回本金的后续年头，越发不那么重要。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，关注中证红利的投资价值，核心还是股息率。从下图可以看到，中证红利的股息率，虽然比起去年中的高点下降了不少，但是依然处于历史高水平——还高于 2014 年初大盘股暴涨行情开始之前的水平。如果以 10 年期国债收益率作为参考对象，那更是高出许多。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDrjtsCiamoCX4AlEOOvkxN4bBoZLficFeLS1GsDoogAySTW5ajHwrCibiaMQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以如果你安于低波动赚“慢钱”，那其实中证红利 ETF，依然是极好的选择。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里还要补充强调一下的是，之前我一直使用中证红利和 Wind全A 指数 40 日收益差来作为一个跟踪指标，在 2 月底写过《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650296152&amp;amp;idx=1&amp;amp;sn=ffcdf66aa0fbefc000d7fe5990139c25&amp;amp;chksm=beed1dd9899a94cf19f66e5e822b91852f38132ee3446d952c9160dc836e232c1072ab939e24&amp;amp;token=2035300390&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   红利不要追
+  &lt;/a&gt;
+  》建议各位不要在高企时追高中证红利。而从最新的数值看，经过近期的“滞涨”之后，和沪深300指数全收益指数的收益差3 月 21 日回落到了-3.6%的水平，与上一个低点相若。如果要增加中证红利的仓位，这个位置刚刚开始变得初步宜人了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDrabJFK9umSFQXMfepPKEHDIgSlU0X40NZsiaRwhle2J9WffWuXUrQMbA/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于相比 Wind全A，也初步回到 0 轴附近，开始进入合理区域。
+  &lt;br /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahV1icJWU59qJBZvOczC3FDr60PqCxOTyK2S0YPIdZFzNkeeqeGVg1MBameE6wvrHP8Bqz4ftu4Liag/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然若更有耐心，或者仓位较重不着急加仓的，那可以进一步等待 40 日收益差下探前期低点。
+ &lt;/p&gt;
+ 
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Mon, 25 Mar 2024 01:04:01 GMT</pubDate></item><item><title>EarlETF图表周刊2024-03-22</title><link>https://mp.weixin.qq.com/s/S0l2oXE9tnxsrIIJRx1msA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  作为一个从技术分析时代走过来，如今又笃信动量投资的草根投资者，我始终是相信指数和图表的力量。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的指数，可以让我们跳过个股，一窥全貌。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的图表，可以将一些价格之外我们不容易看到的“真相”展现出来，更好的帮助我们把握市场的脉络。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这段时间，我设计了不少的图表。独乐乐不如众乐乐，所以每周日更新一下，放在 EarlETF 上与诸位分享。目前，这个还只是半成品，应该陆续还会有新的图表模型添加。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  Wind全A五年之锚
+ &lt;/h2&gt;
+ &lt;p&gt;
+  五年之锚，是我此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293637&amp;amp;idx=1&amp;amp;sn=bff1a40b7f23a6a5302c308a658ff31c&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果A股很烂，烂市场生存法则是什么？
+  &lt;/a&gt;
+  》中提及的一个图表风格。
+ &lt;/p&gt;
+ &lt;p&gt;
+  它的本意就是不考虑什么长期投资长期收益，将A股当作类似商品这样有波幅少升幅的品种，更强调以五年均线为锚点，低位多买点，高位管住手甚至减仓。此后我在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293764&amp;amp;idx=1&amp;amp;sn=088aa1e88e1bd69ae47c5a8831173d4b&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   “五年之锚”还能怎么用
+  &lt;/a&gt;
+  》中又提到，五年之锚可以辅助定投，当指数超过五年均线+15%的位置，就可以考虑暂停；此外，当指数无论是上下偏离五年均线比较多时，就可以考虑通过动态平衡来重置风险配置，并等待下一次回归五年均线后再次再平衡，避免过快的再平衡。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，每周率先更新一下 Wind 全 A 指数的五年之锚图，让你对当下 A股在历史长河中到底处于什么位置，有一个直观的认知。为了既保留全貌，又能看清近景。所以图表有两张，第一张始于2000 年，第二张则是放大 2019 年迄今的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9q1icxBUPV3ibcnSsiaIIuwuK0JH0JoTlcaYfrrk7341iaC2N9aGmtq3TuA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9WlNaVlhLhgjBr8nbG0DWaY0CN9KM6WrFFfBBC3l3Lva5bvvs0o2PsQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中美视角下的 A股股债性价比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  脱胎于美联储 FED 模型的股债性价比，是一个用动态市盈率倒数减去十年期国债收益率来代表股票相对债券的性价比，数值越高，代表股票越具有性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但正如笔者此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293673&amp;amp;idx=1&amp;amp;sn=c1914d7fc6dadfac0e39af9cc6df0633&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   中美视角下，A股有何不同
+  &lt;/a&gt;
+  》中所提到的，A股的参与者既有内资，也有大量美元本位的外资，他们彼此之间对于债券收益率的基准是不同的，这就造成了同样的
+A股，在内资和美元资金眼中，性价比迥异。
+ &lt;/p&gt;
+ &lt;p&gt;
+  2019 年初，中美利率接近，所以判断相近。而经历了 2022 年和 2023 年的美联储加息，10年期美债收益率正处于高位，所以美元资金视角下，A股的吸引力锐减，这对于外资偏爱的“核心资产”类A股是坏消息。
+ &lt;/p&gt;
+ &lt;p&gt;
+  相对而言，A股中的高息红利股、小盘股，往往由内资主导定价，中国 10 年期股债引申的股债性价比更具参考价值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  时刻比较中美两种股债性价比的视角，有助于判断 A股结构性行情下的真正性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是最新数值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9p096JRjy7rribGC0fBXKhhZyG7aSooZ4jxFWppicdseFKvHgicVrBiab7A/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  偏股基金3年滚动年化收益
+ &lt;/h2&gt;
+ &lt;p&gt;
+  中证偏股基金指数3年滚动年化收益这个指标，最早是董承非在“公转私”后与客户分享时使用的一个指标。2022 年 10
+月我在写《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650286978&amp;amp;idx=1&amp;amp;sn=93012c01cf1143dc83aadd1b2365aad1&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果熊市还要一年多？
+  &lt;/a&gt;
+  》时，引用过这个指标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个指标无论是用 30%提示泡沫，还是用-10%提示底部，都挺好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  考虑到当下 A股内资越来越多的资金是通过偏股基金来投资，所以这个指数作为市场情绪的衡量，重要性或许会越来越强。在 2023 年 9月我写过的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293268&amp;amp;idx=1&amp;amp;sn=1536517d9752fca49906b5b5b279059e&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   偏股基金指数跌到位了吗？
+  &lt;/a&gt;
+  》中，提到过如果按照此前两波的规律，可能就要期待2024 年 2 月到 6 月期间两波双底-10%水平才能走出阴霾。当然，历史不会简单重复，所以要时刻关注最新的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  需要说明的是，此次为了更快呈现变动，所以改用日线数据，3 年滚动年化收益率采用 726 个交易日(242×3)的收益率计算，与中证指数官网披露的数据略有偏差。不过这个数据，关注的是历史纵向的对比，而不是绝对数值的高低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx91RzzsLEPg1ltrnz7VnGWHXB3dxfuEmMDsSsmEylJCSnMpgPI8cUu2w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  因子强弱一览
+ &lt;/h2&gt;
+ &lt;p&gt;
+  证券市场，绝大多数时候是风格驱动，比如成长，比如红利，比如动量。
+ &lt;/p&gt;
+ &lt;p&gt;
+  某种程度上，这些因子的关注价值，甚至可能高于大小盘轮动。
+ &lt;/p&gt;
+ &lt;p&gt;
+  之前介绍过，长江证券战略数据组发布的一系列行业中性因子指数，可以帮助我们在剔除了行业的影响后，观察一个因子的强弱。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图就是这些行业中性因子的走势，图表分成上中下三张，分别是 2019 年迄今、2021 年迄今和过去一年的走势，可以从不同维度观察因子之间的冷暖交替。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx90rVa7Vp2TPRv440jeia0TsrGdArhWYgxkUcI8mRfvhsB0mPlz02F3UA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  规模指数成交占比变迁
+ &lt;/h2&gt;
+ &lt;p&gt;
+  潮起潮落的超额收益，很多时候是由成交推动。所以观察成交流向何处，或许能让我们对于市场的热点有一个更精准的判断。
+ &lt;/p&gt;
+ &lt;p&gt;
+  规模指数相对 Wind 全 A指数的收盘价比值和成交额比值，是我之前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294106&amp;amp;idx=1&amp;amp;sn=d1ef50f61daaf3ccc1d70326dd74910b&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   成交占比，潮起潮落间的超额
+  &lt;/a&gt;
+  》中提出的一种思考方式。那些成交额占比不断提升的指数，比如 2023 年的中证2000指数，走强并不奇怪。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，下面给出了几个核心规模指数的比值和成交额变迁，其中大多数指数大家都是耳熟能详。至于万得小市值1000指数，则是市值最小的1000 个个股的表现，在当下是比中证2000指数更下沉的代表。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9DXkaGmmfrmib4kmPxqx3nv7xEkMKpJm9pLk0wAygWntQ3BBkJOWI0Hg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9icWlJnUcfMrR4ZGhu0mtRWOBG0etJMzjI0YJ96Hg2vSPUDfR7ykEdag/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9hSTVhKhibQgBXozicH0Wax0b01nBTvViaB9BgUicxk0IUPhKvYLu9ogibYQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9j7jJb2FgKqJlRU46DOblQcniatfdcUaODibLALwpl2BKtXkpXaWaJgicA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9m1QkETja3rpGSfnuzexlQL4ic7V893fwKM2eNv9Rv1lAHOmIeDNSuJA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  规模风格轮动三棱镜
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在A股投资时，除了股债配置这样的整体考量之外，一个提高收益潜力的重要问题就是针对大小盘、成长/价值风格轮动的选择。笔者之前写的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294206&amp;amp;idx=1&amp;amp;sn=a66e5773ee52cc4a8e53d585c5666d5d&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   捕捉风格轮动的新工具，两个！
+  &lt;/a&gt;
+  》中介绍的“轮动三棱镜”图表范式，正是希望给大家在研判轮动上有更多可参考的数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正如我在上文中说到的，当比值上穿或下穿 252 日布林线，或者比值跌破五年均线，又或者是 40 日收益差 252 日均线上下穿 0值这三个信号凑齐两个的时候，你就要对一波轮动开始的可能，高度重视了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，不是所有的品种之间，都适合用这样的趋势思路去看待，比如 1000 成长创新和 1000 价值稳健明显比值就在一个区间内震荡，看着比值低买高卖或许更好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就个人偏爱，300 价值稳健和 300 成长创新之间的轮动，是比较适合用这个图表去跟踪的，毕竟 A股的大盘股风格轮动，往往两三年一波，趋势性比较强。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9BOgy2RSTZqEpZiayic2kKfuRv7YIy3T3wqYofzlNosLcEFQpWOsNMUFg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9RuVDAMOkrMWCdF5YX7UVZ3q4Lvt9WBWHiaVZYbdmAAYzJSjE2hzGQ7w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9r9EZgYVrXa7VXr95qFYUgFws2991D6FJotsicZZibYNiar7nPRjgGiaeeQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9Gu4ElhwNWLQK98qyzLjDnAGpuwSIfsPCheGUsaFpBlrDqiaOvia1tdhw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9SBlRI96E6wJ3h67IamPaDe0JZ3KRuGibxyibUxxCHD2P4CUpUm5n6rqQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利股息率追踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  过去数年,中证红利是熊市中少数的亮点。但也正因此，许多投资者觉得红利已经出现泡沫了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但我始终觉得,过去数年红利的强势,不过是抗跌,不过是核心资产等其他品种的疲弱衬托的而已。要真正评价中证红利的潜力，还是要回归股息率。下面这种图，列出了中证红利历史股息率走势，同时考虑到险资的话语权越来越大，所以也加入了中证红利股息率和 10 年期中国国债的差值作为股票风险溢价率的体现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaANhG7PsvmZWh9FveE0Vx9SiaplhjkIKlGZQcfe6ycXfrmr5op1gj57nFSib8ia5BDHotQgYoQUJwnw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sun, 24 Mar 2024 09:38:43 GMT</pubDate></item></channel></rss>
