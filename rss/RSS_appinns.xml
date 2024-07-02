@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>小众软件</title>
+	<atom:link href="https://www.appinn.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.appinn.com</link>
+	<description>分享免费、小巧、实用、有趣、绿色的软件</description>
+	<lastBuildDate>Tue, 02 Jul 2024 06:52:42 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>群晖上线新的 NAS 性能对比页面</title>
+		<link>https://www.appinn.com/synology-products-performance/</link>
+					<comments>https://www.appinn.com/synology-products-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 02 Jul 2024 06:52:21 +0000</pubDate>
+				<category><![CDATA[业界消息]]></category>
+		<category><![CDATA[群晖]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48914</guid>
+
+					<description><![CDATA[群晖（Synology）最近上线了新的 NAS 性能对比页面，可以在不同的群晖 NAS 之间对比设备性能，包括磁盘读取速度、应用用户数量上限、同时访问用户数量等数据，方便用户筛选。@Appinn 主要 ]]></description>
+										<content:encoded><![CDATA[
+<p>群晖（Synology）最近上线了新的 NAS 性能对比页面，可以在不同的群晖 NAS 之间对比设备性能，包括磁盘读取速度、应用用户数量上限、同时访问用户数量等数据，方便用户筛选。@<a href="https://www.appinn.com/synology-products-performance/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-02T143704.554.jpg" alt="群晖上线新的 NAS 性能对比页面" class="wp-image-48916" title="群晖上线新的 NAS 性能对比页面 1" srcset="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-02T143704.554.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-02T143704.554-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-02T143704.554-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-02T143704.554-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>主要是用来筛选、对比不同型号的群晖 NAS 性能：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1060" height="646" src="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.43.09@2x.avif" alt="群晖上线新的 NAS 性能对比页面 1" class="wp-image-48915" title="群晖上线新的 NAS 性能对比页面 2" srcset="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.43.09@2x.avif 1060w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.43.09@2x-768x468.avif 768w" sizes="(max-width: 1060px) 100vw, 1060px" /></figure>
+
+
+
+<p>能看到的具体数据包括：</p>
+
+
+
+<ul>
+<li>iSCSI：使用 SSD 的随机 IOPS</li>
+
+
+
+<li>iSCSI：在使用 SSD 的情况下，低于 80% 峰值 IOPS 时的延迟（毫秒）</li>
+
+
+
+<li>NFS：使用 SSD 的随机 IOPS</li>
+
+
+
+<li>NFS：在使用 SSD 的情况下，低于 80% 峰值 IOPS 时的延迟（毫秒）</li>
+
+
+
+<li>SMB：使用 SSD 的顺序读取速度 (MB/s)</li>
+
+
+
+<li>SMB：使用 HDD 的顺序读取速度 (MB/s)</li>
+
+
+
+<li>Synology Office：建议用户数量上限</li>
+
+
+
+<li>Synology Office：建议同时访问用户数量</li>
+
+
+
+<li>Synology MailPlus：建议用户数量上限</li>
+
+
+
+<li>Synology MailPlus：建议同时访问用户数量</li>
+
+
+
+<li>Synology Surveillance Station：H.264 编解码器的总 FPS</li>
+
+
+
+<li>Synology Surveillance Station：H.265 编解码器的总 FPS</li>
+</ul>
+
+
+
+<p>比如对比DS1823xs+、DS923+、DS224+：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1582" height="1025" src="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.46.13@2x.avif" alt="群晖上线新的 NAS 性能对比页面 2" class="wp-image-48917" title="群晖上线新的 NAS 性能对比页面 3" srcset="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.46.13@2x.avif 1582w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.46.13@2x-768x498.avif 768w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-02-14.46.13@2x-1536x995.avif 1536w" sizes="(max-width: 1582px) 100vw, 1582px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e4%25bd%2586%25e6%2598%25af">但是</h2>
+
+
+<p>并没有旧款型号对比，只有在售型号。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://www.synology.cn/zh-cn/products/performance" target="_blank" rel="noopener">群晖性能指标</a></li>
+</ul>
+
+
+
+<p>总之有比没有强。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/synology-products-performance/</p>
+
+
+
+<p>以及，对于家用普通用户，依旧建议先用自己的 Windows 电脑来实现家庭存储，等需求到了再上 NAS 一丁点也不会迟的。</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/lizhi-23618/" rel="bookmark" title="Permanent Link: 618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价">618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价</a></li><li><a href="https://www.appinn.com/76-apps-cn-better/" rel="bookmark" title="Permanent Link: 76 款国产软件 5 折起，国货之光优惠庆典现已开启">76 款国产软件 5 折起，国货之光优惠庆典现已开启</a></li><li><a href="https://www.appinn.com/lizhi-22618-2/" rel="bookmark" title="Permanent Link: 数码荔枝 618 第一波优惠[正版软件]">数码荔枝 618 第一波优惠[正版软件]</a></li><li><a href="https://www.appinn.com/lizhi-april-24/" rel="bookmark" title="Permanent Link: 数码荔枝正版四月惠：MarginNote / BookxNote / 白描等 20+ 正版软件优惠啦">数码荔枝正版四月惠：MarginNote / BookxNote / 白描等 20+ 正版软件优惠啦</a></li><li><a href="https://www.appinn.com/lizhi-may24/" rel="bookmark" title="Permanent Link: 正版五月惠，Fences / Start11 / KeyCue 折扣来袭，正版软件 6 折起！">正版五月惠，Fences / Start11 / KeyCue 折扣来袭，正版软件 6 折起！</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/synology-products-performance/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48914" data-ulike-factor="up"
+            data-ulike-nonce="52d2590ae8" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48914 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48914" data-ulike-factor="down"
+            data-ulike-nonce="52d2590ae8" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48914 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/synology-products-performance/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/synology-products-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>空间思维画布 Kinopio 宣布开源：仅 200KB，在白板上将卡片连接起来</title>
+		<link>https://www.appinn.com/kinopio-client/</link>
+					<comments>https://www.appinn.com/kinopio-client/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 02 Jul 2024 06:11:01 +0000</pubDate>
+				<category><![CDATA[在线应用]]></category>
+		<category><![CDATA[白板]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48911</guid>
+
+					<description><![CDATA[Kinopio 是一个看起来十分有趣的在线白板工具，你可以将很多卡片以多种方式连接起来。最近开发者在 5 周年之际，宣布开源，这样你就可以在本地运行并使用 Kinopio 了。@Appinn 青小蛙在 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Kinopio </strong>是一个看起来十分有趣的在线白板工具，你可以将很多卡片以多种方式连接起来。最近开发者在 5 周年之际，宣布开源，这样你就可以在本地运行并使用 Kinopio 了。@<a href="https://www.appinn.com/kinopio-client/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.appinn.com/wp-content/uploads/2022/05/Kinopio-2.jpg" alt="空间思维画布 Kinopio 宣布开源：仅 200KB，在白板上将卡片连接起来" title="空间思维画布 Kinopio 宣布开源：仅 200KB，在白板上将卡片连接起来 4"></figure>
+
+
+
+<p>青小蛙在两年前介绍过：《<a href="https://www.appinn.com/kinopio-2-0/">Kinopio 2.0 – 把新想法与问题，用线连起来[在线白板]</a>》，当时还有一段视频：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=554348817&#038;bvid=BV1Pv4y1P7PQ&#038;cid=727949093&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e5%25bc%2580%25e6%25ba%2590">开源</h2>
+
+
+<p>开发者<a href="https://pketh.org/open-sourcing-kinopio.html" target="_blank" rel="noopener">还提到</a>：</p>
+
+
+
+<p>整个代码仅 220kb，在另一个维度中我们没有互联网但有 html，所以甚至可以通过一张软盘将 kinopio 发送给你。</p>
+
+
+
+<p>说实话，开放5年的私人代码确实感觉有点亲密，就像邀请某人过来一样。我已经把盘子洗干净并打扫干净了，但是……别看那么近。</p>
+
+
+
+<p>也就是说，与其他商业代码库相比，您可能会发现它非常简单。它只是一个 Node.js 应用程序，以下是整个安装过程：</p>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: bash; title: ; notranslate">
+git clone https://github.com/pketh/kinopio-client.git
+cd kinopio-client
+npm install
+npm install -g @vue/cli
+npm install -g hostile
+hostile set localhost kinopio.local
+</pre></div>
+
+
+<p>然后创建一个包含 <code>VITE_PROD_SERVER=true</code> 的 <code>.env.local</code> 文件，然后运行：</p>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: bash; title: ; notranslate">
+npm run serve
+https://kinopio.local:8080
+</pre></div>
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://github.com/kinopio-club/kinopio-client" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://kinopio.club/" target="_blank" rel="noopener">官网</a>（即开机用）</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/kinopio-client/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/kinopio-2-0/" rel="bookmark" title="Permanent Link: Kinopio 2.0 &#8211; 把新想法与问题，用线连起来[在线白板]">Kinopio 2.0 &#8211; 把新想法与问题，用线连起来[在线白板]</a></li><li><a href="https://www.appinn.com/liii-bittorrent-client/" rel="bookmark" title="Permanent Link: LIII BitTorrent Client &#8211; 轻量级开源 BT 下载工具[Windows]">LIII BitTorrent Client &#8211; 轻量级开源 BT 下载工具[Windows]</a></li><li><a href="https://www.appinn.com/dg-12306-auto-login-client/" rel="bookmark" title="Permanent Link: 德广火车票助手 V2.0.2 更新，助你订到火车票">德广火车票助手 V2.0.2 更新，助你订到火车票</a></li><li><a href="https://www.appinn.com/lizhi-22618-2/" rel="bookmark" title="Permanent Link: 数码荔枝 618 第一波优惠[正版软件]">数码荔枝 618 第一波优惠[正版软件]</a></li><li><a href="https://www.appinn.com/bogo-client-justing/" rel="bookmark" title="Permanent Link: 布谷 &#8211; 静雅思听客户端">布谷 &#8211; 静雅思听客户端</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/kinopio-client/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48911" data-ulike-factor="up"
+            data-ulike-nonce="4f07817854" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48911 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48911" data-ulike-factor="down"
+            data-ulike-nonce="4f07817854" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48911 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/kinopio-client/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/kinopio-client/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EverythingToolbar &#8211; 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单</title>
+		<link>https://www.appinn.com/everything-toolbar-2/</link>
+					<comments>https://www.appinn.com/everything-toolbar-2/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 08:11:44 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Everything]]></category>
+		<category><![CDATA[搜索]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48906</guid>
+
+					<description><![CDATA[EverythingToolbar 是一款可以将 Everything 无缝集成到 Windows 10/11 开始菜单的小工具，用来替代系统搜索按钮，让你拥有秒级文件搜索工具。@Appinn 来自发 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>EverythingToolbar</strong> 是一款可以将 Everything 无缝集成到 Windows 10/11 开始菜单的小工具，用来替代系统搜索按钮，让你拥有秒级文件搜索工具。@<a href="https://www.appinn.com/everything-toolbar-2/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410.jpg" alt="EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单" class="wp-image-48907" title="EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 5" srcset="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，@CCR 同学的推荐：<a href="https://meta.appinn.net/t/topic/58067" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/58067</a></p>
+
+
+<h2 class="wp-block-heading" id="everythingtoolbar">EverythingToolbar</h2>
+
+
+<p><a href="https://meta.appinn.net/t/topic/58067" target="_blank" rel="noopener">EverythingToolbar 更新至1.3.4</a>，它是一个用于将 Everything 的强大搜索功能整合到 Windows 的解决方案。其可以使用户在使用搜索栏或 Win 键搜索时便捷地自动调用 Everything 而非 Win 自带的垃圾搜索功能……</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>一直以来，Windows 自带那个搜索都&#8230;比较没什么用途，主要是搜不到什么东西。而 <a href="https://www.appinn.com/tag/everything/">Everything</a> 则不同，它可以快速搜索到 NTFS 磁盘里的文件名，基本上就是秒级出结果。可以算作 Windows 必备工具。</p>
+
+
+
+<p>EverythingToolbar 则可以完美的替代 Windows 自带搜索，包括：</p>
+
+
+
+<ul>
+<li>开始菜单的搜索按钮</li>
+
+
+
+<li>快捷键（Win + S）</li>
+</ul>
+
+
+
+<p>并且以系统原生的样式显示搜索结果。下图为 Windows 11 中的例子：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1855921117&#038;bvid=BV1Js421M77Y&#038;cid=1601555572&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>我觉得效果非常赞啊。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25ae%2589%25e8%25a3%2585">安装</h2>
+
+
+<p>确保是 Windows 10 或 11，并且 Everything ≥ 1.4.1 在运行，安装后打开 <code>C:\Program Files (x86)\EverythingToolbar\EverythingToolbar.Launcher.exe</code></p>
+
+
+
+<p>会有一个设置向导，比如修改快捷键、替换开始菜单的搜索按钮等。</p>
+
+
+
+<p>对于 Everything 1.5a 需要设置一下：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2242" height="1570" src="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-01-16.02.07@2x.avif" alt="EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 3" class="wp-image-48908" title="EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 6" srcset="https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-01-16.02.07@2x.avif 2242w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-01-16.02.07@2x-768x538.avif 768w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-01-16.02.07@2x-1536x1076.avif 1536w, https://www.appinn.com/wp-content/uploads/2024/07/Appinn-2024-07-01-16.02.07@2x-2048x1434.avif 2048w" sizes="(max-width: 2242px) 100vw, 2242px" /></figure>
+
+
+<h3 class="wp-block-heading" id="%25e9%2594%25ae%25e7%259b%2598%25e5%25bf%25ab%25e6%258d%25b7%25e9%2594%25ae">键盘快捷键<a href="https://github.com/srwi/EverythingToolbar?tab=readme-ov-file#keyboard-shortcuts" target="_blank" rel="noopener"></a></h3>
+
+
+<figure class="wp-block-table"><table><thead><tr><th>捷径</th><th>功能</th></tr></thead><tbody><tr><td><kbd>↑</kbd>/<kbd>↓</kbd></td><td>导航搜索结果</td></tr><tr><td><kbd>Ctrl</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd></td><td>浏览搜索历史记录（如果启用）</td></tr><tr><td><kbd>Enter</kbd></td><td>打开</td></tr><tr><td><kbd>Ctrl</kbd>+<kbd>Enter</kbd>/<kbd>Click</kbd></td><td>开放路径</td></tr><tr><td><kbd>Shift</kbd>+<kbd>Enter</kbd>/<kbd>Click</kbd></td><td>在 Everything 中打开</td></tr><tr><td><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd></td><td>将完整路径复制到剪贴板</td></tr><tr><td><kbd>Alt</kbd>+<kbd>Enter</kbd>/<kbd>Click</kbd></td><td>文件属性</td></tr><tr><td><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd></td><td>以管理员身份运行</td></tr><tr><td>(<kbd>Shift</kbd>+)<kbd>Tab</kbd></td><td>循环筛选器</td></tr><tr><td><kbd>Ctrl</kbd>+<kbd>0-9</kbd></td><td>选择筛选器</td></tr><tr><td><kbd>Space</kbd></td><td>在 <a href="https://github.com/QL-Win/QuickLook" target="_blank" rel="noopener">QuickLook</a>&nbsp;中预览文件</td></tr><tr><td><kbd>Win</kbd>+<kbd>Alt</kbd>+<kbd>S</kbd></td><td>焦点搜索框（可自定义）</td></tr></tbody></table></figure>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://github.com/srwi/EverythingToolbar" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/c9a715ba1572" target="_blank" rel="noopener">搬运</a>（包括 1.5a 版本）</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/everything-toolbar-2/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/everything-toolbar/" rel="bookmark" title="Permanent Link: Everything Toolbar &#8211; 用 Everything 替换 Win 10 任务栏系统搜索框">Everything Toolbar &#8211; 用 Everything 替换 Win 10 任务栏系统搜索框</a></li><li><a href="https://www.appinn.com/everything-appinn/" rel="bookmark" title="Permanent Link: Everything Appinn 0.3 – Everything 快捷键增强">Everything Appinn 0.3 – Everything 快捷键增强</a></li><li><a href="https://www.appinn.com/everything-appinn-02/" rel="bookmark" title="Permanent Link: Everything Appinn 0.2 &#8211; Everything 快捷键增强">Everything Appinn 0.2 &#8211; Everything 快捷键增强</a></li><li><a href="https://www.appinn.com/everything-safe-bug-exposed-file/" rel="bookmark" title="Permanent Link: Everything “HTTP 服务器”功能安全漏洞：允许任何人远程访问本地文件">Everything “HTTP 服务器”功能安全漏洞：允许任何人远程访问本地文件</a></li><li><a href="https://www.appinn.com/runasspc/" rel="bookmark" title="Permanent Link: 通过 RunasSpc 让受限用户使用 Everything 进行搜索">通过 RunasSpc 让受限用户使用 Everything 进行搜索</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/everything-toolbar-2/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48906" data-ulike-factor="up"
+            data-ulike-nonce="2048d41e14" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48906 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48906" data-ulike-factor="down"
+            data-ulike-nonce="2048d41e14" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48906 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/everything-toolbar-2/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/everything-toolbar-2/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取</title>
+		<link>https://www.appinn.com/aiarty-image-enhancer/</link>
+					<comments>https://www.appinn.com/aiarty-image-enhancer/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2024 09:27:03 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[噪点]]></category>
+		<category><![CDATA[图片处理]]></category>
+		<category><![CDATA[放大]]></category>
+		<category><![CDATA[模糊]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48884</guid>
+
+					<description><![CDATA[在现代数字生活中，图片质量对我们的日常体验至关重要。无论是记录珍贵的家庭时光，还是为工作项目准备高质量的视觉素材，或者是AI 工具生成的桌面壁纸，高清、细致的图片都能让我们的记忆和作品更加生动。正因如 ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="804" height="350" src="https://www.appinn.com/wp-content/uploads/2024/06/cover-photo.jpg" alt="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取" class="wp-image-48885" title="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 7" srcset="https://www.appinn.com/wp-content/uploads/2024/06/cover-photo.jpg 804w, https://www.appinn.com/wp-content/uploads/2024/06/cover-photo-768x334.jpg 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure>
+
+
+
+<p>在现代数字生活中，图片质量对我们的日常体验至关重要。无论是记录珍贵的家庭时光，还是为工作项目准备高质量的视觉素材，或者是AI 工具生成的桌面壁纸，高清、细致的图片都能让我们的记忆和作品更加生动。正因如此，一款强大的图片增强工具，成为了提升图像质量的绝佳选择。</p>
+
+
+
+<p><strong>Aiarty Image Enhancer</strong> 就是其中一款强大有力的图片增强软件，适用于 Mac 和 Windows 电脑，AI 加持下，主打图片去噪点、去模糊、增加真实细节和放大功能。可以说，是拍照爱好者，平面设计者等的便利助手。</p>
+
+
+<h2 class="wp-block-heading" id="%25e7%259b%25ae%25e5%2589%258d-aiarty-%25e6%25ad%25a3%25e5%259c%25a8%25e8%25bf%259b%25e8%25a1%258c%25e9%25a6%2596%25e5%258f%2591%25e9%2599%2590%25e5%2585%258d%25e8%25b5%25a0%25e9%2580%25811%25e5%25b9%25b4%25e7%259a%2584%25e8%25ae%25b8%25e5%258f%25af%25e6%25b3%25a8%25e5%2586%258c%25e7%25a0%2581"><strong>目前 Aiarty 正在进行首发限免，赠送1年的许可注册码。</strong></h2>
+
+
+<p><strong>目前 Aiarty 正在进行首发限免，赠送1年的许可注册码。</strong>是的，整整1年。在此期间都可以升级到最新的版本，且不需要花费一分钱，也不需要订阅和填任何支付信息。但是，需要注意的是，这个活动是有时间限制的，如有需要的，请抓紧时间尽快薅这个羊毛。</p>
+
+
+
+<p>点击前往：<a href="https://www.aiarty.com/cn/ai-image-enhancer/?ttref=2406-aia-media-ain-gp-3l" target="_blank" rel="noreferrer noopener"><strong>Aiarty Image Enhancer首发限免活动入口 ></strong></a></p>
+
+
+
+<p>Aiarty 提供了三种AI模型，分别是：More-Detail GAN，Smooth Diff和Real-Photo。第一种模式可生成一些真实的细节，用于处理肖想、有复杂纹理的图，比如面部肌理、头发、布料、金属等。Smooth Diff 模型对于动漫、3D、线条绘制等图片处理效果很好，能够平滑画面同时保持应有的轮廓的清晰度。最后一种针对于已经很大的拍摄的照片可以提升丰富的视觉效果。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="774" src="https://www.appinn.com/wp-content/uploads/2024/06/3-models.avif" alt="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 4" class="wp-image-48886" title="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 8" srcset="https://www.appinn.com/wp-content/uploads/2024/06/3-models.avif 1158w, https://www.appinn.com/wp-content/uploads/2024/06/3-models-768x513.avif 768w" sizes="(max-width: 1158px) 100vw, 1158px" /></figure>
+
+
+
+<p>那么 Aiarty Image Enhancer 究竟能做到那些图片方面的处理呢？</p>
+
+
+<h2 class="wp-block-heading" id="1-%25e5%258e%25bb%25e6%25a8%25a1%25e7%25b3%258a%25e5%258e%25bb%25e4%25bc%25aa%25e5%25bd%25b1">1. <strong>去模糊，去伪影</strong></h2>
+
+
+<p>模糊的照片不仅会影响观看体验，还可能让重要的细节淹没在不清晰的画面中。Aiarty 的去模糊功能能够智能地识别并修复模糊区域，使图片变得清晰锐利，也能够去除图片中的像素块和伪影。想象一下，能够将那些模糊带有伪影且像素块和锯齿明显的照片转变成堪比顶级画廊的艺术品级别的质量，是多么令人开心的一件事。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="774" src="https://www.appinn.com/wp-content/uploads/2024/06/deblur.avif" alt="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 5" class="wp-image-48887" title="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 9" srcset="https://www.appinn.com/wp-content/uploads/2024/06/deblur.avif 1158w, https://www.appinn.com/wp-content/uploads/2024/06/deblur-768x513.avif 768w" sizes="(max-width: 1158px) 100vw, 1158px" /></figure>
+
+
+<h2 class="wp-block-heading" id="2-%25e5%258e%25bb%25e5%2599%25aa%25e7%2582%25b9">2. 去噪点</h2>
+
+
+<p>一些旧照片以及在低光环境下拍摄的照片常常会出现噪点，影响整体的清晰度和美观，Aiarty Image Enhancer 配备先进的降噪技术，能够有效地去除图片中的噪点，同时保留原有的细节。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="774" src="https://www.appinn.com/wp-content/uploads/2024/06/denoise.avif" alt="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 6" class="wp-image-48888" title="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 10" srcset="https://www.appinn.com/wp-content/uploads/2024/06/denoise.avif 1158w, https://www.appinn.com/wp-content/uploads/2024/06/denoise-768x513.avif 768w" sizes="(max-width: 1158px) 100vw, 1158px" /></figure>
+
+
+<h2 class="wp-block-heading" id="3-%25e5%25a2%259e%25e5%258a%25a0%25e7%259c%259f%25e5%25ae%259e%25e7%25bb%2586%25e8%258a%2582">3. <strong>增加真实细节</strong></h2>
+
+
+<p>正如前面介绍的 More-Detail GAN 模型，Aiarty 采用先进的图片处理算法，能够智能地添加真实细节，使图片更加生动、逼真。真实的毛发，真实的皮肤，真实的材质，让整个画面更有质感。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1158" height="774" src="https://www.appinn.com/wp-content/uploads/2024/06/more-details.avif" alt="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 7" class="wp-image-48889" title="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 11" srcset="https://www.appinn.com/wp-content/uploads/2024/06/more-details.avif 1158w, https://www.appinn.com/wp-content/uploads/2024/06/more-details-768x513.avif 768w" sizes="(max-width: 1158px) 100vw, 1158px" /></figure>
+
+
+<h2 class="wp-block-heading" id="4-%25e6%2594%25be%25e5%25a4%25a7">4. 放大</h2>
+
+
+<p>将低分辨率的图片放大做壁纸，列印，制作海报或者用作页面设计都是不少的需求。利用 Aiarty 的话，可以将图片放大 8 倍，最高至 32K。几乎可以满足所有的大分辨率需求了。</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1158" height="774" src="https://www.appinn.com/wp-content/uploads/2024/06/upscale.avif" alt="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 8" class="wp-image-48890" style="width:839px;height:auto" title="首发限免：价值85美元的 Aiarty Image Enhancer 1年注册码免费获取 12" srcset="https://www.appinn.com/wp-content/uploads/2024/06/upscale.avif 1158w, https://www.appinn.com/wp-content/uploads/2024/06/upscale-768x513.avif 768w" sizes="(max-width: 1158px) 100vw, 1158px" /></figure>
+
+
+
+<p>想要了解更多，可以访问 <a href="https://www.aiarty.com/cn/" target="_blank" rel="noopener">Aiarty官方网站</a>。</p>
+
+
+
+<p>对于任何希望提升图片质量的人来说，Aiarty Image Enhancer 无疑是一个值得推荐的工具。它不仅能让图片更加美观，还能让珍贵的记忆和重要的视觉素材得到更好的保存和展示。通过使用Aiarty，能够轻松应对各种图片质量问题，让每一张照片都能呈现出最佳的效果。不要再为模糊、噪点和细节不足的照片烦恼，利用这个首发限免的机会，让你的图片质量达到新的高度吧！</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/photokit/" rel="bookmark" title="Permanent Link: PhotoKit 办公室小白的图片编辑神器">PhotoKit 办公室小白的图片编辑神器</a></li><li><a href="https://www.appinn.com/stellarplayer/" rel="bookmark" title="Permanent Link: 超好用的神级播放软件，内含福利资源！">超好用的神级播放软件，内含福利资源！</a></li><li><a href="https://www.appinn.com/dreammail-pro-3/" rel="bookmark" title="Permanent Link: 畅邮（DM Pro）- 一款强悍、纯净而稳定的重量级电子邮箱客户端（支持分发、追踪）[Windows]">畅邮（DM Pro）- 一款强悍、纯净而稳定的重量级电子邮箱客户端（支持分发、追踪）[Windows]</a></li><li><a href="https://www.appinn.com/aichat4-0/" rel="bookmark" title="Permanent Link: 永久终身激活AI4.0！史诗级神器，炸裂口碑！！（安卓、Win、Mac）">永久终身激活AI4.0！史诗级神器，炸裂口碑！！（安卓、Win、Mac）</a></li><li><a href="https://www.appinn.com/huoban-cloud/" rel="bookmark" title="Permanent Link: 伙伴云 &#8211; 真 0 代码，用 15 分钟搭建仓库售后任务多人协同工具">伙伴云 &#8211; 真 0 代码，用 15 分钟搭建仓库售后任务多人协同工具</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/aiarty-image-enhancer/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48884" data-ulike-factor="up"
+            data-ulike-nonce="b84e4fa1be" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48884 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48884" data-ulike-factor="down"
+            data-ulike-nonce="b84e4fa1be" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48884 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/aiarty-image-enhancer/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/aiarty-image-enhancer/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ChromeAI &#8211; 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高</title>
+		<link>https://www.appinn.com/chrome-ai-for-gemini-nano/</link>
+					<comments>https://www.appinn.com/chrome-ai-for-gemini-nano/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2024 07:59:05 +0000</pubDate>
+				<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[大语言模型]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48898</guid>
+
+					<description><![CDATA[最新版本的 Chrome Dev 集成了大语言模型 Gemini Nano，可以让用户无限量、离线使用（需额外下载1.2GB 模型文件）。但目前只能通过控制台使用，非常的麻烦。于是有同学就做了一个网页 ]]></description>
+										<content:encoded><![CDATA[
+<p>最新版本的 Chrome Dev 集成了大语言模型 <strong>Gemini Nano</strong>，可以让用户无限量、离线使用（需额外下载1.2GB 模型文件）。但目前只能通过控制台使用，非常的麻烦。于是有同学就做了一个网页，可以直接调用模型，像普通 AI 一样使用 Chrome Dev  内置的模型，但门槛颇高。@<a href="https://www.appinn.com/chrome-ai-for-gemini-nano/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195.jpg" alt="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高" class="wp-image-48899" title="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 13" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e5%25a6%2582%25e4%25bd%2595%25e5%2586%2585%25e7%25bd%25ae-gemini-nano">如何内置 <strong>Gemini Nano</strong>？</h2>
+
+
+<p>Gemini Nano 曾经是 Google 想要内置到手机中的模型，现在先进入了 Chrome，但依旧需要 1.2GB 的模型文件。</p>
+
+
+<h3 class="wp-block-heading" id="%25e6%25ad%25a5%25e9%25aa%25a4%25e9%2597%25a8%25e6%25a7%259b%25e9%25a2%2587%25e9%25ab%2598">步骤（门槛颇高）</h3>
+
+
+<p>缺一不可：</p>
+
+
+
+<ol>
+<li>需要 Chrome (<a href="https://www.google.cn/intl/zh-CN/chrome/dev/" target="_blank" rel="noopener">Dev</a> / <a href="https://www.google.cn/intl/zh-CN/chrome/canary/" target="_blank" rel="noopener">Canary</a>) 127 以上版本</li>
+
+
+
+<li>设置 Chrome 语言为 <strong>English US</strong></li>
+
+
+
+<li>开启(Enabled) <kbd>chrome://flags/#prompt-api-for-gemini-nanoSelect</kbd></li>
+
+
+
+<li>开启（Enabled BypassPrefRequirement） <kbd>chrome://flags/#optimization-guide-on-device</kbd></li>
+
+
+
+<li>进入 <kbd>chrome://components</kbd> &#8216;Check for Update&#8217; on Optimization Guide On Device Model to download the model. If you don&#8217;t see Optimization Guide, ensure you have set the flags correctly above, relaunch your browser, and refresh the page.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1262" height="1290" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.41.49@2x.avif" alt="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 9" class="wp-image-48900" style="width:840px;height:auto" title="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 14" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.41.49@2x.avif 1262w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.41.49@2x-768x785.avif 768w" sizes="(max-width: 1262px) 100vw, 1262px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e4%25bd%25bf%25e7%2594%25a8%25e4%25b8%25a4%25e7%25a7%258d%25e6%2596%25b9%25e5%25bc%258f">使用（两种方式）</h2>
+
+
+<p>然后，就可以直接用了。</p>
+
+
+
+<p>注意由于是本地模型，所有数据都不上传的。但是，这个网页本身还没离线，需要上网。</p>
+
+
+<h3 class="wp-block-heading" id="chromeai">ChromeAI</h3>
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @vine_chen <a href="https://meta.appinn.net/t/topic/58188" target="_blank" rel="noopener">自荐</a>，直接打开网页就能用：</p>
+
+
+
+<ul>
+<li><a href="https://chromeai.org/" target="_blank" rel="noopener">https://chromeai.org/</a></li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="1179" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.47.53@2x.avif" alt="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 10" class="wp-image-48901" title="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 15" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.47.53@2x.avif 1400w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.47.53@2x-768x647.avif 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<h2 class="wp-block-heading" id="chrome-ai-%25e6%2589%25a9%25e5%25b1%2595">Chrome AI 扩展</h2>
+
+
+<p>在研究的时候，意外搜到了这个扩展，用起来也挺不错的，可以方便的在浏览器侧边栏打开对话框：</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="1572" height="1432" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.52.52@2x.avif" alt="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 11" class="wp-image-48902" style="width:840px;height:auto" title="ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 16" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.52.52@2x.avif 1572w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.52.52@2x-768x700.avif 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-30-15.52.52@2x-1536x1399.avif 1536w" sizes="(max-width: 1572px) 100vw, 1572px" /></figure>
+
+
+
+<p>这个扩展可以做到关闭 Wi-Fi 之后可用。</p>
+
+
+
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/emlpbjnkjcbepocijpjggfmmloipamia" target="_blank" rel="noopener">Chrome 商店</a></li>
+</ul>
+
+
+
+<p>你们就看着选一个用吧。</p>
+
+
+
+<p>注意模型略大，下载门槛较高。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/chrome-ai-for-gemini-nano/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/google-gemini-ai/" rel="bookmark" title="Permanent Link: Google 发布了「他们规模最大、能力最强的 AI 模型」 Gemini">Google 发布了「他们规模最大、能力最强的 AI 模型」 Gemini</a></li><li><a href="https://www.appinn.com/gemini-pro-for-bard/" rel="bookmark" title="Permanent Link: Gemini Pro 多语言版已上线 Bard，支持中文（简体/繁体）">Gemini Pro 多语言版已上线 Bard，支持中文（简体/繁体）</a></li><li><a href="https://www.appinn.com/chrome-4-extensions-setup/" rel="bookmark" title="Permanent Link: Chrome 4.0，用扩展武装它">Chrome 4.0，用扩展武装它</a></li><li><a href="https://www.appinn.com/gemini-the-duplicate-finder-for-osx/" rel="bookmark" title="Permanent Link: Gemini: The Duplicate Finder &#8211; 重复文件查询[OS X 限免]">Gemini: The Duplicate Finder &#8211; 重复文件查询[OS X 限免]</a></li><li><a href="https://www.appinn.com/new-tab-reloaded-for-chrome/" rel="bookmark" title="Permanent Link: New Tab Reloaded &#8211; 找回最熟悉的 Chrome 新标签页">New Tab Reloaded &#8211; 找回最熟悉的 Chrome 新标签页</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/chrome-ai-for-gemini-nano/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48898" data-ulike-factor="up"
+            data-ulike-nonce="a5918db9dd" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48898 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48898" data-ulike-factor="down"
+            data-ulike-nonce="a5918db9dd" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48898 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/chrome-ai-for-gemini-nano/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/chrome-ai-for-gemini-nano/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>如何切割长图打印成 A4 尺寸？｜94.5% 的人不知道的浏览器打印图片技巧</title>
+		<link>https://www.appinn.com/split-and-print-image-use-browser/</link>
+					<comments>https://www.appinn.com/split-and-print-image-use-browser/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sat, 29 Jun 2024 08:51:18 +0000</pubDate>
+				<category><![CDATA[问答]]></category>
+		<category><![CDATA[电脑技巧]]></category>
+		<category><![CDATA[打印]]></category>
+		<category><![CDATA[竟然还可以这样]]></category>
+		<category><![CDATA[长图]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48895</guid>
+
+					<description><![CDATA[最近一个来自微博@小众软件的新问题： 有什么好的办法，把一张长截图分割成几张，方便用A4纸打印出来的吗？或者能转成标准的pdf文档也行，主要是能方便用A4纸打印。 并留下了一张长长的图片。 这个问题之 ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/06/faq-14.jpg" alt="如何切割长图，并打印成 A4 尺寸？" class="wp-image-48896" title="如何切割长图打印成 A4 尺寸？｜94.5% 的人不知道的浏览器打印图片技巧 17" srcset="https://www.appinn.com/wp-content/uploads/2024/06/faq-14.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/06/faq-14-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/06/faq-14-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/06/faq-14-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>最近一个来自<a href="https://weibo.com/1684197391/OkVfycsvI" target="_blank" rel="noopener">微博@小众软件</a>的新问题：</p>
+
+
+
+<p>有什么好的办法，把一张长截图分割成几张，方便用A4纸打印出来的吗？或者能转成标准的pdf文档也行，主要是能方便用A4纸打印。</p>
+
+
+
+<p>并留下了一张长长的图片。</p>
+
+
+
+<p>这个问题之前青小蛙也遇到过，就是想将一张图片以更大的尺寸打印出来（切割长图打印），然后拼起来，组成完整的图片。之前也没有什么好办法。但这次是长图，折腾了一圈，找到了最简单的方法。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25a4%258d%25e6%259d%2582%25e7%259a%2584%25e8%25a7%25a3%25e5%2586%25b3%25e6%2596%25b9%25e5%25bc%258f">复杂的解决方式</h2>
+
+
+<p>微博的同学中，有提到先计算宽度，然后用PS生成参考线，再切片解决的；有用画图，调个比例，然后打印的；有用 Excel 的&#8230;</p>
+
+
+
+<p>虽然说万能的 Excel 啥都能干，但总有点大材小用啊。</p>
+
+
+<h2 class="wp-block-heading" id="%25e7%25ae%2580%25e5%258d%2595%25e7%259a%2584%25e8%25a7%25a3%25e5%2586%25b3%25e6%2596%25b9%25e5%25bc%258f%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e7%259b%25b4%25e6%258e%25a5%25e6%2589%2593%25e5%258d%25b0">简单的解决方式：浏览器直接打印</h2>
+
+
+<p>微博的 @Himawari-8、@GarmenBlank、@D0LLARS 同学，以及论坛的 @bugeshan 同学都提到了，直接使用浏览器的打印功能，就行！</p>
+
+
+
+<p>以及 @<a href="https://meta.appinn.net/t/topic/58155/6?u=qingwa" target="_blank" rel="noopener">VIctoryRoad</a> 同学提到的：</p>
+
+
+
+<p>一个可能有用的方法：</p>
+
+
+
+<ol>
+<li>用 Chrome 浏览器打开图片</li>
+
+
+
+<li>点击图片，让图片以完整尺寸加载（如果图片太大，也可在按住 Ctrl 键的同时滚动鼠标滚轮，调整图片缩放尺寸）</li>
+
+
+
+<li>按 Ctrl+P，调出打印对话框</li>
+
+
+
+<li>点击 “更多设置” → 取消勾选 “页眉和页脚”</li>
+
+
+
+<li>选择打印机，直接打印，或先输出为 PDF，再拿到打印机上打印。</li>
+</ol>
+
+
+
+<p>如此操作，Chrome 浏览器会根据 A4 纸尺寸自动裁剪图片，每一页显示图片的一部分。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>虽然有点意外，但的确是这样的&#8230;</p>
+
+
+
+<p>青小蛙尝试了不同系统的看图软件来打印，都是将一张长图塞进了一张 A4 中，也尝试了浏览器打印，不行啊！</p>
+
+
+
+<p>为什么会有那么多人说行？</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%259b%25a0%25e4%25b8%25ba%25e4%25bd%25a0%25e9%259c%2580%25e8%25a6%2581%25e5%2585%2588%25e5%259c%25a8%25e6%25b5%258f%25e8%25a7%2588%25e5%2599%25a8%25e9%2587%258c%25e6%2594%25be%25e5%25a4%25a7%25e7%259c%258b%25e5%259b%25be%25e5%2586%258d%25e6%2589%2593%25e5%258d%25b0%25e5%25b0%25b1%25e8%25a1%258c%25e4%25ba%2586">因为你需要先在浏览器里放大看图，再打印，就行了 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f631.png" alt="😱" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h3>
+
+
+<p>来看视频吧：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1005884599&#038;bvid=BV1Xx4y147qs&#038;cid=1599662348&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>完全想不到，#<a href="https://www.appinn.com/tag/竟然还可以这样/">竟然还可以这样</a>，居然这样解决了问题。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/split-and-print-image-use-browser/</p>
+
+
+
+<p>94.5% 是一个杜撰的数字。</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/subscribe-rss-to-inoreader/" rel="bookmark" title="Permanent Link: 一键订阅 RSS 至 Inoreader，支持 RSSHub（微博、简书、知乎、B站等） [浏览器小书签]">一键订阅 RSS 至 Inoreader，支持 RSSHub（微博、简书、知乎、B站等） [浏览器小书签]</a></li><li><a href="https://www.appinn.com/print-test-page-ok/" rel="bookmark" title="Permanent Link: Print.Test.Page.OK &#8211; 帮你测试打印机，更专业的打印测试页工具[Windows]">Print.Test.Page.OK &#8211; 帮你测试打印机，更专业的打印测试页工具[Windows]</a></li><li><a href="https://www.appinn.com/photography-how-to/" rel="bookmark" title="Permanent Link: Apple 教你 16 种 iPhone 7 拍照技巧，人人都是摄影师">Apple 教你 16 种 iPhone 7 拍照技巧，人人都是摄影师</a></li><li><a href="https://www.appinn.com/split-browser-firefox/" rel="bookmark" title="Permanent Link: Split Browser &#8211; Firefox 分屏浏览扩展">Split Browser &#8211; Firefox 分屏浏览扩展</a></li><li><a href="https://www.appinn.com/sejda-split-pdf/" rel="bookmark" title="Permanent Link: Sejda &#8211; 将 PDF 页面从中间拆分：A3 尺寸试卷切割为 A4 尺寸，方便打印">Sejda &#8211; 将 PDF 页面从中间拆分：A3 尺寸试卷切割为 A4 尺寸，方便打印</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/split-and-print-image-use-browser/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48895" data-ulike-factor="up"
+            data-ulike-nonce="d7d9b00366" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48895 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+4"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48895" data-ulike-factor="down"
+            data-ulike-nonce="d7d9b00366" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48895 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/split-and-print-image-use-browser/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/split-and-print-image-use-browser/feed/</wfw:commentRss>
+			<slash:comments>33</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Big Text Display &#8211; 一个免费无内购的全屏大字显示应用，带闪烁[iOS]</title>
+		<link>https://www.appinn.com/big-text-display-for-ios/</link>
+					<comments>https://www.appinn.com/big-text-display-for-ios/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2024 07:58:32 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[全屏]]></category>
+		<category><![CDATA[大字]]></category>
+		<category><![CDATA[找人]]></category>
+		<category><![CDATA[接机]]></category>
+		<category><![CDATA[显示]]></category>
+		<category><![CDATA[演唱会]]></category>
+		<category><![CDATA[表白]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48881</guid>
+
+					<description><![CDATA[Big Text Display 是一款用能用全屏大字显示信息的 iPhone、iPad 应用，简单易用，摇晃带闪烁。让很远的人也能看到你。支持语音输入。@Appinn 就很简单：用占据整个屏幕，非常 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Big Text Display</strong> 是一款用能用全屏大字显示信息的 iPhone、iPad 应用，简单易用，摇晃带闪烁。让很远的人也能看到你。支持语音输入。@<a href="https://www.appinn.com/big-text-display-for-ios/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-28T154748.890.jpg" alt="Big Text Display - 一个免费无内购的全屏大字显示应用，带闪烁[iOS] 12" class="wp-image-48882" title="Big Text Display - 一个免费无内购的全屏大字显示应用，带闪烁[iOS] 18" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-28T154748.890.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-28T154748.890-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-28T154748.890-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-28T154748.890-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>就很简单：用占据整个屏幕，非常大的字写信息，让其他人轻松看到。</p>
+
+
+
+<p>摇一摇还能闪烁起来，让别人注意到你。</p>
+
+
+
+<p>来看视频：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1855929466&#038;bvid=BV1Hs421M75e&#038;cid=1598636544&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://apps.apple.com/cn/app/big-text-display/id6443613036" target="_blank" rel="noopener">App Store</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/big-text-display-for-ios/</p>
+
+
+
+<p>来，你们讲讲都有什么用？</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/bookmarklet/" rel="bookmark" title="Permanent Link: Bookmarklet &#8211; 小书签，实用浏览器小工具补完">Bookmarklet &#8211; 小书签，实用浏览器小工具补完</a></li><li><a href="https://www.appinn.com/dreammail-pro-3/" rel="bookmark" title="Permanent Link: 畅邮（DM Pro）- 一款强悍、纯净而稳定的重量级电子邮箱客户端（支持分发、追踪）[Windows]">畅邮（DM Pro）- 一款强悍、纯净而稳定的重量级电子邮箱客户端（支持分发、追踪）[Windows]</a></li><li><a href="https://www.appinn.com/hedgewars/" rel="bookmark" title="Permanent Link: Hedgewars &#8211; 刺猬大作战，开源免费跨平台的百战天虫">Hedgewars &#8211; 刺猬大作战，开源免费跨平台的百战天虫</a></li><li><a href="https://www.appinn.com/a-motley-collection-of-ahk/" rel="bookmark" title="Permanent Link: AHK 快餐店[19] 之 杂七杂八">AHK 快餐店[19] 之 杂七杂八</a></li><li><a href="https://www.appinn.com/macos-big-sur-is-released/" rel="bookmark" title="Permanent Link: macOS Big Sur 正式版 11.0.1 发布">macOS Big Sur 正式版 11.0.1 发布</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/big-text-display-for-ios/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48881" data-ulike-factor="up"
+            data-ulike-nonce="41fed9b84c" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48881 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48881" data-ulike-factor="down"
+            data-ulike-nonce="41fed9b84c" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48881 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/big-text-display-for-ios/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/big-text-display-for-ios/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮</title>
+		<link>https://www.appinn.com/unifi-express/</link>
+					<comments>https://www.appinn.com/unifi-express/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 08:34:49 +0000</pubDate>
+				<category><![CDATA[智能硬件]]></category>
+		<category><![CDATA[Ubiquiti]]></category>
+		<category><![CDATA[路由器]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48803</guid>
+
+					<description><![CDATA[最近拿到了一款企业级的新品路由器产品 UniFi Express，这是一款由 Ubiquiti 推出的紧凑型多功能一体机，桌面式云网关主机，集成了控制器，即插机用，双频 WiFi 6 接入点，支持 M ]]></description>
+										<content:encoded><![CDATA[
+<p>最近拿到了一款企业级的新品路由器产品 <strong>UniFi Express</strong>，这是一款由 <strong>Ubiquiti</strong> 推出的紧凑型多功能一体机，桌面式云网关主机，集成了控制器，即插机用，双频 WiFi 6 接入点，支持 Mesh 节点组网，可以快速无线拓展 Wi-Fi，一起来看一下吧。@Appinn</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-24T111615.035.jpg" alt="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 13" class="wp-image-48804" title="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 19" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-24T111615.035.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-24T111615.035-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-24T111615.035-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-24T111615.035-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="ubiquiti-%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588"><strong>Ubiquiti</strong> 是什么</h2>
+
+
+<p><strong>Ubiquiti</strong> 是一家提供网络设备和解决方案的公司，著名的产品有 <strong>UniFi&nbsp;</strong>系列、<strong>AmpliFi</strong> 系列、<strong>AirMax</strong> 系列、<strong>airFiber</strong> 系列等。</p>
+
+
+
+<p>青小蛙印象比较深刻的事情就是他们老板同时也是 NBA 球队孟菲斯灰熊的老板，于是在孟菲斯灰熊的主场 FedEx Forum 体育场中，就换上了全套 <strong>Ubiquiti</strong> 设备，也是典型的大型场馆+人多的案例。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1200" height="628" src="https://www.appinn.com/wp-content/uploads/2024/06/1504144717428601.avif" alt="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 14" class="wp-image-48805" title="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 20" srcset="https://www.appinn.com/wp-content/uploads/2024/06/1504144717428601.avif 1200w, https://www.appinn.com/wp-content/uploads/2024/06/1504144717428601-768x402.avif 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p>另外一件事情，就是联合国教科文组织 (UNESCO) 和国际原子能机构 (IAEA) 以及意大利政府下属的一家研究所 (International Centre for Theoretical Physics) 利用 <strong>UBNT airFiber 5X</strong> 产品在意大利撒丁岛和托斯卡纳区的一座山上实现了 304 公里的无线连接，经过如此远的距离后，该链接还保持了令人惊异的 356.33 Mbps 的带宽。<a href="https://community.ui.com/stories/ICTP-and-CISAR-take-the-challenge-and-upgrade-with-AF5X-304km-356Mbps-Record/4f30cf2d-72aa-4e26-87f7-8ceff39f80ce" target="_blank" rel="noopener">via</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1260" height="898" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.34.51@2x.avif" alt="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 15" class="wp-image-48806" title="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 21" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.34.51@2x.avif 1260w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.34.51@2x-768x547.avif 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.34.51@2x-300x215.avif 300w" sizes="(max-width: 1260px) 100vw, 1260px" /></figure>
+
+
+<h2 class="wp-block-heading" id="unifi-express-%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">UniFi Express 是什么</h2>
+
+
+<p>UniFi Express 就是一台企业级路由器，样子十分小巧、漂亮，前面还有一个显示屏，可以显示连接的客户端数量，以及实时的网络状况：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1505" height="854" src="https://www.appinn.com/wp-content/uploads/2024/06/IMG_7877_2.avif" alt="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 16" class="wp-image-48807" title="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 22" srcset="https://www.appinn.com/wp-content/uploads/2024/06/IMG_7877_2.avif 1505w, https://www.appinn.com/wp-content/uploads/2024/06/IMG_7877_2-768x436.avif 768w" sizes="(max-width: 1505px) 100vw, 1505px" /></figure>
+
+
+
+<p>背面是两个千兆网口以及一个 typec 供电：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="852" height="402" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.48.32@2x-1.avif" alt="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 17" class="wp-image-48809" style="width:505px;height:auto" title="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 23" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.48.32@2x-1.avif 852w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-24-11.48.32@2x-1-768x362.avif 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure></div>
+
+<h3 class="wp-block-heading" id="%25e5%2585%25b7%25e4%25bd%2593%25e5%258f%2582%25e6%2595%25b0">具体参数</h3>
+
+
+<figure class="wp-block-table"><table><tbody><tr><td class="has-text-align-center" data-align="center">网络接口</td><td class="has-text-align-center" data-align="center">(1) GbE RJ45 WAN端<br />(1) GbE RJ45 LAN端</td><td class="has-text-align-center" data-align="center">MIMO</td><td class="has-text-align-center" data-align="center">2.4GHz: 2&#215;2(DL/UL MU-MIMO) <br />5 GHz : 2&#215;2(DL/UL MU-MIMO)</td></tr><tr><td class="has-text-align-center" data-align="center">管理接口</td><td class="has-text-align-center" data-align="center">以太网 蓝牙(初始化配置)</td><td class="has-text-align-center" data-align="center">吞吐速率</td><td class="has-text-align-center" data-align="center">2.4GHz: 573.5 Mbps<br />5GHz : 2.4 Gbps</td></tr><tr><td class="has-text-align-center" data-align="center">供电方式</td><td class="has-text-align-center" data-align="center">USB type C (5V DC/3A)</td><td class="has-text-align-center" data-align="center">天线增益</td><td class="has-text-align-center" data-align="center">2.4GHz : 4dBi <br />5GHz : 5.15 dBi</td></tr><tr><td class="has-text-align-center" data-align="center">最大功耗</td><td class="has-text-align-center" data-align="center">10瓦</td><td class="has-text-align-center" data-align="center">天线</td><td class="has-text-align-center" data-align="center">(2)内置2.4G/5G WiFi双频天线 <br />(1)内置2.4G单频蓝牙天线</td></tr><tr><td class="has-text-align-center" data-align="center">最大无线发射功率</td><td class="has-text-align-center" data-align="center">2.4GHz : 22 dBm<br />5GHz : 25 dBm</td><td class="has-text-align-center" data-align="center">LCM显示屏</td><td class="has-text-align-center" data-align="center">0.96&#8243;状态显示屏</td></tr></tbody></table></figure>
+
+
+<h2 class="wp-block-heading" id="%25e5%25bc%2580%25e7%25ae%25b1%25e8%25a7%2586%25e9%25a2%2591">开箱视频</h2>
+
+
+<p>录了一段开箱视频，给大家看看：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1255870036&#038;bvid=BV1rJ4m1u7f2&#038;cid=1586238848&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>这个小东西拿在手里只有巴掌大小，330多克挺有分量，放在桌子上是非常好看，也没有奇奇怪怪的天线，就是这么一个白色的小盒子。</p>
+
+
+<h2 class="wp-block-heading" id="%25e4%25ba%2586%25e8%25a7%25a3%25e6%259b%25b4%25e5%25a4%259a">了解更多</h2>
+
+
+<p>下面这段视频，是通过手机来了解设备运行状况，反正我觉得挺酷的：</p>
+
+
+
+<figure class="wp-block-video"><video autoplay loop muted src="https://www.ui.com.cn/microsite/static/media/devices.c.c.d8ea331f.mp4"></video></figure>
+
+
+
+<p>Ubiquiti 的产品更多适合企业使用，目前 Ubiquiti 官网已经&#8230;有了一个很酷的域名：</p>
+
+
+
+<ul>
+<li><a href="https://www.ui.com.cn/" target="_blank" rel="noopener">https://www.ui.com.cn/</a></li>
+</ul>
+
+
+
+<p>另外，很接地气的有一个小程序商店：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1986" height="1560" src="https://www.appinn.com/wp-content/uploads/2024/06/2291719475871_.pic_.avif" alt="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 18" class="wp-image-48878" style="width:512px;height:auto" title="酷产品：UniFi Express 开箱｜颜值大厂 Ubiquiti 新品 WiFi 6 双频路由器，漂亮是真漂亮 24" srcset="https://www.appinn.com/wp-content/uploads/2024/06/2291719475871_.pic_.avif 1986w, https://www.appinn.com/wp-content/uploads/2024/06/2291719475871_.pic_-768x603.avif 768w, https://www.appinn.com/wp-content/uploads/2024/06/2291719475871_.pic_-1536x1207.avif 1536w" sizes="(max-width: 1986px) 100vw, 1986px" /></figure></div><hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/scorecloud-express-for-iphone/" rel="bookmark" title="Permanent Link: ScoreCloud Express &#8211; 将乐思直接转化为乐谱[iOS]">ScoreCloud Express &#8211; 将乐思直接转化为乐谱[iOS]</a></li><li><a href="https://www.appinn.com/bb-flashback-express/" rel="bookmark" title="Permanent Link: BB FlashBack Express &#8211; 强大好用的屏幕录制软件">BB FlashBack Express &#8211; 强大好用的屏幕录制软件</a></li><li><a href="https://www.appinn.com/postbox-2/" rel="bookmark" title="Permanent Link: Postbox 2 &#8211; 专注条理的邮件客户端">Postbox 2 &#8211; 专注条理的邮件客户端</a></li><li><a href="https://www.appinn.com/sf-express-id/" rel="bookmark" title="Permanent Link: 顺丰ID 服务上线，可完全隐藏收件人、寄件人地址">顺丰ID 服务上线，可完全隐藏收件人、寄件人地址</a></li><li><a href="https://www.appinn.com/express-simple-search/" rel="bookmark" title="Permanent Link: 快递简查 &#8211; 批量查询快递">快递简查 &#8211; 批量查询快递</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/unifi-express/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48803" data-ulike-factor="up"
+            data-ulike-nonce="652891aa16" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48803 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48803" data-ulike-factor="down"
+            data-ulike-nonce="652891aa16" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48803 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/unifi-express/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/unifi-express/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		<enclosure url="https://www.ui.com.cn/microsite/static/media/devices.c.c.d8ea331f.mp4" length="750738" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？</title>
+		<link>https://www.appinn.com/four-color-maps/</link>
+					<comments>https://www.appinn.com/four-color-maps/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 05:33:48 +0000</pubDate>
+				<category><![CDATA[游戏]]></category>
+		<category><![CDATA[地图]]></category>
+		<category><![CDATA[数学]]></category>
+		<category><![CDATA[绘制]]></category>
+		<category><![CDATA[颜色]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48823</guid>
+
+					<description><![CDATA[最近青小蛙发现了一个小游戏，规则非常简单：为一幅地图着色，相邻的两地不能使用相同的颜色。从而引出了一个 172 年前的问题：“是否只用四种颜色就能为所有地图着色？ 四色定理是什么？ 四色定理（英语：f ]]></description>
+										<content:encoded><![CDATA[
+<p>最近青小蛙发现了一个小游戏，规则非常简单：为一幅地图着色，相邻的两地不能使用相同的颜色。从而引出了一个 172 年前的问题：“是否只用四种颜色就能为所有地图着色？</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-27T131444.618.jpg" alt="四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？" class="wp-image-48874" title="四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ 25" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-27T131444.618.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-27T131444.618-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-27T131444.618-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-27T131444.618-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e5%259b%259b%25e8%2589%25b2%25e5%25ae%259a%25e7%2590%2586%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">四色定理是什么？</h2>
+
+
+<p><strong>四色定理</strong>（英语：four color theorem）又称为<strong>四色地图定理</strong>（英语：four color map theorem），是一个<a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6" target="_blank" rel="noopener">数学</a>定理：如果在平面上划出一些邻接的有限区域，那么可以用四种颜色来给这些区域染色，使得每两个邻接区域染的颜色都不一样。</p>
+
+
+
+<p>“是否只用四种颜色就能为所有地图染色？”的问题最早是由南非数学家法兰西斯·古德里在1852年提出的，被称为“四色问题”或“四色猜想”。</p>
+
+
+
+<p>1976年，数学家凯尼斯·阿佩尔和沃夫冈·哈肯借助电子计算机首次得到一个完全的证明，四色问题也终于成为四色定理。这是首个主要借助计算机证明的定理。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%259b%259b%25e8%2589%25b2%25e5%25ae%259a%25e7%2590%2586%25e5%25b0%258f%25e6%25b8%25b8%25e6%2588%258f">四色定理小游戏</h2>
+
+
+<p>这个小游戏给了你几张区域地图，有英国、非洲、南美洲、北美洲，你需要点击不同的地方，就能着色，尽可能的用最少的颜色着色，但规则依旧是相邻的两地不能同色：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1676" height="1792" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-27-13.21.03@2x.avif" alt="四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ 19" class="wp-image-48875" style="width:567px;height:auto" title="四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ 26" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-27-13.21.03@2x.avif 1676w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-27-13.21.03@2x-768x821.avif 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-27-13.21.03@2x-1437x1536.avif 1437w" sizes="(max-width: 1676px) 100vw, 1676px" /></figure></div>
+
+
+<p>并且，有一道题是让你尝试画出需要 5 种颜色的地方，为「非常困难」，想挑战一下的可以试试。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="626" height="820" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-2024-06-27-12.34.40@2x.avif" alt="四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ 20" class="wp-image-48876" style="width:272px;height:auto" title="四色定理的世纪谜题：为什么只用四种颜色就能绘制任何地图？ 27"></figure></div>
+
+
+<ul>
+<li><a href="https://www.rahulilango.com/coloring/" target="_blank" rel="noopener">https://www.rahulilango.com/coloring/</a></li>
+</ul>
+
+
+
+<p>我是完全没有想到这件事也有数学定理，人（shu）类（xue）太有趣了。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/four-color-maps/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/aichat4-0/" rel="bookmark" title="Permanent Link: 永久终身激活AI4.0！史诗级神器，炸裂口碑！！（安卓、Win、Mac）">永久终身激活AI4.0！史诗级神器，炸裂口碑！！（安卓、Win、Mac）</a></li><li><a href="https://www.appinn.com/ultimate-list-of-free-windows-software-from-microsoft/" rel="bookmark" title="Permanent Link: 微软的 150 款免费软件[部分，待更新]">微软的 150 款免费软件[部分，待更新]</a></li><li><a href="https://www.appinn.com/mind-maps-pro-for-windows/" rel="bookmark" title="Permanent Link: Mind Maps Pro 限免，专业思维导图工具，原价 144 元[Windows]">Mind Maps Pro 限免，专业思维导图工具，原价 144 元[Windows]</a></li><li><a href="https://www.appinn.com/windows-defender-enable-microsoft-maps/" rel="bookmark" title="Permanent Link: 加固 Windows Defender ，开启微软云保护，利用「微软高级保护服务」（MAPS）来实时预防未知病毒">加固 Windows Defender ，开启微软云保护，利用「微软高级保护服务」（MAPS）来实时预防未知病毒</a></li><li><a href="https://www.appinn.com/evercraft/" rel="bookmark" title="Permanent Link: 终身版来了，不好意思久等了的追光Lite上新">终身版来了，不好意思久等了的追光Lite上新</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/four-color-maps/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48823" data-ulike-factor="up"
+            data-ulike-nonce="1c8f6a0bc6" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48823 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48823" data-ulike-factor="down"
+            data-ulike-nonce="1c8f6a0bc6" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48823 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/four-color-maps/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/four-color-maps/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>自动朗读剪贴板中的文字｜Windows</title>
+		<link>https://www.appinn.com/automatically-reads-text-from-the-clipboard/</link>
+					<comments>https://www.appinn.com/automatically-reads-text-from-the-clipboard/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 08:28:53 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[剪贴板]]></category>
+		<category><![CDATA[朗读]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=48871</guid>
+
+					<description><![CDATA[开发者没有起名字，这是一款能够自动朗读剪贴板文字的 Windows 工具，运行之后会一直检测剪贴板内容，发现文字就开始朗读。@Appinn 来自发现频道的 @fenglingyu 同学推荐了自己的小工 ]]></description>
+										<content:encoded><![CDATA[
+<p>开发者没有起名字，这是一款能够自动朗读剪贴板文字的 Windows 工具，运行之后会一直检测剪贴板内容，发现文字就开始朗读。@<a href="https://www.appinn.com/automatically-reads-text-from-the-clipboard/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-26T154030.986.jpg" alt="自动朗读剪贴板中的文字｜Windows" class="wp-image-48872" title="自动朗读剪贴板中的文字｜Windows 28" srcset="https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-26T154030.986.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-26T154030.986-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-26T154030.986-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-26T154030.986-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>的 @<strong>fenglingyu</strong> 同学推荐了自己的小工具，说：用 GPT4o写的，调用的 edge 大声朗读的功能，需要联网才能用。所以延时比较大，最少都要一秒。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%25bf%2599%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">这是什么？</h2>
+
+
+<p>可以把它想象成一台会自动播报的二维码收款机，收到一笔款，喊一次。</p>
+
+
+
+<p>它是检测到剪贴板有新的文字，就读一次。</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%258a%259f%25e8%2583%25bd%25e5%2588%2597%25e8%25a1%25a8">功能列表</h3>
+
+
+<ul>
+<li>发音人选择：用户可以选择不同的发音人来进行文本转语音。</li>
+
+
+
+<li>语速设置：用户可以设置语速</li>
+
+
+
+<li>快捷键监控：用户可以选择是否启用快捷键监控功能，并指定快捷键组合。</li>
+
+
+
+<li>只转换英文内容：用户可以选择是否只转换英文内容，忽略其他语言的文本。</li>
+
+
+
+<li>配置管理：程序启动时检查是否有配置文件 jtb.ini，存在则读取配置；不存在则让用户设置并保存配置。</li>
+</ul>
+
+
+<h3 class="wp-block-heading" id="%25e8%25a7%2586%25e9%25a2%2591">视频</h3>
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1055989680&#038;bvid=BV1xH4y1w7Af&#038;cid=1596738478&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>@fenglingyu 在发现频道提供了源码，很简短，毕竟是 GPT-4o 写的代码。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul>
+<li><a href="https://www.123pan.com/s/tQIWjv-XVIr.html%E6%8F%90%E5%8F%96%E7%A0%81:iEpD" target="_blank" rel="noopener">123盘</a>（开发者提供）</li>
+
+
+
+<li><a href="https://pan.quark.cn/s/66d4ad90cc3f" target="_blank" rel="noopener">搬运</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/automatically-reads-text-from-the-clipboard/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/clipboard-online/" rel="bookmark" title="Permanent Link: clipboard-online &#8211; 在 Windows 和 iOS、Android 之间分享剪切板">clipboard-online &#8211; 在 Windows 和 iOS、Android 之间分享剪切板</a></li><li><a href="https://www.appinn.com/ultimate-list-of-free-windows-software-from-microsoft/" rel="bookmark" title="Permanent Link: 微软的 150 款免费软件[部分，待更新]">微软的 150 款免费软件[部分，待更新]</a></li><li><a href="https://www.appinn.com/archive-clipboard-cloud/" rel="bookmark" title="Permanent Link: Archive Clipboard &#8211; 跨平台的云剪贴板">Archive Clipboard &#8211; 跨平台的云剪贴板</a></li><li><a href="https://www.appinn.com/automatically-take-screenshots/" rel="bookmark" title="Permanent Link: Automatically Take Screenshots &#8211; 屏幕 N 连拍">Automatically Take Screenshots &#8211; 屏幕 N 连拍</a></li><li><a href="https://www.appinn.com/h5player-video-control-greasemonkey/" rel="bookmark" title="Permanent Link: 18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键[油猴脚本]">18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键[油猴脚本]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/automatically-reads-text-from-the-clipboard/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="48871" data-ulike-factor="up"
+            data-ulike-nonce="69f0973d27" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_48871 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="48871" data-ulike-factor="down"
+            data-ulike-nonce="69f0973d27" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_48871 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/automatically-reads-text-from-the-clipboard/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/automatically-reads-text-from-the-clipboard/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
