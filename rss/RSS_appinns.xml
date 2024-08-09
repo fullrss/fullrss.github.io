@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>小众软件</title>
+	<atom:link href="https://www.appinn.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.appinn.com</link>
+	<description>分享免费、小巧、实用、有趣、绿色的软件</description>
+	<lastBuildDate>Fri, 09 Aug 2024 07:01:48 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Kando &#8211; 快速启动还能玩出新花样？多级饼状菜单、拖拽启动、效果略酷[跨平台]</title>
+		<link>https://www.appinn.com/kando/</link>
+					<comments>https://www.appinn.com/kando/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Fri, 09 Aug 2024 07:01:36 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[快速启动]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49259</guid>
+
+					<description><![CDATA[Kando 是一款新鲜的开源快速启动工具，使用了多级饼状结构，通过鼠标在不同的「饼」中拖拽，实现快速启动，包括启动应用程序、模拟键盘快捷键、打开文件等操作。支持 Windows、macOS、Linux ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Kando</strong> 是一款新鲜的开源快速启动工具，使用了多级饼状结构，通过鼠标在不同的「饼」中拖拽，实现快速启动，包括启动应用程序、模拟键盘快捷键、打开文件等操作。支持 Windows、macOS、Linux。@<a href="https://www.appinn.com/kando/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-09T124942.238.jpg" alt="Kando - 快速启动还能玩出新花样？多级饼状菜单、拖拽启动、效果略酷[跨平台]" class="wp-image-49260" title="Kando - 快速启动还能玩出新花样？多级饼状菜单、拖拽启动、效果略酷[跨平台] 1" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-09T124942.238.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-09T124942.238-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-09T124942.238-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-09T124942.238-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，@bhqt 同学推荐：<a href="https://meta.appinn.net/t/topic/58916" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/58916</a></p>
+
+
+<h2 class="wp-block-heading" id="%25e6%2596%25b0%25e5%2587%25ba%25e7%259a%2584%25e5%25bf%25ab%25e6%258d%25b7%25e5%2590%25af%25e5%258a%25a8%25e7%258e%25a9%25e5%2585%25b7-kando">新出的快捷启动玩具 Kando</h2>
+
+
+<p>Kando 是一款适用于桌面的跨平台饼状菜单。它提供了一种非传统、快速、高效且有趣的与计算机交互的方式！您可以使用 Kando 来启动应用程序、模拟键盘快捷键、打开文件等等。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Kando 的精髓在于哪多级的饼状菜单，从一个饼中指向另外一个饼，实现功能，效果拉满。至于是不是快捷，不重要。</p>
+
+
+
+<p>来看视频：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1656359347&#038;bvid=BV1iE421w7Qs&#038;cid=1643300282&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>Kando 设计用于与鼠标、手写笔或触摸输入一起使用。如果你大部分时间都双手敲击键盘，Kando 可能不适合你。</p>
+
+
+
+<p>推荐给喜欢尝鲜的同学。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://github.com/kando-menu/kando" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/e74c04c580ff" target="_blank" rel="noopener">搬运</a>（110MB，Windows/macOS）</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/kando/</p>
+<hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/kando/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49259" data-ulike-factor="up"
+            data-ulike-nonce="d96d96b7d7" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49259 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49259" data-ulike-factor="down"
+            data-ulike-nonce="d96d96b7d7" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49259 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/kando/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/kando/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Overleaf &#8211; 开源，在线实时多人协作 LaTeX 编辑器</title>
+		<link>https://www.appinn.com/overleaf-latex-editor/</link>
+					<comments>https://www.appinn.com/overleaf-latex-editor/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 08 Aug 2024 07:58:09 +0000</pubDate>
+				<category><![CDATA[在线应用]]></category>
+		<category><![CDATA[LaTex]]></category>
+		<category><![CDATA[多人协作]]></category>
+		<category><![CDATA[学习]]></category>
+		<category><![CDATA[编辑器]]></category>
+		<category><![CDATA[论文]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49255</guid>
+
+					<description><![CDATA[Overleaf 是一款开源的在线实时协作 LaTeX 编辑器，可以让你个组的成员同时编辑一份文档。支持使用 Docker 在本地进行托管。@Appinn LaTeX 是什么 LaTeX 是一种排版系 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Overleaf</strong> 是一款开源的在线实时协作 LaTeX 编辑器，可以让你个组的成员同时编辑一份文档。支持使用 Docker 在本地进行托管。@<a href="https://www.appinn.com/overleaf-latex-editor/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T152211.790.jpg" alt="Overleaf - 开源，在线实时多人协作 LaTeX 编辑器" class="wp-image-49256" title="Overleaf - 开源，在线实时多人协作 LaTeX 编辑器 2" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T152211.790.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T152211.790-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T152211.790-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T152211.790-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="latex-%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">LaTeX 是什么</h2>
+
+
+<p>LaTeX 是一种排版系统，能够提供精确的排版控制，支持数学公式、图表，，能够生成专业、格式一致的文档。特别适合撰写学术论文、书籍和技术文档。</p>
+
+
+
+<p>LaTeX 不止编辑公式，它可以像 Word 一样用来编辑整篇文档，支持文本格式、段落、章节、图表、表格和参考文献等功能。</p>
+
+
+<h2 class="wp-block-heading" id="overleaf-%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">Overleaf 是什么？</h2>
+
+
+<p>Overleaf 是一个开源项目，可以在线实时多人协作编辑 LaTeX 文档，就像这样：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1606366976&#038;bvid=BV1xm42137R8&#038;cid=1642354733&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>主要是可以多个人同时编辑一个文档，就&#8230;算很方便吧。</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%25ae%2589%25e8%25a3%2585">安装</h3>
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: bash; title: ; notranslate">
+git clone https://github.com/overleaf/toolkit.git ./overleaf-toolkit
+cd ./overleaf-toolkit
+bin/up # 初始化
+bin/start # 启动
+</pre></div>
+
+
+<p>overleaf 使用脚本来控制 Docker，不过也提供了完整的 docker-compose.x.yml 文件（位于 https://github.com/overleaf/toolkit/tree/master/lib）</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://github.com/overleaf/" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://www.overleaf.com/" target="_blank" rel="noopener">官方实例</a>（即开机用）</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/overleaf-latex-editor/</p>
+
+
+
+<p>使用 Overleaf 门槛挺高的，首先你需要有写 LaTeX 的需求，其次你必须不止一个人，最后，需要大家都会 LaTeX&#8230;</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/gold-wave-editor-pro/" rel="bookmark" title="Permanent Link: Gold Wave Editor Pro &#8211; 专业级音频处理软件">Gold Wave Editor Pro &#8211; 专业级音频处理软件</a></li><li><a href="https://www.appinn.com/fly-video/" rel="bookmark" title="Permanent Link: Fly Video Editor &#8211; 最简单的视频剪辑应用[iPad/iPhone]">Fly Video Editor &#8211; 最简单的视频剪辑应用[iPad/iPhone]</a></li><li><a href="https://www.appinn.com/latexlive/" rel="bookmark" title="Permanent Link: 在线LaTeX公式编辑器 &#8211; 来自「妈咪说MommyTalk」的在线工具">在线LaTeX公式编辑器 &#8211; 来自「妈咪说MommyTalk」的在线工具</a></li><li><a href="https://www.appinn.com/clips-video-editor-ios/" rel="bookmark" title="Permanent Link: Clips Video Editor &#8211; 人人都会用的视频剪辑应用[iOS]">Clips Video Editor &#8211; 人人都会用的视频剪辑应用[iOS]</a></li><li><a href="https://www.appinn.com/easeus-video-editor/" rel="bookmark" title="Permanent Link: EaseUS Video Editor &#8211; 简单易用的视频编辑器，限免一个月">EaseUS Video Editor &#8211; 简单易用的视频编辑器，限免一个月</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/overleaf-latex-editor/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49255" data-ulike-factor="up"
+            data-ulike-nonce="83adae9728" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49255 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49255" data-ulike-factor="down"
+            data-ulike-nonce="83adae9728" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49255 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/overleaf-latex-editor/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/overleaf-latex-editor/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置</title>
+		<link>https://www.appinn.com/google-android-find-network/</link>
+					<comments>https://www.appinn.com/google-android-find-network/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 08 Aug 2024 05:43:51 +0000</pubDate>
+				<category><![CDATA[业界消息]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[查找我的设备]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49249</guid>
+
+					<description><![CDATA[Google 为 Android 系统推出了与 Apple 查找网络类似的服务：“查找我的设备”众包网络，可以通过别人的 Android 设备来查找自己的离线设备位置，也支持查找耳机、追踪器等设备。@ ]]></description>
+										<content:encoded><![CDATA[
+<p>Google 为 Android 系统推出了与 Apple 查找网络类似的服务：“查找我的设备”众包网络，可以通过别人的 Android 设备来查找自己的离线设备位置，也支持查找耳机、追踪器等设备。@<a href="https://www.appinn.com/google-android-find-network/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T121017.097.jpg" alt="Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置" class="wp-image-49250" title="Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置 3" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T121017.097.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T121017.097-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T121017.097-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-08T121017.097-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>今早收到了这样的一封邮件：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1096" height="1137" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-08-13.40.58@2x.avif" alt="Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置 1" class="wp-image-49252" style="width:502px;height:auto" title="Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置 4" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-08-13.40.58@2x.avif 1096w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-08-13.40.58@2x-768x797.avif 768w" sizes="(max-width: 1096px) 100vw, 1096px" /></figure></div>
+
+<h2 class="wp-block-heading" id="%25e4%25bc%2597%25e5%258c%2585-android-%25e8%25ae%25be%25e5%25a4%2587%25e7%25bd%2591%25e7%25bb%259c%25e5%25a6%2582%25e4%25bd%2595%25e5%258f%2591%25e6%258c%25a5%25e4%25bd%259c%25e7%2594%25a8">众包 Android 设备网络如何发挥作用</h2>
+
+
+<p>加入了“查找我的设备”网络的 Android 设备会使用蓝牙来扫描附近的物品。检测到您的物品时，这些设备会将检测到的物品的位置信息安全地发送给“查找我的设备”。如果在附近检测到他人丢失的物品，您的 Android 设备也会以相同的方式来帮助他人寻找其物品。</p>
+
+
+<h3 class="wp-block-heading" id="%25e7%25ab%25af%25e5%2588%25b0%25e7%25ab%25af%25e5%258a%25a0%25e5%25af%2586"><a></a>端到端加密</h3>
+
+
+<p>“查找我的设备”网络会使用唯一密钥来加密您物品的位置信息，只有您能访问该密钥（需要输入您 Android 设备的 PIN 码、解锁图案或密码）。</p>
+
+
+
+<p>该端到端加密技术与 Google 密码管理工具的密码保护技术相同，可确保您物品的位置信息不对 Google 公开。只有您本人以及您在“查找我的设备”中共享物品的对象可以查看此类信息。</p>
+
+
+
+<p><strong>重要提示：</strong>如果您尚未在 Android 设备上设置 PIN 码、解锁图案或密码，则必须设置一个，才能利用“查找我的设备”网络。</p>
+
+
+
+<p>具体描述页面<a href="https://support.google.com/android/answer/14796936" target="_blank" rel="noopener">见这里</a>。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25bc%2580%25e5%2590%25af%25e5%2585%25b3%25e9%2597%25ad%25e6%2596%25b9%25e5%25bc%258f">开启/关闭方式</h2>
+
+
+<p>需要原生 Android 设备，位于： 设置 > Google > 查找我的位置 > 开启/关闭“查找我的设备”</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%258a%25a0%25e5%2585%25a5%25e9%2580%2580%25e5%2587%25ba%25e6%259f%25a5%25e6%2589%25be%25e6%2588%2591%25e7%259a%2584%25e8%25ae%25be%25e5%25a4%2587%25e4%25bc%2597%25e5%258c%2585%25e7%25bd%2591%25e7%25bb%259c">加入/退出“查找我的设备”众包网络</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.google.com/android/find/settings/fmdn" target="_blank" rel="noopener">https://www.google.com/android/find/settings/fmdn</a></li>
+</ul>
+
+
+
+<p>只能在网页操作：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1048" height="909" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-08-12.07.55@2x.avif" alt="Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置 2" class="wp-image-49251" style="width:540px;height:auto" title="Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置 5" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-08-12.07.55@2x.avif 1048w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-08-12.07.55@2x-768x666.avif 768w" sizes="(max-width: 1048px) 100vw, 1048px" /></figure></div>
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/google-android-find-network/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/find-big-mail/" rel="bookmark" title="Permanent Link: Find Big Mail &#8211; 检查 Gmail 邮箱中的大邮件">Find Big Mail &#8211; 检查 Gmail 邮箱中的大邮件</a></li><li><a href="https://www.appinn.com/shake-to-find-cursor/" rel="bookmark" title="Permanent Link: Shake to Find Cursor &#8211; 晃动鼠标放大指针[Windows]">Shake to Find Cursor &#8211; 晃动鼠标放大指针[Windows]</a></li><li><a href="https://www.appinn.com/chrome-find-larger-images/" rel="bookmark" title="Permanent Link: [Chrome]Find Larger Images &#8211; 批量找原图">[Chrome]Find Larger Images &#8211; 批量找原图</a></li><li><a href="https://www.appinn.com/cbn/" rel="bookmark" title="Permanent Link: China Blogger Network">China Blogger Network</a></li><li><a href="https://www.appinn.com/find-in-tabs/" rel="bookmark" title="Permanent Link: Find In Tabs &#8211; 搜索 Firefox 打开的全部页面">Find In Tabs &#8211; 搜索 Firefox 打开的全部页面</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/google-android-find-network/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49249" data-ulike-factor="up"
+            data-ulike-nonce="19775d3902" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49249 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49249" data-ulike-factor="down"
+            data-ulike-nonce="19775d3902" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49249 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/google-android-find-network/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/google-android-find-network/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ClassIsland &#8211; 很影响老师拖堂：在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows]</title>
+		<link>https://www.appinn.com/classisland/</link>
+					<comments>https://www.appinn.com/classisland/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2024 09:33:41 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[学习]]></category>
+		<category><![CDATA[学校]]></category>
+		<category><![CDATA[拖堂]]></category>
+		<category><![CDATA[教室]]></category>
+		<category><![CDATA[考试]]></category>
+		<category><![CDATA[课堂]]></category>
+		<category><![CDATA[课表]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49243</guid>
+
+					<description><![CDATA[ClassIsland 是一款适合于课堂多媒体屏幕使用的、开源课表信息显示工具。它可以在 Windows 屏幕上显示自定义的课表、考试、日历、天气信息，支持语音播报，上下课提醒、放学提醒等功能。]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ClassIsland</strong> 是一款适合于课堂多媒体屏幕使用的、开源课表信息显示工具。它可以在 Windows 屏幕上显示自定义的课表、考试、日历、天气信息，支持语音播报，上下课提醒、放学提醒等功能。嗯，很影响老师拖堂。@<a href="https://www.appinn.com/classisland/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-07T164756.305.jpg" alt="ClassIsland - 在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows]" class="wp-image-49244" title="ClassIsland - 很影响老师拖堂：在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows] 6" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-07T164756.305.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-07T164756.305-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-07T164756.305-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-07T164756.305-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @<strong>HelloWRC</strong> 自荐：<a href="https://meta.appinn.net/t/topic/59500" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/59500</a></p>
+
+
+<h2 class="wp-block-heading" id="classisland-%25e5%25a4%259a%25e5%258a%259f%25e8%2583%25bd%25e5%25a4%25a7%25e5%25b1%258f%25e8%25af%25be%25e8%25a1%25a8%25e6%2598%25be%25e7%25a4%25ba%25e5%25b7%25a5%25e5%2585%25b7">ClassIsland &#8211; 多功能大屏课表显示工具</h2>
+
+
+<p>先看视频（有声音）：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1606270406&#038;bvid=BV1Rm421g7X3&#038;cid=1641341229&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>ClassIsland 适合于有大屏幕的教室使用，可以自定义显示的位置，能够自动获取与系统配色搭配的背景颜色，以及自定字体等等。</p>
+
+
+
+<p>显示内容上，可以显示当天课表信息、日历、天气、倒计时，还支持从 Excel 导入课表。</p>
+
+
+
+<p>另外，针对经常发生的事情，还可以添加临时换课和临时启用某个课表。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1520" height="855" src="https://www.appinn.com/wp-content/uploads/2024/08/b878759e44accbab99eda.avif" alt="ClassIsland - 很影响老师拖堂：在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows] 3" class="wp-image-49245" title="ClassIsland - 很影响老师拖堂：在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows] 7" srcset="https://www.appinn.com/wp-content/uploads/2024/08/b878759e44accbab99eda.avif 1520w, https://www.appinn.com/wp-content/uploads/2024/08/b878759e44accbab99eda-768x432.avif 768w" sizes="(max-width: 1520px) 100vw, 1520px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<p>需要 .NET 8.0。</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://classisland.tech/?utm_source=appinn.com" target="_blank" rel="noopener">官网</a></li>
+
+
+
+<li><a href="https://github.com/ClassIsland/ClassIsland" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/40d1dca97c3d" target="_blank" rel="noopener">搬运</a></li>
+</ul>
+
+
+
+<p>另外，支持从 Electron Class Schedule 迁移到 ClassIsland。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/classisland/</p>
+
+
+
+<p>后记：居然影响了老师拖堂！</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="906" height="644" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-07-17.27.29@2x.avif" alt="ClassIsland - 很影响老师拖堂：在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows] 4" class="wp-image-49246" style="width:520px;height:auto" title="ClassIsland - 很影响老师拖堂：在教室大屏幕上显示「课表信息」，支持上下课、放学提醒，语音播报[Windows] 8" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-07-17.27.29@2x.avif 906w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-07-17.27.29@2x-768x546.avif 768w" sizes="(max-width: 906px) 100vw, 906px" /></figure>
+
+
+
+<p>截图来自<a href="https://www.bilibili.com/video/BV1Rm421g7X3/" target="_blank" rel="noopener">小众软件的B站视频</a>评论。</p>
+<hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/classisland/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49243" data-ulike-factor="up"
+            data-ulike-nonce="96586d8a5c" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49243 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49243" data-ulike-factor="down"
+            data-ulike-nonce="96586d8a5c" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49243 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/classisland/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/classisland/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>濒危声音博物馆 &#8211; 好多你没听过：那些将要消失的声音&#8230;</title>
+		<link>https://www.appinn.com/useum-of-endangered-sounds/</link>
+					<comments>https://www.appinn.com/useum-of-endangered-sounds/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2024 12:36:43 +0000</pubDate>
+				<category><![CDATA[在线应用]]></category>
+		<category><![CDATA[趣味软件]]></category>
+		<category><![CDATA[博物馆]]></category>
+		<category><![CDATA[声音]]></category>
+		<category><![CDATA[怀旧]]></category>
+		<category><![CDATA[消失]]></category>
+		<category><![CDATA[濒危]]></category>
+		<category><![CDATA[诺基亚]]></category>
+		<category><![CDATA[音效]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49240</guid>
+
+					<description><![CDATA[濒危声音博物馆是一个诞生于 2012 年的网站，为了保存开发者 Brendan Chilcutt 自己喜欢的旧技术和电子设备声音。目前收集了不少经典音效，比如早期 Windows 95 开机音、诺基亚 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>濒危声音博物馆</strong>是一个诞生于 2012 年的网站，为了保存开发者 Brendan Chilcutt 自己喜欢的旧技术和电子设备声音。目前收集了不少经典音效，比如早期 Windows 95 开机音、诺基亚经典开机音、俄罗斯方块游戏音效、软盘读写声音、真打字机的打字声音等，使用 <strong>CC BY-NC-SA 3.0</strong> 授权。@<a href="https://www.appinn.com/useum-of-endangered-sounds/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T201956.294.jpg" alt="濒危声音博物馆 - 好多你没听过：那些将要消失的声音..." class="wp-image-49241" title="濒危声音博物馆 - 好多你没听过：那些将要消失的声音... 9" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T201956.294.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T201956.294-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T201956.294-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T201956.294-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>感谢 @砂糖｀梨子 的推荐。</p>
+
+
+
+<p>很多声音没听过，所以一定要听听，目前有这些：</p>
+
+
+
+<ul class="wp-block-list">
+<li>ICQ 消息提示音</li>
+
+
+
+<li>胶卷相机上卷片与快门声</li>
+
+
+
+<li>打蜜蜂游戏提示音</li>
+
+
+
+<li>电话铃声/转盘拨号声</li>
+
+
+
+<li>老 Mac 开机音</li>
+
+
+
+<li>真打字机打字的声音</li>
+
+
+
+<li>吃豆人游戏音效</li>
+
+
+
+<li>Windows 95 开机提示音</li>
+
+
+
+<li>录像机插入磁带的声音</li>
+
+
+
+<li>软盘读写的声音</li>
+
+
+
+<li>诺基亚经典开机音效</li>
+
+
+
+<li>俄罗斯方块音效</li>
+
+
+
+<li>电子宠物音效</li>
+
+
+
+<li>拨号上网的声音</li>
+
+
+
+<li>电传打字机</li>
+
+
+
+<li>收银机</li>
+
+
+
+<li>针式打印机</li>
+</ul>
+
+
+
+<p>青小蛙也录制了一段视频，可以预览下效果：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=1106353250&#038;bvid=BV17w4m1k73L&#038;cid=1640420827&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>濒危声音博物馆使用的 CC 协议是署名、非商业使用、相同方式共享，然后就随便使用了。</p>
+
+
+
+<p>快去怀（xin）旧（xian）一波吧。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://mrgory.info/sm/?utm_source=appinn.com" target="_blank" rel="noopener">官网</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/useum-of-endangered-sounds/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/sounds-to-sleep-to/" rel="bookmark" title="Permanent Link: Sounds To Sleep To &#8211; 基于 HTML5 的白噪音背景网站">Sounds To Sleep To &#8211; 基于 HTML5 的白噪音背景网站</a></li><li><a href="https://www.appinn.com/atmosphere-lite/" rel="bookmark" title="Permanent Link: Atmosphere Lite &#8211; 倾听大自然的声音">Atmosphere Lite &#8211; 倾听大自然的声音</a></li><li><a href="https://www.appinn.com/mixkit-sounds/" rel="bookmark" title="Permanent Link: Mixkit Sound 发布，免费、可商用，适合视频创作者的音效素材库（Sound Effects）">Mixkit Sound 发布，免费、可商用，适合视频创作者的音效素材库（Sound Effects）</a></li><li><a href="https://www.appinn.com/sounds-of-ocean/" rel="bookmark" title="Permanent Link: 海洋的声音 &#8211; 白噪音[Android]">海洋的声音 &#8211; 白噪音[Android]</a></li><li><a href="https://www.appinn.com/white-noise-sleep-sounds/" rel="bookmark" title="Permanent Link: White Noise+ &#8211; 多层次多角度无限可能的「白噪音」应用[iPad/iPhone]">White Noise+ &#8211; 多层次多角度无限可能的「白噪音」应用[iPad/iPhone]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/useum-of-endangered-sounds/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49240" data-ulike-factor="up"
+            data-ulike-nonce="a16a0fdfbb" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49240 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+2"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49240" data-ulike-factor="down"
+            data-ulike-nonce="a16a0fdfbb" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49240 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/useum-of-endangered-sounds/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/useum-of-endangered-sounds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FlowVision &#8211; 瀑布流式 macOS 看图软件</title>
+		<link>https://www.appinn.com/flowvision/</link>
+					<comments>https://www.appinn.com/flowvision/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2024 09:20:05 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[看图]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49237</guid>
+
+					<description><![CDATA[FlowVision 是一款瀑布流式的 macOS 看图软件，可以在瀑布流模式下通过侧边栏切换路径，支持右键手势。@Appinn 来自发现频道：https://meta.appinn.net/t/to ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>FlowVision</strong> 是一款瀑布流式的 macOS 看图软件，可以在瀑布流模式下通过侧边栏切换路径，支持右键手势。@<a href="https://www.appinn.com/flowvision/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T170356.458.jpg" alt="FlowVision - 瀑布流式 macOS 看图软件" class="wp-image-49238" title="FlowVision - 瀑布流式 macOS 看图软件 10" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T170356.458.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T170356.458-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T170356.458-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-06T170356.458-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>：<a href="https://meta.appinn.net/t/topic/59251" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/59251</a></p>
+
+
+
+<p>FlowVision 是一款为 macOS 日常看图、图库浏览设计的软件，操作逻辑类似 XnView，提供文件管理功能，并且有瀑布流模式，能通过右键手势一键切换一下一个有图片的文件夹，非常适合批量浏览图片。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%258a%259f%25e8%2583%25bd%25e5%2588%2597%25e8%25a1%25a8">功能列表</h2>
+
+
+<ul class="wp-block-list">
+<li>自适应布局模式、浅色/深色模式</li>
+
+
+
+<li>方便的文件管理（操作类似 Finder）</li>
+
+
+
+<li>右键手势、快速查找上一个/下一个有图片/视频的文件夹</li>
+
+
+
+<li>针对目录下大量图片情况的性能优化</li>
+
+
+
+<li>高质量的缩放（减轻摩尔纹等问题）</li>
+
+
+
+<li>支持视频缩略图</li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="%25e5%25bf%25ab%25e6%258d%25b7%25e9%2594%25ae">快捷键</h2>
+
+<h3 class="wp-block-heading" id="%25e5%259b%25be%25e7%2589%2587%25e8%25a7%2586%25e5%259b%25be%25e6%2597%25b6">图片视图时</h3>
+
+
+<ul class="wp-block-list">
+<li>按住右键/左键滚动滚轮可以缩放</li>
+
+
+
+<li>按住中键拖动可以移动窗口</li>
+
+
+
+<li>长按左键切换 100%缩放</li>
+
+
+
+<li>长按右键切换缩放到视图</li>
+</ul>
+
+
+<h3 class="wp-block-heading" id="%25e5%258f%25b3%25e9%2594%25ae%25e6%2589%258b%25e5%258a%25bf"><a href="https://meta.appinn.net/t/topic/59251/2#p-216809-h-8" target="_blank" rel="noopener"></a>右键手势：</h3>
+
+
+<ul class="wp-block-list">
+<li>向右/左：切换到下一个/上一个有图片/视频的文件夹(逻辑上等同于将整个磁盘中的文件夹排序后的下一个)</li>
+
+
+
+<li>向上：切换到上级目录</li>
+
+
+
+<li>向下：返回到上一次的目录</li>
+
+
+
+<li>向下右/下左：切换到与当前文件夹平级的下一个/上一个有图片的文件夹</li>
+
+
+
+<li>向上右/上左：切换到上级目录后，再执行向下右/下左的操作</li>
+</ul>
+
+
+<h3 class="wp-block-heading" id="%25e9%2594%25ae%25e7%259b%2598%25e6%258c%2589%25e9%2594%25ae"><a href="https://meta.appinn.net/t/topic/59251/2#p-216809-h-9" target="_blank" rel="noopener"></a>键盘按键：</h3>
+
+
+<ul class="wp-block-list">
+<li>W：同右键手势 向上</li>
+
+
+
+<li>A/D：同右键手势 向左/右</li>
+
+
+
+<li>S：同右键手势 向下</li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://meta.appinn.net/t/topic/59251" target="_blank" rel="noopener">发现频道</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/05f8d5e73cab" target="_blank" rel="noopener">搬运</a></li>
+</ul>
+
+
+
+<p>注：非开源软件，开发者仅在 GitHub 托管了二进制文件进行下载。</p>
+
+
+
+<p>及：对于 预览.app 不满意的同学可以试试。青小蛙曾经测试过很多 Mac 下看图软件，最终还是回归了预览本身&#8230;</p>
+
+
+
+<p>原文：https://www.appinn.com/flowvision/</p>
+<hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/flowvision/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49237" data-ulike-factor="up"
+            data-ulike-nonce="f113a9f71d" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49237 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49237" data-ulike-factor="down"
+            data-ulike-nonce="f113a9f71d" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49237 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/flowvision/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/flowvision/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>如何便宜购买 Office 365？</title>
+		<link>https://www.appinn.com/lizhi-office365-24/</link>
+					<comments>https://www.appinn.com/lizhi-office365-24/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2024 03:17:00 +0000</pubDate>
+				<category><![CDATA[团购]]></category>
+		<category><![CDATA[Office]]></category>
+		<category><![CDATA[数码荔枝]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49231</guid>
+
+					<description><![CDATA[Office 365 是一种订阅式的跨平台办公软件，通过将&#160;Word，PowerPoint，Excel&#160;和&#160;Outlook，OneNote 等应用与&#160;Micro ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T230928.391.jpg" alt="如何便宜购买 Office 365？" class="wp-image-49232" title="如何便宜购买 Office 365？ 11" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T230928.391.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T230928.391-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T230928.391-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T230928.391-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>Office 365 是一种订阅式的跨平台办公软件，通过将&nbsp;Word，PowerPoint，Excel&nbsp;和&nbsp;Outlook，OneNote 等应用与&nbsp;Microsoft Teams&nbsp;等强大的在线服务相结合，让你使用任何设备随时随地创建和共享内容。</p>
+
+
+
+<p>更重要的是 Office 365​ 每账号可激活 5 台设备，支持在移动端使用，比 Office 2021 更加方便。Office 365 现已升级为 Microsoft 365，并加入了更多新服务：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1212" height="564" src="https://www.appinn.com/wp-content/uploads/2024/08/office365t1.avif" alt="如何便宜购买 Office 365？ 5" class="wp-image-49233" title="如何便宜购买 Office 365？ 12" srcset="https://www.appinn.com/wp-content/uploads/2024/08/office365t1.avif 1212w, https://www.appinn.com/wp-content/uploads/2024/08/office365t1-768x357.avif 768w" sizes="(max-width: 1212px) 100vw, 1212px" /></figure>
+
+
+
+<p>人工智能加持的微软编辑器 (Microsoft Editor)，消费者版 Teams 等工具，让办公更加轻松简单！</p>
+
+
+<h2 class="wp-block-heading" id="%25e9%2599%258c%25e7%2594%259f%25e4%25ba%25ba%25e5%258f%2591%25e8%25b5%25b7%25e6%259c%2589%25e9%25a3%258e%25e9%2599%25a9">陌生人发起？有风险！</h2>
+
+
+<p>大家肯定发现：购买一套 Microsoft 365 家庭版后，可供 6 位用户使用，每人支付的价格非常低。既然这样，不如大家一起承担费用？</p>
+
+
+
+<p>发起人购买家庭版后，邀请别人加入来享受权限。但普通用户寻找发起人耗时费力，而且陌生人发起的可能还充满隐患，很有可能未到期就被退出。</p>
+
+
+
+<p><strong>哪里有可靠的购买渠道呢？</strong></p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258d%2594%25e6%259e%259d%25e6%259c%2589%25e4%25bf%259d%25e9%259a%259c">荔枝有保障</h2>
+
+
+<p>专业的事情给专业的团队来做。数码荔枝作为发起人邀请顾客加入，保证每位用户 360+ 的订阅天数，没有退出风险，安全可靠！一张图告诉你为什么数码荔枝值得信赖！</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="473" height="2560" src="https://www.appinn.com/wp-content/uploads/2024/08/office365t3-scaled.avif" alt="如何便宜购买 Office 365？ 6" class="wp-image-49234" title="如何便宜购买 Office 365？ 13" srcset="https://www.appinn.com/wp-content/uploads/2024/08/office365t3-scaled.avif 473w, https://www.appinn.com/wp-content/uploads/2024/08/office365t3-768x4155.avif 768w, https://www.appinn.com/wp-content/uploads/2024/08/office365t3-284x1536.avif 284w" sizes="(max-width: 473px) 100vw, 473px" /></figure></div>
+
+<h2 class="wp-block-heading" id="%25e6%259b%25b4%25e4%25be%25bf%25e5%25ae%259c%25e7%259a%2584%25e4%25bb%25b7%25e6%25a0%25bc">更便宜的价格</h2>
+
+
+<p>在「数码荔枝」购买不仅安全有保障，而且价格划算，仅需 <strong>99</strong> 元即可享受一年 Microsoft 365 服务，<a href="https://store.lizhi.io/site/products/id/335?cid=jxlwguir" target="_blank" rel="noopener">立即入手</a>！</p>
+
+
+<h2 class="wp-block-heading" id="%25e6%258a%2580%25e6%259c%25af%25e6%2594%25af%25e6%258c%2581%25e4%25bd%25bf%25e7%2594%25a8%25e6%2597%25a0%25e5%25bf%25a7">技术支持，使用无忧</h2>
+
+
+<p>购买 Microsoft 365 还可拥有 Microsoft 365 技术支持服务。使用系统 / 软件出现问题后，可通过在线聊天或电话获得微软专业客服的指导，使用更无忧。</p>
+
+
+
+<p>Microsoft 365 原价 498 元，<a href="https://store.lizhi.io/site/products/id/335?cid=jxlwguir" target="_blank" rel="noopener">现在购买</a>仅需 <strong>99</strong> 元，千万别错过！</p>
+
+
+
+<p><strong>购买地址</strong>：<a href="https://store.lizhi.io/site/products/id/335?cid=jxlwguir" target="_blank" rel="noopener">https://store.lizhi.io/site/products/id/335?cid=jxlwguir</a></p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/lizhi-23618/" rel="bookmark" title="Permanent Link: 618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价">618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价</a></li><li><a href="https://www.appinn.com/76-apps-cn-better/" rel="bookmark" title="Permanent Link: 76 款国产软件 5 折起，国货之光优惠庆典现已开启">76 款国产软件 5 折起，国货之光优惠庆典现已开启</a></li><li><a href="https://www.appinn.com/lizhi-2305/" rel="bookmark" title="Permanent Link: 正版五月惠现已开启，Fences、App Cleaner &#038; Uninstaller 等限时优惠">正版五月惠现已开启，Fences、App Cleaner &#038; Uninstaller 等限时优惠</a></li><li><a href="https://www.appinn.com/lizhi-2022-summer/" rel="bookmark" title="Permanent Link: 清凉一夏正版放肆购，Fences、Snipaste 多款软件冰点低价来袭">清凉一夏正版放肆购，Fences、Snipaste 多款软件冰点低价来袭</a></li><li><a href="https://www.appinn.com/lizhi-22618-2/" rel="bookmark" title="Permanent Link: 数码荔枝 618 第一波优惠[正版软件]">数码荔枝 618 第一波优惠[正版软件]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/lizhi-office365-24/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49231" data-ulike-factor="up"
+            data-ulike-nonce="c1cad07995" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49231 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+3"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49231" data-ulike-factor="down"
+            data-ulike-nonce="c1cad07995" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49231 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="-30"></span>    </div></div>
+<p><a href="https://www.appinn.com/lizhi-office365-24/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/lizhi-office365-24/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>在线视频下载工具「猫抓」更新 2.5.4 版本</title>
+		<link>https://www.appinn.com/cat-catch-2-5-4/</link>
+					<comments>https://www.appinn.com/cat-catch-2-5-4/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sun, 04 Aug 2024 10:39:37 +0000</pubDate>
+				<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[猫抓]]></category>
+		<category><![CDATA[视频下载]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49228</guid>
+
+					<description><![CDATA[猫抓在几日前更新了2.5.4 版本，主要变化为通过 N_m3u8DL-RE 项目来实现使用 m3u8dl:// 协议下载。@Appinn 主要更新 获取 很长时间以来，青小蛙一直在使用猫抓来下载在线视 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong><a href="https://www.appinn.com/tag/猫抓/">猫抓</a></strong>在几日前更新了2.5.4 版本，主要变化为通过 N_m3u8DL-RE 项目来实现使用 m3u8dl:// 协议下载。@<a href="https://www.appinn.com/cat-catch-2-5-4/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T174120.648.jpg" alt="在线视频下载工具「猫抓」更新 2.5.4 版本" class="wp-image-49229" title="在线视频下载工具「猫抓」更新 2.5.4 版本 14" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T174120.648.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T174120.648-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T174120.648-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-04T174120.648-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e4%25b8%25bb%25e8%25a6%2581%25e6%259b%25b4%25e6%2596%25b0">主要更新</h2>
+
+
+<ul class="wp-block-list">
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f195.png" alt="🆕" class="wp-smiley" style="height: 1em; max-height: 1em;" /> m3u8DL 增加切换RE版本 (RE版 需URLProtocol)</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f195.png" alt="🆕" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 录制相关脚本 增加码率设置</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f527.png" alt="🔧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 深度搜索 脚本错误导致无法使用</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f527.png" alt="🔧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> m3u8解析器录制直播 录制时间显示错误</li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://chrome.google.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb" target="_blank" rel="noopener">Chrome</a></li>
+
+
+
+<li><a href="https://microsoftedge.microsoft.com/addons/detail/oohmdefbjalncfplafanlagojlakmjci" target="_blank" rel="noopener">Edge</a> </li>
+
+
+
+<li><a href="https://addons.mozilla.org/addon/cat-catch/" target="_blank" rel="noopener">Firefox</a></li>
+
+
+
+<li><a href="https://github.com/xifangczy/cat-catch" target="_blank" rel="noopener">GitHub</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>很长时间以来，青小蛙一直在使用猫抓来下载在线视频（基本上能播放的都能搞定），简单易用，只需要在能播放视频的网页（正在播放时）点击猫抓的按钮，然后：</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://www.appinn.com/wp-content/uploads/2022/09/Screen-Appinn2022-09-30_18_47_17.jpg" alt="在线视频下载工具「猫抓」更新 2.5.4 版本 7" style="width:840px;height:auto" title="在线视频下载工具「猫抓」更新 2.5.4 版本 15"></figure>
+
+
+
+<p>然后选择下载就好了。猫抓可以自动合并视频片段为 mp4。</p>
+
+
+
+<p>由于太好用了，再推荐一次。</p>
+
+
+
+<p>原文：https://www.appinn.com/cat-catch-2-5-4/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/cat-catch-2-4-0/" rel="bookmark" title="Permanent Link: 猫抓 Cat Catch 2.4.0 发布，帮你下载网页视频[Chrome/Firefox]">猫抓 Cat Catch 2.4.0 发布，帮你下载网页视频[Chrome/Firefox]</a></li><li><a href="https://www.appinn.com/cat-catch/" rel="bookmark" title="Permanent Link: 猫抓 Cat Catch &#8211; 抓取网页视频，M3U8 解析下载合并工具[Chrome/Firefox]">猫抓 Cat Catch &#8211; 抓取网页视频，M3U8 解析下载合并工具[Chrome/Firefox]</a></li><li><a href="https://www.appinn.com/leo-share-apps-ios/" rel="bookmark" title="Permanent Link: @Leo&#038; : 自用精品 App 整理与推荐 iOS 版">@Leo&#038; : 自用精品 App 整理与推荐 iOS 版</a></li><li><a href="https://www.appinn.com/bongo-cat-mver/" rel="bookmark" title="Permanent Link: Bongo Cat Mver &#8211; 邦哥猫替身：让猫咪同步使用鼠标键盘[Windows]">Bongo Cat Mver &#8211; 邦哥猫替身：让猫咪同步使用鼠标键盘[Windows]</a></li><li><a href="https://www.appinn.com/catch-jian-ying-xiang-pai/" rel="bookmark" title="Permanent Link: Catch 简影 &#8211; 三连拍，成电影[iPhone/Android]">Catch 简影 &#8211; 三连拍，成电影[iPhone/Android]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/cat-catch-2-5-4/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49228" data-ulike-factor="up"
+            data-ulike-nonce="a956c0364d" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49228 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+7"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49228" data-ulike-factor="down"
+            data-ulike-nonce="a956c0364d" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49228 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/cat-catch-2-5-4/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/cat-catch-2-5-4/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EcoPaste &#8211; 新鲜的开源剪切板管理工具[Win/macOS]</title>
+		<link>https://www.appinn.com/ecopaste/</link>
+					<comments>https://www.appinn.com/ecopaste/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 02:04:00 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[剪贴板]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49223</guid>
+
+					<description><![CDATA[EcoPaste 是一款新鲜上线的开源剪贴板管理工具，支持 Windows 与 macOS，可以方便的管理剪贴板历史，以及通过快捷键 Alt + C 快速从中挑选粘贴。@Appinn 来自发现频道，开 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>EcoPaste</strong> 是一款新鲜上线的开源剪贴板管理工具，支持 Windows 与 macOS，可以方便的管理剪贴板历史，以及通过快捷键 <kbd>Alt</kbd> + <kbd>C</kbd> 快速从中挑选粘贴。@<a href="https://www.appinn.com/ecopaste/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-02T001436.545.jpg" alt="EcoPaste - 新鲜的开源剪切板管理工具[Win/macOS]" class="wp-image-49224" title="EcoPaste - 新鲜的开源剪切板管理工具[Win/macOS] 16" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-02T001436.545.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-02T001436.545-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-02T001436.545-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-02T001436.545-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @ayangweb 自荐：<a href="https://meta.appinn.net/t/topic/59314" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/59314</a></p>
+
+
+<h2 class="wp-block-heading" id="ecopaste%25e9%2580%2582%25e7%2594%25a8%25e4%25ba%258e-macos-%25e5%2592%258c-windows-%25e5%25b9%25b3%25e5%258f%25b0%25e7%259a%2584%25e5%25bc%2580%25e6%25ba%2590%25e7%259a%2584%25e5%2589%25aa%25e5%2588%2587%25e6%259d%25bf%25e7%25ae%25a1%25e7%2590%2586%25e5%25b7%25a5%25e5%2585%25b7">EcoPaste：适用于 MacOS 和 Windows 平台的开源的剪切板管理工具</h2>
+
+
+<p>开发者提到：</p>
+
+
+
+<p>由于市面上大多数剪切板应用要么收费，要么功能有限，无法满足我的需求，我决定自己开发一款新的剪切板应用，以解决这些问题。我的目标是打造一款功能全面、操作便捷、免费且支持多平台（linux 有大佬正在努力适配）的剪切板工具，满足用户多样化的需求。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>是的，不满意就自己造，开发者好样的。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25a6%2582%25e4%25bd%2595%25e4%25bd%25bf%25e7%2594%25a8-ecopaste">如何使用 EcoPaste</h2>
+
+
+<p>EcoPaste 简单易用，在后台运行之后，完全不需要管他，正常使用系统的复杂粘贴即可。</p>
+
+
+
+<p>当你需要再次使用曾经剪贴板的内容时，只需要按下快捷键 <kbd>Alt</kbd> + <kbd>C</kbd> 就能呼出剪贴板历史记录界面</p>
+
+
+
+<p>此时点击你需要的内容，自动填写。</p>
+
+
+
+<p>完成。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1806" height="1362" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-02-00.27.12@2x.avif" alt="EcoPaste - 新鲜的开源剪切板管理工具[Win/macOS] 8" class="wp-image-49225" title="EcoPaste - 新鲜的开源剪切板管理工具[Win/macOS] 17" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-02-00.27.12@2x.avif 1806w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-02-00.27.12@2x-768x579.avif 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-02-00.27.12@2x-1536x1158.avif 1536w" sizes="(max-width: 1806px) 100vw, 1806px" /></figure>
+
+
+<h3 class="wp-block-heading" id="%25e4%25b8%2580%25e4%25ba%259b%25e7%25bb%2586%25e8%258a%2582">一些细节</h3>
+
+
+<p>EcoPaste 还有一些细节功能：</p>
+
+
+
+<ul class="wp-block-list">
+<li>可设置历史记录容量（从天到无限量）</li>
+
+
+
+<li>自定义快捷键</li>
+
+
+
+<li>单击粘贴/双击粘贴</li>
+
+
+
+<li>音效</li>
+
+
+
+<li>剪贴板内容分类：文本、图片、文件、收藏</li>
+
+
+
+<li>置顶收藏剪贴板内容</li>
+
+
+
+<li>内容搜索（支持 OCR）</li>
+</ul>
+
+
+
+<p>另外，所有的剪贴板数据均保存于本地。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://github.com/ayangweb/EcoPaste/" target="_blank" rel="noopener">GitHub</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/c5c0fc4df9a5" target="_blank" rel="noopener">搬运</a></li>
+
+
+
+<li>不到10MB</li>
+</ul>
+
+
+
+<p>另外，开发者在<a href="https://meta.appinn.net/t/topic/59314" target="_blank" rel="noopener">发现频道</a>放出了详细的操作动图，青小蛙觉得比较多就没放。不过喜欢看动图的同学可以去看看。</p>
+
+
+
+<p>原文：https://www.appinn.com/ecopaste/</p>
+<hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/ecopaste/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49223" data-ulike-factor="up"
+            data-ulike-nonce="aa53b56a0c" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49223 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+3"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49223" data-ulike-factor="down"
+            data-ulike-nonce="aa53b56a0c" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49223 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/ecopaste/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/ecopaste/feed/</wfw:commentRss>
+			<slash:comments>69</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>微信聊天记录导出助手 &#8211; 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows]</title>
+		<link>https://www.appinn.com/wechat-chatgroup-export/</link>
+					<comments>https://www.appinn.com/wechat-chatgroup-export/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 01 Aug 2024 02:45:00 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[导出]]></category>
+		<category><![CDATA[微信]]></category>
+		<category><![CDATA[聊天记录]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49215</guid>
+
+					<description><![CDATA[微信聊天记录导出助手是一款可以将微信中常见的「合并转发」聊天记录导出到本地 HTML 文件，支持文字与图片内容，不支持视频等其他内容。@Appinn 来自发现频道，开发者 @kakalong 自荐：h ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>微信聊天记录导出助手</strong>是一款可以将微信中常见的「合并转发」聊天记录导出到本地 HTML 文件，支持文字与图片内容，不支持视频等其他内容。@<a href="https://www.appinn.com/wechat-chatgroup-export/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-01T010132.777.jpg" alt="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows]" class="wp-image-49217" title="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 18" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-01T010132.777.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-01T010132.777-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-01T010132.777-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-01T010132.777-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @<strong>kakalong</strong> 自荐：<a href="https://meta.appinn.net/t/topic/59375" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/59375</a></p>
+
+
+
+<p>做这个小工具的初衷是我自己经常在群里看到一些精华内容，之前的保存方法是转发到小号或者使用微信的收藏，时间久了资料分散在各地找起来很费劲，有时候图片还会打不开了。</p>
+
+
+
+<p>于是想到能不能直接导出一份保存在本地，一来方便管理，二来在自己电脑上的才是不会丢的。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25be%25ae%25e4%25bf%25a1%25e5%2590%2588%25e5%25b9%25b6%25e8%25bd%25ac%25e5%258f%2591%25e6%2598%25af%25e4%25bb%2580%25e4%25b9%2588">微信合并转发是什么？</h2>
+
+
+<p>就是在群中非常常见的转发别人或者其他群的话，长这个样子：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="952" height="453" src="https://www.appinn.com/wp-content/uploads/2024/08/IMG_F9170C5DF1EB-1.avif" alt="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 9" class="wp-image-49216" style="width:344px;height:auto" title="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 19" srcset="https://www.appinn.com/wp-content/uploads/2024/08/IMG_F9170C5DF1EB-1.avif 952w, https://www.appinn.com/wp-content/uploads/2024/08/IMG_F9170C5DF1EB-1-768x365.avif 768w" sizes="(max-width: 952px) 100vw, 952px" /></figure></div>
+
+
+<p>你可以将任何联系人或者群里的聊天记录，通过合并转发功能，转发给自己或者其他人：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1170" height="1812" src="https://www.appinn.com/wp-content/uploads/2024/08/IMG_785E67E0C6EF-1-1.avif" alt="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 10" class="wp-image-49218" style="width:347px;height:auto" title="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 20" srcset="https://www.appinn.com/wp-content/uploads/2024/08/IMG_785E67E0C6EF-1-1.avif 1170w, https://www.appinn.com/wp-content/uploads/2024/08/IMG_785E67E0C6EF-1-1-768x1189.avif 768w, https://www.appinn.com/wp-content/uploads/2024/08/IMG_785E67E0C6EF-1-1-992x1536.avif 992w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+<p>当然更常见的，是群里的小伙伴发来的，不知道从哪里转来的小作文、小图片、小视频。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25be%25ae%25e4%25bf%25a1%25e8%2581%258a%25e5%25a4%25a9%25e8%25ae%25b0%25e5%25bd%2595%25e5%25af%25bc%25e5%2587%25ba%25e5%258a%25a9%25e6%2589%258b">微信聊天记录导出助手</h2>
+
+
+<p>这款工具，就是专门用来保存「合并转发」聊天记录为 HTML 文件的，简单易用。</p>
+
+
+<h3 class="wp-block-heading" id="%25e7%25ac%25ac%25e4%25b8%2580%25e6%25ad%25a5%25e5%259c%25a8-%25e5%25be%25ae%25e4%25bf%25a1pc-%25e4%25b8%258a%25e6%2589%2593%25e5%25bc%2580%25e4%25bd%25a0%25e9%259c%2580%25e8%25a6%2581%25e4%25bf%259d%25e5%25ad%2598%25e7%259a%2584%25e8%2581%258a%25e5%25a4%25a9%25e8%25ae%25b0%25e5%25bd%2595">第一步，在 微信PC 上，打开你需要保存的聊天记录</h3>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="1010" height="1124" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-01.13.52@2x.avif" alt="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 11" class="wp-image-49219" style="width:376px;height:auto" title="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 21" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-01.13.52@2x.avif 1010w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-01.13.52@2x-768x855.avif 768w" sizes="(max-width: 1010px) 100vw, 1010px" /></figure></div>
+
+<h3 class="wp-block-heading" id="%25e7%25ac%25ac%25e4%25ba%258c%25e6%25ad%25a5%25e6%2589%2593%25e5%25bc%2580%25e5%25be%25ae%25e4%25bf%25a1%25e8%2581%258a%25e5%25a4%25a9%25e8%25ae%25b0%25e5%25bd%2595%25e5%25af%25bc%25e5%2587%25ba%25e5%258a%25a9%25e6%2589%258b">第二步，打开<strong>微信聊天记录导出助手</strong></h3>
+
+
+<p>输入<strong>聊天名称</strong>后，点击<kbd>开始导出</kbd>。</p>
+
+
+<h3 class="wp-block-heading" id="%25e6%25b3%25a8%25e6%2584%258f%25e6%25ad%25a4%25e6%2597%25b6%25e5%25b0%25b1%25e4%25b8%258d%25e8%25a6%2581%25e7%25a2%25b0%25e9%25bc%25a0%25e6%25a0%2587%25e4%25ba%2586%25e5%25ae%2583%25e4%25bc%259a%25e8%2587%25aa%25e5%258a%25a8%25e5%25b7%25a5%25e4%25bd%259c">注意：此时就不要碰鼠标了，它会自动工作</h3>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="844" height="724" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-00.57.28@2x-1.avif" alt="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 12" class="wp-image-49220" style="width:466px;height:auto" title="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 22" srcset="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-00.57.28@2x-1.avif 844w, https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-00.57.28@2x-1-768x659.avif 768w" sizes="(max-width: 844px) 100vw, 844px" /></figure></div>
+
+
+<p>这个过程有模拟鼠标的操作，所以不要动鼠标。</p>
+
+
+
+<p>完成之后，HTML 文件就自动保存在程序所在目录下了：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="550" height="499" src="https://www.appinn.com/wp-content/uploads/2024/08/Appinn-2024-08-01-01.24.40@2x.avif" alt="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 13" class="wp-image-49221" title="微信聊天记录导出助手 - 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows] 23"></figure>
+
+
+
+<p>有一个单文件 HTML 包含了图片，还有一个纯 HTML 和图片文件夹。注意仅支持文字与图片。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.xiaokuake.com/p/chatgroup.html" target="_blank" rel="noopener">官网</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/f92b7a778380" target="_blank" rel="noopener">搬运</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/wechat-chatgroup-export/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/wechat-feeds/" rel="bookmark" title="Permanent Link: WeChat-Feeds &#8211; 为微信公众号生成 RSS 订阅源">WeChat-Feeds &#8211; 为微信公众号生成 RSS 订阅源</a></li><li><a href="https://www.appinn.com/weread-export-md/" rel="bookmark" title="Permanent Link: WeRead Export &#8211; 一键导出微信读书笔记，Markdown 格式[Chrome]">WeRead Export &#8211; 一键导出微信读书笔记，Markdown 格式[Chrome]</a></li><li><a href="https://www.appinn.com/dll-export-viewer/" rel="bookmark" title="Permanent Link: DLL Export Viewer &#8211; DLL 导出表查看器">DLL Export Viewer &#8211; DLL 导出表查看器</a></li><li><a href="https://www.appinn.com/clean-wechat-x/" rel="bookmark" title="Permanent Link: Clean WeChat X &#8211; 微信（PC）深度清理软件">Clean WeChat X &#8211; 微信（PC）深度清理软件</a></li><li><a href="https://www.appinn.com/opera-settings-import-export-tool/" rel="bookmark" title="Permanent Link: Opera 设置备份/恢复工具">Opera 设置备份/恢复工具</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/wechat-chatgroup-export/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49215" data-ulike-factor="up"
+            data-ulike-nonce="5a2c65f9a2" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49215 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49215" data-ulike-factor="down"
+            data-ulike-nonce="5a2c65f9a2" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49215 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/wechat-chatgroup-export/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/wechat-chatgroup-export/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
