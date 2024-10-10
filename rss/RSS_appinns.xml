@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>小众软件</title>
+	<atom:link href="https://www.appinn.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.appinn.com</link>
+	<description>分享免费、小巧、实用、有趣、绿色的软件</description>
+	<lastBuildDate>Thu, 10 Oct 2024 12:45:23 +0000</lastBuildDate>
+	<language>zh-Hans</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本</title>
+		<link>https://www.appinn.com/zoomit-v8-demotype/</link>
+					<comments>https://www.appinn.com/zoomit-v8-demotype/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2024 12:45:11 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Sysinternals]]></category>
+		<category><![CDATA[zoomit]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49710</guid>
+
+					<description><![CDATA[ZoomIt 是一款著名的电子教鞭工具，来自微软 Sysinternals 小工具集。其功能非常丰富以至于总记不住怎么用。@crozt 同学为 ZoomIt 开发了一个画图小抄辅助工具 ZoomIt+ ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ZoomIt</strong> 是一款著名的电子教鞭工具，来自微软 <a href="https://www.appinn.com/tag/sysinternals/">Sysinternals</a> 小工具集。其功能非常丰富以至于总记不住怎么用。@<strong>crozt</strong> 同学为 ZoomIt 开发了一个画图小抄辅助工具 ZoomIt+，可以非常方便的随时呼出快捷键列表，参考使用。另外最新的 v8.0.1 版本新增用来自动输入演示文本的 DemoType 功能。@<a href="https://www.appinn.com/zoomit-v8-demotype/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1608" height="700" src="https://static3.appinn.com/images/2024/10/Appinn-feature-images-2024-10-10T200003.098.jpg" alt="为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本 1" class="wp-image-49711" title="为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本 1" srcset="https://static3.appinn.com/images/2024/10/Appinn-feature-images-2024-10-10T200003.098.jpg 1608w, https://static3.appinn.com/images/2024/10/Appinn-feature-images-2024-10-10T200003.098-768x334.jpg 768w, https://static3.appinn.com/images/2024/10/Appinn-feature-images-2024-10-10T200003.098-1536x669.jpg 1536w, https://static3.appinn.com/images/2024/10/Appinn-feature-images-2024-10-10T200003.098-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @crozt 自荐：<a href="https://meta.appinn.net/t/topic/61372" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61372</a></p>
+
+
+
+<p>关于电子教鞭，有坛友推荐了 ZoomIt，我用着很满意，就写了个ahk脚本配合使用，与大家分享：</p>
+
+
+
+<ul class="wp-block-list">
+<li>AutoHotkey v1 运行</li>
+
+
+
+<li>本脚本常驻后台使用。能集成到自己的常驻脚本更佳。</li>
+
+
+
+<li>Win+1 触发（与 ZoomIt 的 Ctrl + 2 相同功能）</li>
+
+
+
+<li><strong>F1</strong>：画图状态看小抄，再按关闭（触发状态下）</li>
+
+
+
+<li>Esc 退出</li>
+
+
+
+<li>需要 IME 库。为了限制输入法状态。</li>
+</ul>
+
+
+<h2 class="wp-block-heading" id="%25e5%25b0%258f%25e8%25a7%2586%25e9%25a2%2591">小视频</h2>
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=113283101164077&#038;bvid=BV16A25YcEVS&#038;cid=26229998858&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e5%2585%25b3%25e4%25ba%258e-zoomit">关于 ZoomIt+</h2>
+
+
+<p>快捷键小抄很好用，用熟练了就可以把它扔了。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%2585%25b3%25e4%25ba%258e-demotype">关于 DemoType</h2>
+
+
+<p>自动输入非常方便，但遗憾不支持中文输入（英语外的其他语言也不支持），所以用来写代码吧。</p>
+
+
+
+<p>支持的关键词：</p>
+
+
+
+<ul class="wp-block-list">
+<li>[start] 剪贴板安全前缀</li>
+
+
+
+<li>[end] 分段、暂停</li>
+
+
+
+<li>[enter] 、 [up] 、 [down] 、 [left] 、 [right]：回车、上下左右</li>
+
+
+
+<li>[pause:n] n秒停顿</li>
+
+
+
+<li>[paste]带有结束符[/paste]允许您通过剪贴板注入一段文本</li>
+</ul>
+
+
+
+<p>[start] 是剪贴板专用，为了防止把剪贴板内容随意泄漏出来，所以需要带上前缀，才能在 DemoType 中使用。</p>
+
+
+
+<p>遇到 [end] 会暂停，需要再次按下快捷键才继续输入</p>
+
+
+
+<p>[/paste] 不会用&#8230;</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://learn.microsoft.com/zh-cn/sysinternals/downloads/zoomit" target="_blank" rel="noopener">官网</a></li>
+
+
+
+<li>搬运（<a href="https://pan.quark.cn/s/7b763fe790a2" target="_blank" rel="noopener">夸克</a>、<a href="https://pan.baidu.com/s/1BA26Q9-L-UFlOO8ivzY6sA?pwd=aj78" target="_blank" rel="noopener">百度</a>）</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/zoomit-v8-demotype/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/zoomit-v6-01/" rel="bookmark" title="Permanent Link: ZoomIt v6.01 更新，支持屏幕放大镜、屏幕涂鸦，新增录屏功能[Windows]">ZoomIt v6.01 更新，支持屏幕放大镜、屏幕涂鸦，新增录屏功能[Windows]</a></li><li><a href="https://www.appinn.com/zoomit-7/" rel="bookmark" title="Permanent Link: ZoomIt v7.0 屏幕放大和注释工具｜微软 Sysinternals 经典小工具">ZoomIt v7.0 屏幕放大和注释工具｜微软 Sysinternals 经典小工具</a></li><li><a href="https://www.appinn.com/zoomit-v22/" rel="bookmark" title="Permanent Link: ZoomIt v2.2 &#8211; 屏幕放大注释工具">ZoomIt v2.2 &#8211; 屏幕放大注释工具</a></li><li><a href="https://www.appinn.com/screen-zoom-tips/" rel="bookmark" title="Permanent Link: 随时随地的快速屏幕缩放">随时随地的快速屏幕缩放</a></li><li><a href="https://www.appinn.com/zoomit-v303/" rel="bookmark" title="Permanent Link: ZoomIt v3.03 更新，增加 LiveZoom 模式">ZoomIt v3.03 更新，增加 LiveZoom 模式</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/zoomit-v8-demotype/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49710" data-ulike-factor="up"
+            data-ulike-nonce="84317cdbb1" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49710 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49710" data-ulike-factor="down"
+            data-ulike-nonce="84317cdbb1" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49710 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/zoomit-v8-demotype/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/zoomit-v8-demotype/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iCar·车保养记录 &#8211; 6.9 MB 的轻量级车辆保养记录[iPhone/iPad]</title>
+		<link>https://www.appinn.com/icar-oil-change/</link>
+					<comments>https://www.appinn.com/icar-oil-change/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2024 09:29:12 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[保养]]></category>
+		<category><![CDATA[提醒]]></category>
+		<category><![CDATA[汽车]]></category>
+		<category><![CDATA[记录]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49700</guid>
+
+					<description><![CDATA[iCar·车保养记录 是一款适用于 iPhone、iPad 的轻量级车辆保养记录，只有 6.9 MB 大小，集合了保养记录与提醒功能，简单易用。@Appinn 来自发现频道，开发者 @BuHu 同学的 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>iCar·车保养记录</strong> 是一款适用于 iPhone、iPad 的轻量级车辆保养记录，只有 6.9 MB 大小，集合了保养记录与提醒功能，简单易用。@<a href="https://www.appinn.com/icar-oil-change/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-09T170920.718.jpg" alt="iCar·车保养记录 - 6.9 MB 的轻量级车辆保养记录[iPhone/iPad]" class="wp-image-49699" title="iCar·车保养记录 - 6.9 MB 的轻量级车辆保养记录[iPhone/iPad] 2" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-09T170920.718.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-09T170920.718-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-09T170920.718-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-09T170920.718-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @BuHu 同学的推荐：<a href="https://meta.appinn.net/t/topic/61743" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61743</a></p>
+
+
+<h2 class="wp-block-heading" id="icar%25e8%25bd%25a6%25e4%25bf%259d%25e5%2585%25bb%25e8%25ae%25b0%25e5%25bd%2595%25e6%2598%25af%25e4%25b8%2580%25e4%25b8%25aa%25e8%25ae%25b0%25e5%25bd%2595%25e4%25b8%258e%25e8%25bf%25bd%25e8%25b8%25aa%25e8%25bd%25a6%25e8%25be%2586%25e4%25bf%259d%25e5%2585%25bb%25e7%259a%2584app">「iCar·车保养记录」是一个记录与追踪车辆保养的App</h2>
+
+
+<p>开发者提到：</p>
+
+
+
+<p>由于4S店保养太贵，所以我一般在途虎、京东做保养，为了清楚保养店有没有过度保养，也为了自己能知道车辆的维保状态，于是，出于自己的需求，我开发了这个App。</p>
+
+
+
+<p>App可以录入车辆要执行的保养项目，每次做了保养可以记录下来，由此可以计算出下一次保养的时间/里程，App显示出每项保养剩余的时间/里程。也能查看和导出历史保养记录。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25b0%258f%25e8%25a7%2586%25e9%25a2%2591">小视频</h2>
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=113276591539609&#038;bvid=BV1wJ2PYzEVr&#038;cid=26212634168&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://apps.apple.com/cn/app/icar-%E8%BD%A6%E4%BF%9D%E5%85%BB%E8%AE%B0%E5%BD%95-%E8%AE%B0%E5%BD%95%E8%BD%A6%E8%BE%86%E4%BF%9D%E5%85%BB-%E6%8F%90%E9%86%92%E4%B8%8B%E4%B8%80%E6%AC%A1%E4%BF%9D%E5%85%BB%E6%97%B6%E6%9C%BA/id6532600650" target="_blank" rel="noopener">App Store</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/icar-oil-change/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/quickchangeresolution-for-win/" rel="bookmark" title="Permanent Link: QuickChangeResolution &#8211; 快速切换显示器分辨率工具[Windows]">QuickChangeResolution &#8211; 快速切换显示器分辨率工具[Windows]</a></li><li><a href="https://www.appinn.com/progress-see-your-body-change-over-time/" rel="bookmark" title="Permanent Link: Progress &#8211; 将「每天拍摄一张相同的照片」连成视频，看尽减肥历程">Progress &#8211; 将「每天拍摄一张相同的照片」连成视频，看尽减肥历程</a></li><li><a href="https://www.appinn.com/tips-change-files-icon-for-windows/" rel="bookmark" title="Permanent Link: Windows 10 更换文件图标小技巧">Windows 10 更换文件图标小技巧</a></li><li><a href="https://www.appinn.com/game-emulator-delta-change-loge/" rel="bookmark" title="Permanent Link: Adobe 威胁起诉游戏模拟器 Delta 图标太像，于是 Delta 换了新图标">Adobe 威胁起诉游戏模拟器 Delta 图标太像，于是 Delta 换了新图标</a></li><li><a href="https://www.appinn.com/sfxr/" rel="bookmark" title="Permanent Link: sfxr &#8211; 超好玩游戏音效生成器">sfxr &#8211; 超好玩游戏音效生成器</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/icar-oil-change/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49700" data-ulike-factor="up"
+            data-ulike-nonce="ad2d8bf10e" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49700 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49700" data-ulike-factor="down"
+            data-ulike-nonce="ad2d8bf10e" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49700 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/icar-oil-change/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/icar-oil-change/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况</title>
+		<link>https://www.appinn.com/manually-force-updates-windows-11-24h2/</link>
+					<comments>https://www.appinn.com/manually-force-updates-windows-11-24h2/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 08:57:47 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows11]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49691</guid>
+
+					<description><![CDATA[Windows 11 24H2 更新之后，如果碰到无法自动升级的情况，比如青小蛙这种遇到了不兼容的 CPU，以及就想此时此刻升级，可以手动、强制升级。@Appinn 没错，青小蛙就碰到了 CPU 不兼 ]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.appinn.com/windows-11-2024-new/" data-type="post" data-id="49673">Windows 11 24H2</a> 更新之后，如果碰到无法自动升级的情况，比如青小蛙这种遇到了不兼容的 CPU，以及就想此时此刻升级，可以手动、强制升级。@<a href="https://www.appinn.com/manually-force-updates-windows-11-24h2/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-08T160007.397.jpg" alt="只需两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况" class="wp-image-49692" title="两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 3" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-08T160007.397.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-08T160007.397-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-08T160007.397-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-08T160007.397-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>没错，青小蛙就碰到了 CPU 不兼容的问题。老旧的 CPU 不配 Windows 11：</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" width="932" height="638" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-08-16.03.34@2x.avif" alt="两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 2" class="wp-image-49693" style="width:511px;height:auto" title="两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 4" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-08-16.03.34@2x.avif 932w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-08-16.03.34@2x-768x526.avif 768w" sizes="(max-width: 932px) 100vw, 932px" /></figure></div>
+
+
+<p>但是呢，也不是没有解决方案。</p>
+
+
+
+<p>如果你在 <kbd>Windows 更新</kbd>里面检测不到新版本，那么跟着以下步骤，可以解千愁 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+<h2 class="wp-block-heading" id="%25e6%259d%25a5%25e7%259c%258b%25e8%25a7%2586%25e9%25a2%2591">来看视频</h2>
+
+
+<p>视频包含完整的升级过程：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=113270887351877&#038;bvid=BV1mZ2JYZEjz&#038;cid=26197754966&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e5%25a6%2582%25e4%25bd%2595%25e6%2589%258b%25e5%258a%25a8%25e5%25bc%25ba%25e5%2588%25b6%25e5%258d%2587%25e7%25ba%25a7-windows-11-24h2-%25e7%2589%2588%25e6%259c%25ac">如何手动强制升级 Windows 11 24H2 版本</h2>
+
+
+<p>简单粗暴：</p>
+
+
+
+<ol class="wp-block-list">
+<li>从官网下载 Windows 11 24H2 镜像</li>
+
+
+
+<li>解压缩镜像文件</li>
+
+
+
+<li>运行 <kbd>sources/setupprep.exe /product server</kbd> 进行安装</li>
+
+
+
+<li>等待、重启、等待</li>
+
+
+
+<li>完成安装。</li>
+</ol>
+
+
+
+<p>两个细节：</p>
+
+
+
+<p>推荐从微软官网下载，地址<a href="https://www.microsoft.com/zh-cn/software-download/windows11" target="_blank" rel="noopener">在这里</a>。选择<kbd>下载适用于 x64 设备的 Windows 11 磁盘映像 (ISO)</kbd> > <kbd>Windows 11（适用于 x64 设备的多版本 ISO）</kbd>。别从乱七八糟的地方下载，微软提供的下载速度很快的。</p>
+
+
+
+<p>记得使用管理员权限打开命令提示符：</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="954" height="870" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-08-16.41.33@2x.avif" alt="两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 3" class="wp-image-49694" style="width:593px;height:auto" title="两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 5" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-08-16.41.33@2x.avif 954w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-08-16.41.33@2x-768x700.avif 768w" sizes="(max-width: 954px) 100vw, 954px" /></figure>
+
+
+
+<p>再就没什么了，青小蛙觉得还是非常容易的。</p>
+
+
+
+<p>至于 Windows 11 24H2 有什么更新，可以看这个：<a href="https://www.appinn.com/windows-11-2024-new/">Windows 11 2024（又叫 24H2）都更新了什么？</a></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/manually-force-updates-windows-11-24h2/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/enable-force-dark-for-chrome-and-edge/" rel="bookmark" title="Permanent Link: 在 Chrome/Edge，强制为网页开启深色主题模式">在 Chrome/Edge，强制为网页开启深色主题模式</a></li><li><a href="https://www.appinn.com/why-are-there-214-reasons-to-use-windows-10/" rel="bookmark" title="Permanent Link: 为什么要使用 Windows 10 的 214 条理由">为什么要使用 Windows 10 的 214 条理由</a></li><li><a href="https://www.appinn.com/force-block-the-star-wars-spoiler-blocker/" rel="bookmark" title="Permanent Link: Force Block: 防止被《星球大战》剧透[Chrome]">Force Block: 防止被《星球大战》剧透[Chrome]</a></li><li><a href="https://www.appinn.com/openai-api-updates/" rel="bookmark" title="Permanent Link: OpenAI  发布新版 GPT-4、GPT-3.5，部分降价 25%，以及支持长达 20 页上下文的  GPT-3.5-16K ，旧版本今年 9 月份将被弃用">OpenAI  发布新版 GPT-4、GPT-3.5，部分降价 25%，以及支持长达 20 页上下文的  GPT-3.5-16K ，旧版本今年 9 月份将被弃用</a></li><li><a href="https://www.appinn.com/windows-11-2024-new/" rel="bookmark" title="Permanent Link: Windows 11 2024（又叫 24H2）都更新了什么？">Windows 11 2024（又叫 24H2）都更新了什么？</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/manually-force-updates-windows-11-24h2/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49691" data-ulike-factor="up"
+            data-ulike-nonce="511e6d1448" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49691 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49691" data-ulike-factor="down"
+            data-ulike-nonce="511e6d1448" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49691 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="-1"></span>    </div></div>
+<p><a href="https://www.appinn.com/manually-force-updates-windows-11-24h2/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/manually-force-updates-windows-11-24h2/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>自动隐私模式 &#8211; 打开指定网页时，自动进入无痕模式，并且删除历史记录[Edge]</title>
+		<link>https://www.appinn.com/auto-inprivate-tab/</link>
+					<comments>https://www.appinn.com/auto-inprivate-tab/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 13:18:16 +0000</pubDate>
+				<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[无痕模式]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49688</guid>
+
+					<description><![CDATA[自动隐私模式是一款 Edge 扩展，它可以在你访问指定的网页时，自动进入浏览器的无痕模式，以及删除历史记录。谁还没有一些需要无痕模式访问的网页呢。@Appinn 来自发现频道，开发者 @jsfaint ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>自动隐私模式</strong>是一款 Edge 扩展，它可以在你访问指定的网页时，自动进入浏览器的无痕模式，以及删除历史记录。谁还没有一些需要无痕模式访问的网页呢。@<a href="https://www.appinn.com/auto-inprivate-tab/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-07T210417.965.jpg" alt="自动隐私模式 - 打开指定网页时，自动进入无痕模式，并且删除历史记录[Edge]" class="wp-image-49689" title="自动隐私模式 - 打开指定网页时，自动进入无痕模式，并且删除历史记录[Edge] 6" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-07T210417.965.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-07T210417.965-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-07T210417.965-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-07T210417.965-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，开发者 @jsfaint 自荐：<a href="https://meta.appinn.net/t/topic/61666" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61666</a></p>
+
+
+<h2 class="wp-block-heading" id="edge%25e6%2589%25a9%25e5%25b1%2595-%25e8%2587%25aa%25e5%258a%25a8%25e9%259a%2590%25e7%25a7%2581%25e6%25a8%25a1%25e5%25bc%258f">Edge扩展 自动隐私模式</h2>
+
+
+<p>这是一个Chrome/Edge浏览器的扩展，用于打开特定网页时自动进入隐私模式。主要用于测试一些需要用隐私模式（无痕）打开的网站。</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%258a%259f%25e8%2583%25bd"><a href="https://meta.appinn.net/t/topic/61666/2#p-226678-h-3" target="_blank" rel="noopener"></a>功能</h3>
+
+
+<ol class="wp-block-list">
+<li>黑名单管理，通过浏览器的popup页面管理黑名单，可以点击添加当前tab的域名，或者手动填写要过滤的网站。</li>
+
+
+
+<li>自动进入隐私模式，当黑名单中的页面打开时自动进入隐私模式，并删除对应的历史纪录。</li>
+</ol>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>这个扩展深得我心啊，终于有一款可以自动解决这个问题的扩展了。开发者还开源了扩展。</p>
+
+
+
+<p>我觉得最有趣的就是从浏览器跳转到无痕模式的时候，还能删除对应的历史记录 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 第一眼看到这个扩展，我就想知道这个问题如何解决，结果可以自动删除。</p>
+
+
+<h2 class="wp-block-heading" id="%25e5%25b0%258f%25e8%25a7%2586%25e9%25a2%2591">小视频</h2>
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=113266307172216&#038;bvid=BV1xr12YhExB&#038;cid=26187335900&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>嗯，唯一的问题就是它会直接显示所有的黑名单列表 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://microsoftedge.microsoft.com/addons/detail/jifongmjndlfaakddlefojdgnijchfio" target="_blank" rel="noopener">Edge 商店</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/auto-inprivate-tab/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/tab-key-tips/" rel="bookmark" title="Permanent Link: tab 键技巧小结">tab 键技巧小结</a></li><li><a href="https://www.appinn.com/simptab-1-5-2/" rel="bookmark" title="Permanent Link: 为什么我坚持更新一款「几乎无人问津」的只呈现美景的新标签页扩展 &#8211; 简 Tab（SimpTab）">为什么我坚持更新一款「几乎无人问津」的只呈现美景的新标签页扩展 &#8211; 简 Tab（SimpTab）</a></li><li><a href="https://www.appinn.com/tab-manager-plus-for-chrome-and-firefox/" rel="bookmark" title="Permanent Link: Tab Manager Plus &#8211; 搜索、移动、限制、保存、切换标签页[Chrome/Firefox]">Tab Manager Plus &#8211; 搜索、移动、限制、保存、切换标签页[Chrome/Firefox]</a></li><li><a href="https://www.appinn.com/new-tab-studio/" rel="bookmark" title="Permanent Link: New Tab Studio &#8211; 可高度自定义的新标签页扩展[Chrome]">New Tab Studio &#8211; 可高度自定义的新标签页扩展[Chrome]</a></li><li><a href="https://www.appinn.com/clear-new-tab/" rel="bookmark" title="Permanent Link: Clear New Tab &#8211; 真.极简的新标签页扩展：去除一切，还可换上视频、图片[Chrome/Firefox]">Clear New Tab &#8211; 真.极简的新标签页扩展：去除一切，还可换上视频、图片[Chrome/Firefox]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/auto-inprivate-tab/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49688" data-ulike-factor="up"
+            data-ulike-nonce="49f4e52ebf" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49688 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+2"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49688" data-ulike-factor="down"
+            data-ulike-nonce="49f4e52ebf" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49688 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/auto-inprivate-tab/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/auto-inprivate-tab/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Infinite Mac &#8211; 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统</title>
+		<link>https://www.appinn.com/infinite-mac/</link>
+					<comments>https://www.appinn.com/infinite-mac/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2024 08:48:12 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[怀旧]]></category>
+		<category><![CDATA[虚拟机]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49679</guid>
+
+					<description><![CDATA[Infinite Mac 是一个能够在线体验从 Mac OS 1.0 到 9.0，以及 NeXTSTEP 系统的网站，并且还可以上传自己的镜像在 Mac、Power、NeXT 设备硬件中运行。以及还有 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Infinite Mac</strong> 是一个能够在线体验从 Mac OS 1.0 到 9.0，以及 NeXTSTEP 系统的网站，并且还可以上传自己的镜像在 Mac、Power、NeXT 设备硬件中运行。以及还有模拟的 CD-ROM 可以载入杂志、游戏。只需要浏览器就可以访问，支持导入导出。当然，看看就好，没啥实用性。@<a href="https://www.appinn.com/infinite-mac/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-05T160948.298.jpg" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统" class="wp-image-49680" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 7" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-05T160948.298.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-05T160948.298-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-05T160948.298-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-05T160948.298-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，@<strong>VIctoryRoad</strong> 同学的推荐：<a href="https://meta.appinn.net/t/topic/61638" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61638</a></p>
+
+
+<h2 class="wp-block-heading" id="infinite-mac-%25e5%259c%25a8%25e7%25ba%25bf%25e8%25bf%2590%25e8%25a1%258c-mac-os-1090%25e4%25bb%25a5%25e5%258f%258a-nextstep-%25e7%25b3%25bb%25e7%25bb%259f">Infinite Mac &#8211; 在线运行 Mac OS 1.0〜9.0，以及 NeXTSTEP 系统</h2>
+
+
+<p>在线运行 Mac OS 1.0〜9.0，以及 NeXTSTEP 系统。</p>
+
+
+<h3 class="wp-block-heading" id="%25e8%25a1%25a5%25e5%2585%2585%25e8%25af%25b4%25e6%2598%258e">补充说明</h3>
+
+
+<p>不建议在手机上使用，会比较卡，而且触摸操作的体验也不是很好。<br />运行 Mac OS 9 时会有点卡，毕竟该网站提供的虚拟机的配置还是比较有限的。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>青小蛙测试了一下，发现 Infinite Mac 还有不少功能的：</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%25a4%259a%25e6%259c%25ba%25e5%259e%258b%25e7%25a1%25ac%25e4%25bb%25b6">多机型硬件</h3>
+
+
+<p>可以从16款硬件设备中选择虚拟，最早是 1984 年发布的 Macintosh 128K：</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="868" height="912" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.11.39@2x.avif" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 4" class="wp-image-49681" style="width:492px;height:auto" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 8" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.11.39@2x.avif 868w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.11.39@2x-768x807.avif 768w" sizes="(max-width: 868px) 100vw, 868px" /></figure>
+
+
+<h3 class="wp-block-heading" id="%25e5%25a4%259a%25e7%25b3%25bb%25e7%25bb%259f%25e9%2595%259c%25e5%2583%258f">多系统镜像</h3>
+
+
+<p>从最早 System 1.0，一路到 Mac OS 9.2.2，里面那个 10.2 未运行成功：</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="604" height="1698" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.13.28@2x.avif" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 5" class="wp-image-49682" style="width:454px;height:auto" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 9" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.13.28@2x.avif 604w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.13.28@2x-546x1536.avif 546w" sizes="(max-width: 604px) 100vw, 604px" /></figure>
+
+
+
+<p>比较有趣的是支持自定义镜像，你可以上传自己的系统，只要它能在上面提到那些设备中运行。</p>
+
+
+<h3 class="wp-block-heading" id="%25e5%25af%25bc%25e5%2585%25a5%25e5%25af%25bc%25e5%2587%25ba">导入导出</h3>
+
+
+<p>说到这里，你可以直接拖动文件到 Infinite Mac 里，它会自动“下载”到桌面 The Outside World 文件夹中的 Downloads 文件夹中。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1616" height="682" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.27.54@2x.avif" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 6" class="wp-image-49684" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 10" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.27.54@2x.avif 1616w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.27.54@2x-768x324.avif 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.27.54@2x-1536x648.avif 1536w" sizes="(max-width: 1616px) 100vw, 1616px" /></figure>
+
+
+
+<p>而折腾完之后，是可以将整个镜像导出的，或者也可以保存为磁盘文件（.dsk / .hda），然后再导入其他项目使用：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2090" height="1655" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.24.10@2x.avif" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 7" class="wp-image-49683" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 11" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.24.10@2x.avif 2090w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.24.10@2x-768x608.avif 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.24.10@2x-1536x1216.avif 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.24.10@2x-2048x1622.avif 2048w" sizes="(max-width: 2090px) 100vw, 2090px" /></figure>
+
+
+<h3 class="wp-block-heading" id="cdroms">CD-ROMs</h3>
+
+
+<p>甚至，Infinite Mac 里还有一堆 CD-ROMs 可以加载：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1520" height="500" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.30.04@2x-1.avif" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 8" class="wp-image-49685" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 12" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.30.04@2x-1.avif 1520w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.30.04@2x-1-768x253.avif 768w" sizes="(max-width: 1520px) 100vw, 1520px" /></figure>
+
+
+
+<p>比如打一把 Doom II：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1488" height="1130" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.39.37@2x.avif" alt="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 9" class="wp-image-49686" title="Infinite Mac - 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统 13" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.39.37@2x.avif 1488w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-05-16.39.37@2x-768x583.avif 768w" sizes="(max-width: 1488px) 100vw, 1488px" /></figure>
+
+
+
+<p>虽然我没玩过 Doom，但看这画面就有点刺激。</p>
+
+
+
+<p>啰啰嗦嗦这么多，就是想让你们死心，看看就好了，别没事像我一样去折腾半天。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://infinitemac.org/" target="_blank" rel="noopener">官网</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/infinite-mac/</p>
+
+
+
+<p>本应算是<a href="https://www.appinn.com/tag/怀旧/">怀旧</a>党，但是这些操作系统我一个都没用过&#8230; <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f648.png" alt="🙈" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/lizhi-23618/" rel="bookmark" title="Permanent Link: 618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价">618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价</a></li><li><a href="https://www.appinn.com/open-source-mac-os-apps/" rel="bookmark" title="Permanent Link: 34 个大类，超过 400 个「macOS 绝赞开源应用」列表">34 个大类，超过 400 个「macOS 绝赞开源应用」列表</a></li><li><a href="https://www.appinn.com/infinite-minesweeper/" rel="bookmark" title="Permanent Link: Infinite minesweeper &#8211; 无限扫雷，摸鱼一整天">Infinite minesweeper &#8211; 无限扫雷，摸鱼一整天</a></li><li><a href="https://www.appinn.com/lizhi-22618-2/" rel="bookmark" title="Permanent Link: 数码荔枝 618 第一波优惠[正版软件]">数码荔枝 618 第一波优惠[正版软件]</a></li><li><a href="https://www.appinn.com/infinite-slice/" rel="bookmark" title="Permanent Link: Infinite Slice &#8211; 容易上瘾的占地盘游戏[Android]">Infinite Slice &#8211; 容易上瘾的占地盘游戏[Android]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/infinite-mac/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49679" data-ulike-factor="up"
+            data-ulike-nonce="d79120a064" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49679 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49679" data-ulike-factor="down"
+            data-ulike-nonce="d79120a064" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49679 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/infinite-mac/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/infinite-mac/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 11 2024（又叫 24H2）都更新了什么？</title>
+		<link>https://www.appinn.com/windows-11-2024-new/</link>
+					<comments>https://www.appinn.com/windows-11-2024-new/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2024 07:53:13 +0000</pubDate>
+				<category><![CDATA[业界消息]]></category>
+		<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49673</guid>
+
+					<description><![CDATA[Windows 11 2024（24H2）更新已经开始逐步推送了，虽然我只刷出来了 23H2（修复版本），但不妨碍了解一下 2024 都有哪些更新。@Appinn Windows 11 2024 更新 ]]></description>
+										<content:encoded><![CDATA[
+<p>Windows 11 2024（24H2）更新已经开始逐步推送了，虽然我只刷出来了 23H2（修复版本），但不妨碍了解一下 2024 都有哪些更新。@<a href="https://www.appinn.com/windows-11-2024-new/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-04T151828.150.jpg" alt="Windows 11 2024（又叫 24H2）都更新了什么？" class="wp-image-49676" title="Windows 11 2024（又叫 24H2）都更新了什么？ 14" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-04T151828.150.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-04T151828.150-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-04T151828.150-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-04T151828.150-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>Windows 11 2024 更新了什么？</p>
+
+
+<h2 class="wp-block-heading" id="copilot-%25e7%2594%25b5%25e8%2584%2591%25e7%258b%25ac%25e5%258d%25a0%25e5%258a%259f%25e8%2583%25bd">Copilot+ 电脑独占功能</h2>
+
+
+<p>Copilot+ 电脑是一个新的概念，我觉得可以理解为软硬件结合起来的产物，即带有 AI 硬件以及 AI 功能的 Windows 11，而普通电脑使用的则是普通的 Windows 11。实际上从现在开始，Windows 被拆分了。</p>
+
+
+
+<p>Windows 11 2024 的主要更新：</p>
+
+
+
+<ul class="wp-block-list">
+<li>实时字幕（翻译为英文）</li>
+
+
+
+<li>使用画图（Cocreator）进行 AI 绘画</li>
+
+
+
+<li>在视频通话时增强摄像头画面</li>
+
+
+
+<li>自动超级分辨率（自动增强游戏画面）</li>
+
+
+
+<li>照片应用（用文本创建图像）</li>
+</ul>
+
+
+
+<p>注意，你需要一台 Copilot+ 电脑才能使用这些功能。</p>
+
+
+<h2 class="wp-block-heading" id="%25e6%2599%25ae%25e9%2580%259a-windows-11-2024-%25e6%259b%25b4%25e6%2596%25b0">普通 Windows 11 2024 更新</h2>
+
+
+<ul class="wp-block-list">
+<li>Wi-Fi 7</li>
+
+
+
+<li>开始支持蓝牙 LE 音频的辅助助听设备</li>
+
+
+
+<li>系统托盘中的快速设置变为可滚动菜单，无需再编辑按钮</li>
+
+
+
+<li>更精简的资源管理器</li>
+
+
+
+<li>可创建 7-zip 和 TAR 压缩</li>
+
+
+
+<li>智能电源管理（可在不牺牲性能的情况下延长 PC 的电池寿命并降低能耗？）</li>
+
+
+
+<li>内容自适应亮度控制</li>
+
+
+
+<li>用电脑摄像头扫描二维码连接 Wi-Fi（可能解锁一个奇怪的姿势）</li>
+
+
+
+<li>应用程序访问位置服务时弹窗授权</li>
+
+
+
+<li>Microsoft Teams 切换账户</li>
+
+
+
+<li>利用低复杂度AI模型，实时有效消除回声、抑制背景噪音、最小化混响</li>
+
+
+
+<li>提供了 sudo 命令（以管理员身份运行）</li>
+
+
+
+<li>重新设计的远程桌面，以及支持 50%、400%、450% 和 500% 的缩放</li>
+
+
+
+<li>新的 <a href="https://support.microsoft.com/en-us/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338" target="_blank" rel="noopener">Windows 备份</a>程序</li>
+</ul>
+
+
+
+<p>其他更新包括设置、锁屏、开始菜单、系统托盘等等，可以<a href="https://support.microsoft.com/zh-cn/windows/%E5%9C%A8%E6%AD%A4%E6%9B%B4%E6%96%B0%E4%B8%AD-93c5c27c-f96e-43c2-a08e-5812d92f220d#windowsupdate=26100" target="_blank" rel="noopener">在这里</a>看到详细介绍。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>关于 Windows 版本号的命名，在 Windows 95 之前，是小版本号时代，从 Windows 95 开始就以发布年份为标记，包括 Win98、Win2000，然后就开始莫名其妙的 Me、XP、Vista、7、8、10、11，到了 2024 年，变成了 Windows 11 2024&#8230;</p>
+
+
+
+<p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows%E7%9A%84%E5%8E%86%E5%8F%B2" target="_blank" rel="noopener">有</a>一张图：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="2140" height="996" src="https://www.appinn.com/wp-content/uploads/2024/10/Suite_des_versions_de_Windows.avif" alt="Windows 11 2024（又叫 24H2）都更新了什么？ 10" class="wp-image-49675" title="Windows 11 2024（又叫 24H2）都更新了什么？ 15" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Suite_des_versions_de_Windows.avif 2140w, https://www.appinn.com/wp-content/uploads/2024/10/Suite_des_versions_de_Windows-768x357.avif 768w, https://www.appinn.com/wp-content/uploads/2024/10/Suite_des_versions_de_Windows-1536x715.avif 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Suite_des_versions_de_Windows-2048x953.avif 2048w" sizes="(max-width: 2140px) 100vw, 2140px" /></figure>
+
+
+
+<p>还有一张图：</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="910" height="514" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-04-15.12.09@2x.avif" alt="Windows 11 2024（又叫 24H2）都更新了什么？ 11" class="wp-image-49677" style="width:477px;height:auto" title="Windows 11 2024（又叫 24H2）都更新了什么？ 16" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-04-15.12.09@2x.avif 910w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-04-15.12.09@2x-768x434.avif 768w" sizes="(max-width: 910px) 100vw, 910px" /></figure>
+
+
+
+<p>你们都收到更新了么？</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>另外，关于专业版和企业版的功能更新，见<a href="https://learn.microsoft.com/zh-cn/windows/whats-new/whats-new-windows-11-version-24h2#features-added-to-windows-11-since-version-23h2" target="_blank" rel="noopener">这里</a>。</p>
+
+
+
+<p>原文：https://www.appinn.com/windows-11-2024-new/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/2011-new-years-day-lottery-final/" rel="bookmark" title="Permanent Link: 2011 小众元旦抽奖结果">2011 小众元旦抽奖结果</a></li><li><a href="https://www.appinn.com/2010-new-year-gift-final/" rel="bookmark" title="Permanent Link: 2010 元旦小众获奖名单">2010 元旦小众获奖名单</a></li><li><a href="https://www.appinn.com/new-folder-wizard-windows/" rel="bookmark" title="Permanent Link: New Folder Wizard &#8211; 批量创建新文件夹神器[Windows]">New Folder Wizard &#8211; 批量创建新文件夹神器[Windows]</a></li><li><a href="https://www.appinn.com/new-tab-studio/" rel="bookmark" title="Permanent Link: New Tab Studio &#8211; 可高度自定义的新标签页扩展[Chrome]">New Tab Studio &#8211; 可高度自定义的新标签页扩展[Chrome]</a></li><li><a href="https://www.appinn.com/why-are-there-214-reasons-to-use-windows-10/" rel="bookmark" title="Permanent Link: 为什么要使用 Windows 10 的 214 条理由">为什么要使用 Windows 10 的 214 条理由</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/windows-11-2024-new/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49673" data-ulike-factor="up"
+            data-ulike-nonce="4cbd387e23" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49673 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+2"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49673" data-ulike-factor="down"
+            data-ulike-nonce="4cbd387e23" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49673 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/windows-11-2024-new/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/windows-11-2024-new/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件</title>
+		<link>https://www.appinn.com/powertoys-new/</link>
+					<comments>https://www.appinn.com/powertoys-new/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2024 08:22:36 +0000</pubDate>
+				<category><![CDATA[业界消息]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[PowerToys]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49666</guid>
+
+					<description><![CDATA[PowerToys v0.85.0 新增了一个非常新鲜的功能：New+（新建+），这是一个可以根据模板来创建文件夹、文件的新功能。并且集成到了系统右键中，随时点击菜单中的新建+来创建新文件/文件夹。@ ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>PowerToys v0.85.0</strong> 新增了一个非常新鲜的功能：New+（新建+），这是一个可以根据模板来创建文件夹、文件的新功能。并且集成到了系统右键中，随时点击菜单中的<kbd>新建+</kbd>来创建新文件/文件夹。@<a href="https://www.appinn.com/powertoys-new+/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-03T160432.184.jpg" alt="【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件" class="wp-image-49667" title="【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 17" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-03T160432.184.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-03T160432.184-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-03T160432.184-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-03T160432.184-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+<h2 class="wp-block-heading" id="powertoys-v0850-%25e6%2596%25b0%25e5%25bb%25ba"><strong>PowerToys v0.85.0</strong> 新建+</h2>
+
+
+<p>两天前更新的版本，，有一个新功能：<strong>新建+</strong>，这是一个 Windows 11 专属功能，描述为：</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>根据一组个性化的模板创建文件和文件夹</p>
+</blockquote>
+
+
+
+<p>集成在了系统右键菜单中，可以随时使用：只需要在右键的时候，选择 新建+ 菜单，就能创建与模板中一模一样的文件结构：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1598" height="1014" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.07.40@2x.avif" alt="【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 12" class="wp-image-49670" title="【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 18" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.07.40@2x.avif 1598w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.07.40@2x-768x487.avif 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.07.40@2x-1536x975.avif 1536w" sizes="(max-width: 1598px) 100vw, 1598px" /></figure>
+
+
+
+<p>而模板，就是一个普通的文件夹，里面也都是普通的文件，从文档来看，目前并不支持什么特殊功能，模板中什么样，创建出来的就是什么样：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="912" height="472" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.09.48@2x.avif" alt="【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 13" class="wp-image-49671" title="【新】PowerToys v0.85.0 新建+功能（New+）：根据模板新建文件夹和文件 19" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.09.48@2x.avif 912w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-2024-10-03-16.09.48@2x-768x397.avif 768w" sizes="(max-width: 912px) 100vw, 912px" /></figure>
+
+
+<h2 class="wp-block-heading" id="%25e5%25b0%258f%25e8%25a7%2586%25e9%25a2%2591">小视频</h2>
+
+
+<p>从视频看，大概就是这个样子：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=113242483590657&#038;bvid=BV1xZxQejEgE&#038;cid=26121472175&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://learn.microsoft.com/en-us/windows/powertoys/install" target="_blank" rel="noopener">官网</a></li>
+
+
+
+<li><a href="https://pan.baidu.com/s/1zVpTKdpmWRCsGNsw6I44eQ?pwd=dn9x" target="_blank" rel="noopener">百度盘</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/a2474e170ef0" target="_blank" rel="noopener">夸克</a></li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>我大概能猜到对于一些用户来说非常好用，但我用不到&#8230;</p>
+
+
+
+<p>原文：https://www.appinn.com/powertoys-new+/</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/powertoys-v0-62-0/" rel="bookmark" title="Permanent Link: 微软官方超实用 15+ 小工具集 PowerToys v0.62.0 发布，新增文本提取器 OCR 功能">微软官方超实用 15+ 小工具集 PowerToys v0.62.0 发布，新增文本提取器 OCR 功能</a></li><li><a href="https://www.appinn.com/powertoys-v0-70-0/" rel="bookmark" title="Permanent Link: PowerToys v0.70.0 新功能：速览，无需打开即可预览文件内容">PowerToys v0.70.0 新功能：速览，无需打开即可预览文件内容</a></li><li><a href="https://www.appinn.com/powertoys-v0-80-0/" rel="bookmark" title="Permanent Link: PowerToys v0.80.0 发布，速览新增 WebP/WebM 格式支持，现在也可以预览音频文件了">PowerToys v0.80.0 发布，速览新增 WebP/WebM 格式支持，现在也可以预览音频文件了</a></li><li><a href="https://www.appinn.com/2011-new-years-day-lottery-final/" rel="bookmark" title="Permanent Link: 2011 小众元旦抽奖结果">2011 小众元旦抽奖结果</a></li><li><a href="https://www.appinn.com/powertoys-v0-81-0-ai-advanced-paste/" rel="bookmark" title="Permanent Link: PowerToys v0.81.0 新增带 AI 的高级粘贴（Advanced Paste）功能">PowerToys v0.81.0 新增带 AI 的高级粘贴（Advanced Paste）功能</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/powertoys-new/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49666" data-ulike-factor="up"
+            data-ulike-nonce="1e4a15e1ab" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49666 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="0"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49666" data-ulike-factor="down"
+            data-ulike-nonce="1e4a15e1ab" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49666 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/powertoys-new/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/powertoys-new/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>这些值得一看的软件｜但不一定有用[24101]</title>
+		<link>https://www.appinn.com/faxian-24101/</link>
+					<comments>https://www.appinn.com/faxian-24101/#respond</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Tue, 01 Oct 2024 13:38:04 +0000</pubDate>
+				<category><![CDATA[每日发现]]></category>
+		<category><![CDATA[发现频道列表]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49659</guid>
+
+					<description><![CDATA[出门在外，就&#8230;不做详细的测试了。从发现频道列表挑了一些有用的软件，大家一起来看下，看看哪个值得一测。 开发者莫急，一下软件依旧会抽空详细测试一下的： 时光追踪器 &#8211; 随时提醒使 ]]></description>
+										<content:encoded><![CDATA[
+<p>出门在外，就&#8230;不做详细的测试了。从<a href="https://x.appinn.com" target="_blank" rel="noopener">发现频道列表</a>挑了一些有用的软件，大家一起来看下，看看哪个值得一测。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-01T212540.705.jpg" alt="这些值得一看的软件｜但不一定有用[24101] 14" class="wp-image-49660" title="这些值得一看的软件｜但不一定有用[24101] 20" srcset="https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-01T212540.705.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-01T212540.705-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-01T212540.705-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-01T212540.705-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>开发者莫急，一下软件依旧会抽空详细测试一下的：</p>
+
+
+<h2 class="wp-block-heading" id="%25e6%2597%25b6%25e5%2585%2589%25e8%25bf%25bd%25e8%25b8%25aa%25e5%2599%25a8-%25e9%259a%258f%25e6%2597%25b6%25e6%258f%2590%25e9%2586%2592%25e4%25bd%25bf%25e7%2594%25a8%25e6%2597%25b6%25e9%2597%25b4%25c2%25a0"><strong>时光追踪器 &#8211; 随时提醒使用时间 </strong></h2>
+
+
+<p>这是一个显示当前解锁时间和应用使用时长的软件。开发者说：</p>
+
+
+
+<p><em>在快节奏的现代生活中，我们常常会发现自己在不知不觉中浪费了大量时间。例如，您可能会在 B 站刷视频，一个小时的娱乐时间很快就过去了，却什么事都没干。</em></p>
+
+
+
+<p>不，你看了视频。</p>
+
+
+
+<p>它实时显示上次解锁系统以来的时间和当前应用程序的使用时长：</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="347" height="116" src="https://www.appinn.com/wp-content/uploads/2024/10/mainwin1.avif" alt="这些值得一看的软件｜但不一定有用[24101] 15" class="wp-image-49661" title="这些值得一看的软件｜但不一定有用[24101] 21"></figure>
+
+
+
+<p>然后还能提醒：</p>
+
+
+
+<p></p>
+
+
+
+<p>注意，开发者说：如果在1分钟内返回之前的应用程序，程序会认为这是一次短暂的切换，会继续累计之前的使用时间。如果超过1分钟未返回，则其会认为您开启了新的使用会话，对该应用程序的“应用时间”将重新开始计时。</p>
+
+
+
+<p>有兴趣的可以去试试：<a href="https://meta.appinn.net/t/topic/61569/" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61569/</a></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<h2 class="wp-block-heading" id="hidell-%25e8%2587%25aa%25e5%258a%25a8%25e9%259a%2590%25e8%2597%258f%25e7%2594%25a8%25e6%2588%25b7%25e7%259b%25ae%25e5%25bd%2595%25e4%25b8%258b%25e7%259a%2584%25e7%2582%25b9%25e6%2596%2587%25e4%25bb%25b6%25e5%2592%258c%25e7%2582%25b9%25e6%2596%2587%25e4%25bb%25b6%25e5%25a4%25b9%25c2%25a0"><strong>HIDELL: 自动隐藏用户目录下的“点文件”和“点文件夹” </strong></h2>
+
+
+<p>就是在 Windows 下的用户目录下，会有很多文件夹，比如 .ssh、.abc 之类的，不信打开你的 c:\users\你的名字 目录看看。</p>
+
+
+
+<p>本来这种名字在 Linux 与 macOS 上会被自动隐藏，但 Windows 不管这些，直接放出来&#8230;这个工具就是干这个事情的，把这些隐藏起来。</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://meta.appinn.net/t/topic/61545" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61545</a></li>
+</ul>
+
+
+
+<p>呃，虽然但是吧，我觉得完全没用，谁会在意这几个文件夹，谁会知道还有这种事情！</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><strong>小熊油耗 记录日常用车油耗&nbsp;</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://meta.appinn.net/t/topic/61410" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61410</a><a href=""></a></li>
+</ul>
+
+
+
+<p>是的，有人提交了这款我大概10年前就知道的软件&#8230;所以我以为是开发者，还问了他，结果提交的同学不理我了&#8230;</p>
+
+
+
+<p>油耗这种东西，用起来就换不了了，我还在用 <a href="https://www.appinn.com/drivvo/">Drivvo</a>，我猜也没什么人在用这款吧 </p>
+
+
+
+<p>不过未来，可能随着用车成本的急剧下降（电费vs油费），油耗计算这种东西大概不在需要了。</p>
+
+
+
+<p>哼，加惯了500人民币一箱油的车主，怎么还会在乎一次充电50块钱这种事情。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><strong>哔哩助理——Windows高颜值B站第三方客户端&nbsp;</strong></p>
+
+
+
+<p>用户提交，说是高颜值：<a href="https://meta.appinn.net/t/topic/61476" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61476</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1291" height="957" src="https://www.appinn.com/wp-content/uploads/2024/10/screenshot-1.avif" alt="这些值得一看的软件｜但不一定有用[24101] 16" class="wp-image-49662" title="这些值得一看的软件｜但不一定有用[24101] 22" srcset="https://www.appinn.com/wp-content/uploads/2024/10/screenshot-1.avif 1291w, https://www.appinn.com/wp-content/uploads/2024/10/screenshot-1-768x569.avif 768w" sizes="(max-width: 1291px) 100vw, 1291px" /></figure>
+
+
+
+<p>你们觉得呢？我大概会用一下计时器，那个还挺有意思的 <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>更多的可以从这里看到：打开浏览器，进入下面的网址查看</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://x.appinn.com" target="_blank" rel="noopener">https://x.appinn.com</a></li>
+</ul>
+
+
+
+<p></p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/faxian-327/" rel="bookmark" title="Permanent Link: 每日发现：即时翻译聊天、HDR 修图、兴趣社区、照片统一收集、聊天聚合等">每日发现：即时翻译聊天、HDR 修图、兴趣社区、照片统一收集、聊天聚合等</a></li><li><a href="https://www.appinn.com/faxian-201603/" rel="bookmark" title="Permanent Link: 每日发现：云收藏『勺子』、云算、硬盘女神、杰客等">每日发现：云收藏『勺子』、云算、硬盘女神、杰客等</a></li><li><a href="https://www.appinn.com/faxian-160227/" rel="bookmark" title="Permanent Link: 每日发现：大法媒体工具、Mac 高仿 Win、AHK 输入法自动切换、校园直播、Windows 版的 Alfred 等等">每日发现：大法媒体工具、Mac 高仿 Win、AHK 输入法自动切换、校园直播、Windows 版的 Alfred 等等</a></li><li><a href="https://www.appinn.com/faxian-201606/" rel="bookmark" title="Permanent Link: 今日发现：CNKI 下载工具、Sublime Text 3 教程、葡萄酒社区、波形对比等等">今日发现：CNKI 下载工具、Sublime Text 3 教程、葡萄酒社区、波形对比等等</a></li><li><a href="https://www.appinn.com/faxian-201601/" rel="bookmark" title="Permanent Link: 每日发现：同步朋友圈至微博、出国游大保镖、京东价格监控、私有云网盘等[1601]">每日发现：同步朋友圈至微博、出国游大保镖、京东价格监控、私有云网盘等[1601]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/faxian-24101/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49659" data-ulike-factor="up"
+            data-ulike-nonce="ed1d533f2f" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49659 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+4"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49659" data-ulike-factor="down"
+            data-ulike-nonce="ed1d533f2f" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49659 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="-3"></span>    </div></div>
+<p><a href="https://www.appinn.com/faxian-24101/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/faxian-24101/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>如何让 Windows 搜索（索引）运行的更快？禁用索引器回退</title>
+		<link>https://www.appinn.com/search-indexing-in-windows/</link>
+					<comments>https://www.appinn.com/search-indexing-in-windows/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2024 08:20:49 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[电脑技巧]]></category>
+		<category><![CDATA[搜索]]></category>
+		<category><![CDATA[索引]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49640</guid>
+
+					<description><![CDATA[Windows 搜索功能是微软为用户准备的，用来进行文件搜索（主要是内容搜索）的工具。很多时候被人诟病不好用，很可能是因为索引没做完，那么，有没有什么办法让索引更快一点完成呢？@Appinn 想不到真 ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Windows 搜索</strong>功能是微软为用户准备的，用来进行文件搜索（主要是内容搜索）的工具。很多时候被人诟病不好用，很可能是因为索引没做完，那么，有没有什么办法让索引更快一点完成呢？@Appinn</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/09/faq-17.jpg" alt="如何让 Windows 搜索（索引）运行的更快？禁用索引器回退" class="wp-image-49652" title="如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 23" srcset="https://www.appinn.com/wp-content/uploads/2024/09/faq-17.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/09/faq-17-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/09/faq-17-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/09/faq-17-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>想不到真的有人用 Windows 搜索吧，而且还不少。比如论坛的 @BackT0 同学，因为使用 Outlook 办公，并拥有高达 6 位数的邮件数量，所以每次从0开始建立索引（比如新员工新电脑）都是一项十分可怕的事情。</p>
+
+
+
+<p>他提出了一个问题：<a href="https://meta.appinn.net/t/topic/61361" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61361</a></p>
+
+
+<h2 class="wp-block-heading" id="%25e6%259c%2589%25e4%25bb%2580%25e4%25b9%2588%25e5%25b7%25a5%25e5%2585%25b7%25e5%258f%25af%25e4%25bb%25a5%25e6%259b%25bf-windows-%25e7%25b3%25bb%25e7%25bb%259f%25e5%25bf%25ab%25e9%2580%259f%25e5%25ae%258c%25e6%2588%2590%25e7%25b3%25bb%25e7%25bb%259f%25e7%25b4%25a2%25e5%25bc%2595">有什么工具可以替 Windows 系统快速完成系统索引</h2>
+
+
+<p>因为用 Outlook 办公, Outlook 内搜索依赖系统索引。但是因为邮件非常多(几十万封)，系统自己的索引没有明确的进度条，也没有办法加速，只能熬时间盼着他索引好。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://h1.appinn.me/file/1727237259200_Snipaste_2024-09-25_12-07-18.png" alt="如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 17" title="如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 24"></figure></div>
+
+
+<p>（我不是按照文件名字查文件, 我知道 Everything 类的工具 但是他们不支持搜索 Outlook 邮件正文内容, 或者速度太慢）</p>
+
+
+
+<p>在经历了很多款软件的试用之后，@BackT0 同学最终自己找到了解决方案。原来微软也知道这个问题，也做了这项工作，但&#8230;用户不知道啊。</p>
+
+
+<h2 class="wp-block-heading" id="%25e7%25a6%2581%25e7%2594%25a8%25e7%25b4%25a2%25e5%25bc%2595%25e5%2599%25a8%25e5%259b%259e%25e9%2580%2580">禁用索引器回退</h2>
+
+
+<p>在<kbd>本地策略组编辑器</kbd>里（<strong>运行</strong>里输入 <kbd>gpedit.msc</kbd> 打开），有一个叫做<strong>禁用索引器回退</strong>的功能，位于：</p>
+
+
+
+<p>本地计算机策略 &gt; 计算机配置 &gt; 管理模板 &gt; Windows组件 &gt; 搜索</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="910" height="528" src="https://www.appinn.com/wp-content/uploads/2024/09/Appinn-2024-09-30-16.07.33@2x.avif" alt="如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 18" class="wp-image-49653" style="width:640px;height:auto" title="如何让 Windows 搜索（索引）运行的更快？禁用索引器回退 25" srcset="https://www.appinn.com/wp-content/uploads/2024/09/Appinn-2024-09-30-16.07.33@2x.avif 910w, https://www.appinn.com/wp-content/uploads/2024/09/Appinn-2024-09-30-16.07.33@2x-768x446.avif 768w" sizes="(max-width: 910px) 100vw, 910px" /></figure>
+
+
+<h3 class="wp-block-heading" id="%25e6%258f%258f%25e8%25bf%25b0%25e6%2598%25af%25e8%25bf%2599%25e6%25a0%25b7%25e7%259a%2584">描述是这样的：</h3>
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>如果启用此策略，则禁用搜索索引器回退功能。即使系统活动很多，索引也会全速继续运行。如果禁用此功能，系统活动很多时，将使用回退逻辑向后调节索引活动。默认情况下禁用此策略。</p>
+</blockquote>
+
+
+
+<p>说人话就是你只需要把它打开（已启用），Windows 就会火力全开的进行索引，而不管你的系统是否正在繁忙。</p>
+
+
+<h3 class="wp-block-heading" id="%25e6%259c%2580%25e7%25bb%2588">最终</h3>
+
+
+<p>所以，如果你有使用 Windows 搜索的需求，但经常搜不到内容，那么就试试把<strong>禁用索引器回退</strong>启用，让 CPU 疯狂工作一会，之后就能很轻松的搜索到全文内容了。</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<h1 class="wp-block-heading" id="page-header">Windows 中的搜索索引：常见问题解答</h1>
+
+
+<ul class="wp-block-list">
+<li><a href="https://support.microsoft.com/zh-cn/windows/da061c83-af6b-095c-0f7a-4dfecda4d15a" target="_blank" rel="noopener">https://support.microsoft.com/zh-cn/windows/da061c83-af6b-095c-0f7a-4dfecda4d15a</a></li>
+</ul>
+
+
+
+<p>当你搜索你的电脑以获取文件和其他内容时，为你的电脑内容建立索引，可帮助你获得更快的搜索结果。 了解工作原理。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDV">什么是建立索引？</h2>
+
+
+<p>建立索引是在你的电脑上查看文件、电子邮件和其他的内容并分类它们的信息（如其中的字词和元数据）的过程。 当在建立索引后搜索你的电脑时，它查看术语索引，以更快速地查找结果。</p>
+
+
+
+<p>当你首次运行索引时，它可能会花费几个小时才能完成。 在此之后，索引将在你使用电脑时在后台运行，仅重新索引更新数据。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDT">建立索引如何是否使我的搜索速度更快？</h2>
+
+
+<p>与书籍中建立索引很像，拥有数字索引允许你的电脑和应用通过查找术语或通用属性（如文件创建的日期）来更快速地找到内容。 完全构建的索引可以在一秒内返回搜索词“Beethoven”的正确音乐文件，而没有索引可能需要的分钟数。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDR">索引什么信息？</h2>
+
+
+<p>默认情况下，你的文件的所有属性都已编入索引，包括文件的名称和完整的文件路径。 对于带有文本的文件，其中的内容都已编入索引，以允许你在文件中搜索字词。</p>
+
+
+
+<p>你安装的应用也可能将自己的信息添加到索引，以加快搜索速度。 例如，Outlook 默认会将同步到计算机的所有电子邮件添加到索引，并使用索引在应用中进行搜索。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDP">哪些应用使用索引？</h2>
+
+
+<p>你的电脑上许多内置应用在某些方面使用索引。 文件资源管理器使用它来访问和跟踪对文件的更改。 Microsoft Edge 使用它来在地址栏中提供浏览器历史记录结果。 在脱机模式下运行时，Outlook 使用它来搜索电子邮件。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDN">为什么索引一直在电脑上自动运行？</h2>
+
+
+<p>Windows 电脑会不断跟踪文件的更改，并使用最新信息更新索引。 若要执行此操作，它打开最近更改的文件、查看更改，并在索引中存储新信息。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDL">索引信息存储在何处？</h2>
+
+
+<p>从索引中收集的所有数据都本地存储在你的电脑上。 任何数据都不会发送给其他任何计算机或 Microsoft。 但是，在电脑安装的应用可能无法读取索引中的数据，因此对于你安装的应用要谨慎，并确保你信任该来源。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDJ">索引使用多少空间？</h2>
+
+
+<p>经验是该索引小于被索引文件大小的 10%。 例如，如果你有 100 MB 的文本文件，这些文件的索引将小于 10 MB。</p>
+
+
+
+<p>如果你有大量很小的文件 (&lt; 4 KB)，或者如果你在索引计算机代码，那么该索引会占更大的百分比。 在这两种情况下，索引的大小相对于文件大小的比例将急剧增加。 如果你有大量的小文件，并且需要节省你的电脑上的空间，请考虑删除索引中这些文件的位置，方法是转到“建立索引选项”控制面板页面，选择这些<strong>修改</strong>。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDH">可索引哪些语言？</h2>
+
+
+<p>使用 Windows 安装的所有语言包都包含以该语言索引内容的信息。 如果你有使用未在你电脑上安装的语言的文件或其他内容，索引会尝试让其变得可搜索，但这并不总是可能的。</p>
+
+
+
+<p>若要安装更多语言包以确保该语言在你的电脑上可搜索，请转到&nbsp;<strong>“设置&nbsp;</strong>&gt;&nbsp;<strong>时间 &amp; 语言&nbsp;</strong>&nbsp;&gt;&nbsp;<strong>语言</strong>”，然后选择“&nbsp;<strong>添加语言</strong>”。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDF">可索引哪种类型的文件？</h2>
+
+
+<p>有关可以索引的文件类型的列表，请转到“建立索引选项”控制面板页面，然后选择<strong>高级</strong>&gt;<strong>文件类型</strong>。</p>
+
+
+<h2 class="wp-block-heading" id="ID0EDD">我可以更改索引文件信息的多少部分吗？</h2>
+
+
+<p>是的。 对于索引文件的多少内容，由两种选择：只索引属性或索引属性和内容。 如果只索引属性，索引将不查看该文件的内容或使内容可搜索。 你将仍能按文件名（不只是文件内容）进行搜索。</p>
+
+
+
+<p>选择不索引文件的内容，可以减少索引的大小，但这使文件难以在某些情况下找到。</p>
+
+
+
+<p>若要选择每个文件类型的选项，请转到“建立索引选项”控制面板页面，然后选择<strong>高级</strong>&gt;<strong>文件类型</strong>。</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/ai-search-iphone/" rel="bookmark" title="Permanent Link: Ai Search &#8211; iPhone 里的新搜索中心">Ai Search &#8211; iPhone 里的新搜索中心</a></li><li><a href="https://www.appinn.com/deep-tab-search/" rel="bookmark" title="Permanent Link: Deep Tab Search &#8211;  全文搜索已打开 Chrome 标签页内容，支持中文">Deep Tab Search &#8211;  全文搜索已打开 Chrome 标签页内容，支持中文</a></li><li><a href="https://www.appinn.com/why-are-there-214-reasons-to-use-windows-10/" rel="bookmark" title="Permanent Link: 为什么要使用 Windows 10 的 214 条理由">为什么要使用 Windows 10 的 214 条理由</a></li><li><a href="https://www.appinn.com/powertoys-v0-62-0/" rel="bookmark" title="Permanent Link: 微软官方超实用 15+ 小工具集 PowerToys v0.62.0 发布，新增文本提取器 OCR 功能">微软官方超实用 15+ 小工具集 PowerToys v0.62.0 发布，新增文本提取器 OCR 功能</a></li><li><a href="https://www.appinn.com/ultimate-list-of-free-windows-software-from-microsoft/" rel="bookmark" title="Permanent Link: 微软的 150 款免费软件[部分，待更新]">微软的 150 款免费软件[部分，待更新]</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/search-indexing-in-windows/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49640" data-ulike-factor="up"
+            data-ulike-nonce="3badac632f" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49640 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+2"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49640" data-ulike-factor="down"
+            data-ulike-nonce="3badac632f" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49640 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/search-indexing-in-windows/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/search-indexing-in-windows/feed/</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Haystack Editor &#8211; 将 VS Code 画布化，同时打开多个文件，自动创建关联[跨平台]</title>
+		<link>https://www.appinn.com/haystack-editor/</link>
+					<comments>https://www.appinn.com/haystack-editor/#comments</comments>
+		
+		<dc:creator><![CDATA[青小蛙]]></dc:creator>
+		<pubDate>Sun, 29 Sep 2024 08:26:12 +0000</pubDate>
+				<category><![CDATA[Windows]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[VS Code]]></category>
+		<category><![CDATA[代码]]></category>
+		<category><![CDATA[开发者]]></category>
+		<category><![CDATA[编程]]></category>
+		<guid isPermaLink="false">https://www.appinn.com/?p=49648</guid>
+
+					<description><![CDATA[Haystack Editor 是一款将 VS Code 画布化的工具，你可以在无限大的画布上，打开很多个 VS Code 写代码，这些窗口之间会根据函数调用关系而自动建立关联，非常有意思。@Appi ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Haystack Editor</strong> 是一款将 VS Code 画布化的工具，你可以在无限大的画布上，打开很多个 VS Code 写代码，这些窗口之间会根据函数调用关系而自动建立关联，非常有意思。@<a href="https://www.appinn.com/haystack-editor/">Appinn</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1608" height="700" src="https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-29T155038.314.jpg" alt="Haystack Editor - 将 VS Code 画布化，同时打开多个文件，自动创建关联[跨平台]" class="wp-image-49649" title="Haystack Editor - 将 VS Code 画布化，同时打开多个文件，自动创建关联[跨平台] 26" srcset="https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-29T155038.314.jpg 1608w, https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-29T155038.314-768x334.jpg 768w, https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-29T155038.314-1536x669.jpg 1536w, https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-29T155038.314-804x350.jpg 804w" sizes="(max-width: 1608px) 100vw, 1608px" /></figure>
+
+
+
+<p>来自<a href="https://meta.appinn.net/c/faxian/10" target="_blank" rel="noopener"><strong>发现频道</strong></a>，@jerrylus 同学的推荐：<a href="https://meta.appinn.net/t/topic/61459" target="_blank" rel="noopener">https://meta.appinn.net/t/topic/61459</a></p>
+
+
+<h2 class="wp-block-heading" id="haystack-editor-%25e5%259c%25a8%25e6%2597%25a0%25e9%2599%2590%25e5%25a4%25a7%25e7%259a%2584%25e7%2594%25bb%25e5%25b8%2583%25e4%25b8%258a%25e5%2586%2599amp%25e7%259c%258b%25e4%25bb%25a3%25e7%25a0%2581">Haystack editor &#8211; 在无限大的画布上写&amp;看代码</h2>
+
+
+<p>在无限大的画布上探索或者编写代码，可以打开多个编辑器，相互链接并排布</p>
+
+
+
+<ul class="wp-block-list">
+<li>在画布中拖拽编辑器</li>
+
+
+
+<li>通过调用关系自动建立关联</li>
+
+
+
+<li>保存布局以便切换</li>
+
+
+
+<li>兼容 VS Code 插件&amp;设置，可以从已有的 VS Code 安装一键导入（实际上是 VS Code 的 Fork）</li>
+</ul>
+
+
+
+<p>只有用视频来演示一下：</p>
+
+
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&#038;aid=113219632891967&#038;bvid=BV1aMxyeiEhq&#038;cid=26057968071&#038;p=1&#038;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+<p>如果你有一台超大的显示器，尤其带鱼屏那种，那么把 Haystack editor 平铺在整个屏幕上，用起来一定很爽（这段纯想象、纯YY）。</p>
+
+
+<h2 class="wp-block-heading" id="%25e8%258e%25b7%25e5%258f%2596">获取</h2>
+
+
+<ul class="wp-block-list">
+<li><a href="https://haystackeditor.com/" target="_blank" rel="noopener">官网</a></li>
+
+
+
+<li><a href="https://github.com/haystackeditor/haystack-editor" target="_blank" rel="noopener">Github</a></li>
+
+
+
+<li>搬运
+<ul class="wp-block-list">
+<li><a href="https://pan.baidu.com/s/1nShXpYol89InfiIgFLqieA?pwd=apin" target="_blank" rel="noopener">百度盘</a></li>
+
+
+
+<li><a href="https://pan.quark.cn/s/7d44732626f3" target="_blank" rel="noopener">夸克</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>原文：https://www.appinn.com/haystack-editor/</p>
+
+
+
+<p>来用过的都说说，有没有用？</p>
+<hr /><h2>相关阅读</h2><ul><li><a href="https://www.appinn.com/gold-wave-editor-pro/" rel="bookmark" title="Permanent Link: Gold Wave Editor Pro &#8211; 专业级音频处理软件">Gold Wave Editor Pro &#8211; 专业级音频处理软件</a></li><li><a href="https://www.appinn.com/fly-video/" rel="bookmark" title="Permanent Link: Fly Video Editor &#8211; 最简单的视频剪辑应用[iPad/iPhone]">Fly Video Editor &#8211; 最简单的视频剪辑应用[iPad/iPhone]</a></li><li><a href="https://www.appinn.com/clips-video-editor-ios/" rel="bookmark" title="Permanent Link: Clips Video Editor &#8211; 人人都会用的视频剪辑应用[iOS]">Clips Video Editor &#8211; 人人都会用的视频剪辑应用[iOS]</a></li><li><a href="https://www.appinn.com/easeus-video-editor/" rel="bookmark" title="Permanent Link: EaseUS Video Editor &#8211; 简单易用的视频编辑器，限免一个月">EaseUS Video Editor &#8211; 简单易用的视频编辑器，限免一个月</a></li><li><a href="https://www.appinn.com/runestone-text-editor/" rel="bookmark" title="Permanent Link: Runestone Text Editor &#8211; 文本编辑器：直接编辑 iOS 文件.app 里的文本文件">Runestone Text Editor &#8211; 文本编辑器：直接编辑 iOS 文件.app 里的文本文件</a></li></ul><hr />
+<a href="http://www.appinn.com/copyright/?utm_source=feeds&amp;utm_medium=copyright&amp;utm_campaign=feeds" title="版权声明">&#169;</a>2023 青小蛙 for <a href="http://www.appinn.com/?utm_source=feeds&amp;utm_medium=appinn&amp;utm_campaign=feeds" title="本文来自小众软件">小众软件</a> | <a href="http://www.appinn.com/join-us/?utm_source=feeds&amp;utm_medium=joinus&amp;utm_campaign=feeds" title="加入小众软件">加入我们</a> | <a href="https://meta.appinn.net/c/faxian/?utm_source=feeds&amp;utm_medium=contribute&amp;utm_campaign=feeds" title="给小众软件投稿" target="_blank" rel="noopener">投稿</a> | <a href="http://www.appinn.com/feeds-subscribe/?utm_source=feeds&amp;utm_medium=feedsubscribe&amp;utm_campaign=feeds" title="可以分类订阅小众，Windows/MAC/游戏" target="_blank"><font color="red">订阅指南</font></a><br /> 3659b075e72a5b7b1b87ea74aa7932ff <br />
+<a href="https://www.appinn.com/haystack-editor/#comments" title="to the comments">点击这里留言、和原作者一起评论</a><div class="wpulike wpulike-updown-voting  wpulike-is-pro" ><div class="wp_ulike_general_class wpulike_up_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="喜欢按钮"
+            data-ulike-id="49648" data-ulike-factor="up"
+            data-ulike-nonce="59efa8c545" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_up  wp_post_up_btn_49648 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+1"></span>    </div><div class="wp_ulike_general_class wpulike_down_vote wp_ulike_is_not_liked"><button type="button"
+            aria-label="Dislike Button"
+            data-ulike-id="49648" data-ulike-factor="down"
+            data-ulike-nonce="59efa8c545" data-ulike-type="post"
+            data-ulike-template="wp-ulike-pro-default" data-ulike-display-likers="0"
+            data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_btn_down  wp_post_down_btn_49648 wp_ulike_put_image"></button><span class="count-box wp_ulike_counter_down" data-ulike-counter-value="0"></span>    </div></div>
+<p><a href="https://www.appinn.com/haystack-editor/">[ 点击前往获取链接 ]</a></p><hr/>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.appinn.com/haystack-editor/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
