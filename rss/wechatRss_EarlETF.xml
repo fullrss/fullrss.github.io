@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>EarlETF</title><link>https://totototot.asuscomm.com/ppf/wechatRss_EarlETF.xml</link><description>EarlETF</description><lastBuildDate>Tue, 29 Oct 2024 01:05:09 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>当股市的闪电劈下，你可以躲开</title><link>https://mp.weixin.qq.com/s/eIKasEeY5z-7lD3KKQp-6w</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content" style="visibility: hidden; opacity: 0; "&gt;
+ &lt;p data-mpa-powered-by="yiban.io"&gt;
+  “当闪电劈下的时候，你应该在场”，这句流传甚久的股市名言，伴随“9·24”A股的暴涨，再次广为传颂。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于这句话，我很早就表达过异议，最早可以追溯到2013 年 6 月题为《
+  &lt;a data-linktype="2" href="https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NjkxNTE4Mg==&amp;amp;appmsgid=10000062&amp;amp;itemidx=1&amp;amp;sign=59224d236cacf538684b5bba950751ba&amp;amp;token=136234037&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer;color: rgb(17, 17, 17);border-bottom: 1px solid rgb(242, 74, 114);font-weight: 700;"&gt;
+   闪电打下来时，你可以走开
+  &lt;/a&gt;
+  》的推文。转眼十年过去了，统计工具和绘图工具迭代，让我有更好的方法来讨论这个话题，所以就再次细聊。
+ &lt;/p&gt;
+ &lt;p&gt;
+  老规矩，喜欢看视频的，可以直接看下面的视频；习惯听博客的，可以去小宇宙、苹果播客搜索精分派听音频；喜欢看图文的，继续往下读即可。
+ &lt;/p&gt;
+ &lt;section class="channels_iframe_wrp"&gt;
+  &lt;mp-common-videosnap class="js_uneditable custom_select_card channels_iframe videosnap_video_iframe" data-authiconurl="" data-desc="“闪电劈下来的时候，你必须在场”，这是一句常被用来佐证必须坚持长期投资的名言。2013 年时，我就写过质疑的文章，如今技术提升，就做一个更详尽的分析。" data-errortips="" data-from="new" data-headimgurl="http://wx.qlogo.cn/finderhead/0G3rUlRtFiackZV43s4ddHolrXrtgqv4UDVLznlT0qt0/0" data-height="1080" data-id="export/UzFfAgtgekIEAQAAAAAAE28Qld3f-QAAAAstQy6ubaLX4KHWvLEZgBPEm6NUYR5qA9GKzNPgMIv08cUKvUpxy935No_nSJHE" data-isdisabled="0" data-mediatype="undefined" data-nickname="张翼轸" data-nonceid="8147686767738821017" data-pluginname="mpvideosnap" data-type="video" data-url="https://findermp.video.qq.com/251/20304/stodownload?encfilekey=rjD5jyTuFrIpZ2ibE8T7YmwgiahniaXswqzudYiaQaEOBjrlB7q7aEwicriapR2u4A2pHl0ggHZbHJIUuD0p4uoG7dP0gVYM2xbwl1tss4lNBx9ZApCzgKW3B96Q&amp;amp;token=cztXnd9GyrGEFicTiajt6c1Ef99aNGXTTGGwOGzQk5tEn4CJ1y9cEediaiaBbwotygn8F4LmGr23zaIU0rfblobBWiaDus2sncspXtb7xficHWZwTs4G0hfpV7Gxcoyz8cmDvZ&amp;amp;idx=1&amp;amp;dotrans=0&amp;amp;hy=SH&amp;amp;m=&amp;amp;scene=2&amp;amp;uzid=2" data-username="v2_060000231003b20faec8cae38b1ccbd4cd07ee35b07702d5b898f1eb00868966046163c46c9f@finder" data-width="1920"&gt;
+  &lt;/mp-common-videosnap&gt;
+ &lt;/section&gt;
+ &lt;h2 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;padding-left: 0.5em;font-family: 思源宋体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(33, 39, 33);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;border-left: 0.35em solid rgb(242, 74, 114);text-align: start;"&gt;
+  追根溯源
+ &lt;/h2&gt;
+ &lt;p&gt;
+  “当闪电劈下的时候，你应该在场”，不是中国公募行业的首创。
+ &lt;/p&gt;
+ &lt;p&gt;
+  早在 2013 年之前，我就看到过英文类投资文章对这句话的批判，不过不知道英文的出处还在。
+ &lt;/p&gt;
+ &lt;p&gt;
+  近年看到许多关于这句话溯源至美国投资人查尔斯·艾里斯1985年出版的《赢得输家的游戏》（Winning the Loser's Game）一书。
+ &lt;/p&gt;
+ &lt;p&gt;
+  翻了下手头的中译本，P22 也的确有这张图，在 P23 也有
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   “闪电来袭的一刻”，你一定要站在那里
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817922" data-ratio="0.5138888888888888" src="https://mmbiz.qpic.cn/mmbiz_jpg/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw76W9vEKN8CN8hyy3LkiaMpOfcqzD2c4V4nAfWeRR3U5Qcbibcb6hoMYfQ/640?wx_fmt=jpeg&amp;amp;from=appmsg" data-type="jpeg" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  在英文中，或许闪电是一个幸运的象征，但这句话被中文投资圈反复引用，我总觉得有点怪怪的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  毕竟在我们中文语境下，被雷(闪电)劈，绝不是一句好话。一般好人是不会有这个待遇的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，修辞不是本文讨论的，要聚焦的还是背后的计算方法。
+ &lt;/p&gt;
+ &lt;h2 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;padding-left: 0.5em;font-family: 思源宋体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(33, 39, 33);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;border-left: 0.35em solid rgb(242, 74, 114);text-align: start;"&gt;
+  闪电应该是对称的
+ &lt;/h2&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-galleryid="" data-imgfileid="502817926" data-ratio="0.39814814814814814" data-s="300,640" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7BwibMnicVI7fj7Wwv9XP5aEZaVMqOiadtj1Stk0sMxdO14ouTyYP4mL6Q/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style=""/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  所谓剔除最佳 n个最佳交易日的试算，从逻辑上，其实是有大问题的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  试问，谁是如此的倒霉蛋，避开了n 个最佳交易日，但却一个最差交易日都没避开？
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，如果要考虑“闪电”，那么应该是对称的，同步剔除最佳和最差的 n 个交易日，或许才公允。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下面是我基于万得全A指数 2000 年迄今的走势，做的一个对称试算。这里说明一下各个曲线的含义。
+ &lt;/p&gt;
+ &lt;p&gt;
+  避雷 50，代表剔除最佳50 个和最差50 个交易日后的表现，避雷 100 以此类推。而雷劈 50，在代表仅仅承受最佳 50 个和最差 50 个交易日的表现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从图表中很明显可以看到，避雷 100 ，也就是剔除最佳 100 个交易日和最差 100 个交易日后的收益率是最炫目的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817918" data-ratio="0.5120370370370371" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7TZibUfsePN3PsehIqVicweJQoLwiahvKFTtUF6icOcn9RRLFdPzTWeFU0Q/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  其实这就挺说明问题了，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   大涨大跌，总体对投资是一种“伤害”
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  岁月静好，收益率才能更好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  为什么后来低波投资大行其道，就是要避免投资过大的波动。当然，这块美国投资界走在前面，可以通过期权在构建防范“黑天鹅”的投资产品，在 A股更多只能通过红利、低波因子或者波动率控制指数来实现。
+ &lt;/p&gt;
+ &lt;h2 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;padding-left: 0.5em;font-family: 思源宋体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(33, 39, 33);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;border-left: 0.35em solid rgb(242, 74, 114);text-align: start;"&gt;
+  闪电可以有天气预报
+ &lt;/h2&gt;
+ &lt;p&gt;
+  关于“闪电”论，我觉得另一个不太能接受的地方就在于，大涨大跌，不是随机的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正如现实世界中的闪电雷鸣，大晴天，有闪电的几率极小，往往是台风天暴雨天之类，尤其是天文台挂上雷电警报后，挨劈的几率才会大大提高。
+ &lt;/p&gt;
+ &lt;p&gt;
+  证券市场的大涨大跌，也是类似的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下面这个结论或许有些反常识，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   享受“暴涨”往往不是好事，往往意味着身处熊市
+  &lt;/strong&gt;
+  。在 A股许多老法师会说“熊市多句阳”，这句话是极有道理的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下面这张图，是我近期的得意之作，在掌握了 matplotlib 绘画包，终于可以很具象的将这种暴涨暴跌分布呈现出来了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图中，红点代表着表现最好的 50个交易日，绿点代表表现最差的 50 个交易日。当然，这张图信息量太密集，我会将其局部放大给诸位呈现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817920" data-ratio="0.5120370370370371" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7Wr4pV2jibEG7txgYeY6QsZkaGibgTc3oC215JfXJLvOhPUjuXiaAen1Mw/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;/p&gt;
+ &lt;h3 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;font-family: 思源黑体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(45, 41, 38);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;"&gt;
+  第一波 2000 到 2005 年
+ &lt;/h3&gt;
+ &lt;p&gt;
+  密集的红点，频现大涨。但老股民都知道，2001 年到 2005 年，恰恰是“股权分置改革”之前，A股最灰暗最绝望的一波熊市。“熊市多巨阳”，A股老玩家会有感而发，很大程度上就来源于这段历史。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817919" data-ratio="0.8611111111111112" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7nPhfJDzxiaNdW0lGRP3ic7ACN1Lh9GcQ2b0HXlYibIiaJjiaxSicFLzuxvZg/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="936" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;h3 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;font-family: 思源黑体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(45, 41, 38);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;"&gt;
+  第二波 2005 到 2008 年
+ &lt;/h3&gt;
+ &lt;p&gt;
+  2005年至 2007 年那波牛市，是 A股近代历史上最大的牛市。
+ &lt;/p&gt;
+ &lt;p&gt;
+  细看过程，你会发现在 2006 年，也就是牛市第一波，最舒坦的一波上涨中，除了当中一段鲜有大涨大跌。到了 2007 年，除了 “2·27”单日离奇暴跌 和 “5·30”加印花税，也没什么暴涨暴跌。
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   真正的暴涨暴跌，密集高发出现在 2008 年的大熊市中
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817921" data-ratio="1.5842105263157895" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7WX1UBpQu2ibmu4Z5rVqrFbmUhTW4RTOxibjicty42z6yrKQa4LqEw8FYQ/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="760" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;h3 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;font-family: 思源黑体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(45, 41, 38);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;"&gt;
+  第三波 2014 至 2015 年
+ &lt;/h3&gt;
+ &lt;p&gt;
+  下图中的“尖顶”是2014 年至 2015 年那波牛市，你会发现整个过程中，除了一次暴跌，就没什么大涨大跌了，这也是我称之为最舒坦的一波上涨，我做过回测，2015 年前五个月的大涨中，万得全A 连 5%的回撤都没出现过。但到了后来监管去杠杆，千股跌停等名场面出现后，那真是暴涨暴跌密集出现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817924" data-ratio="0.6824074074074075" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7RTQ4Z2697N7QFEQfI56S86dgD2qh64w9taicdyvOCYG7CQZQZ4HdScg/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="1080" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;h3 style="white-space: pre-wrap;break-after: avoid-page;break-inside: avoid;orphans: 4;font-size: 18px;margin-top: 2rem;margin-bottom: 0.6em;font-family: 思源黑体;-webkit-font-smoothing: initial;font-weight: 900;color: rgb(45, 41, 38);line-height: 1.35;font-variant-numeric: lining-nums;width: inherit;letter-spacing: 0.2em;"&gt;
+  第四波 2019 至 2024 年
+ &lt;/h3&gt;
+ &lt;p&gt;
+  下图是 2018 年迄今的走势图。可以看到自 2019 年开始进入大牛市，一直到 2021 年末尖顶的这波牛市，暴涨暴跌同样极少
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" data-imgfileid="502817923" data-ratio="0.4797843665768194" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahSz2FVKqkJptIjZ6x5icnw7DC9j2AOQC8PnHiaLQFteNvIuGl2XxR4O7WakkfMZEJJtzXQRiazOF8QA/640?wx_fmt=png&amp;amp;from=appmsg" data-type="png" data-w="742" style="vertical-align: middle;image-orientation: from-image;border-width: 0px;border-style: initial;border-color: initial;display: block;margin: auto;"/&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  总体来说，暴涨暴跌，往往都是密集出现在让人迷失自我的牛市末期和不讨人喜欢的熊市中。
+ &lt;/p&gt;
+ &lt;p&gt;
+  能不能避免？
+ &lt;/p&gt;
+ &lt;p&gt;
+  要完全避免，显然是不可能的。谁也没有水晶球。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但换一个角度，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   如果你在估值低位咬牙加大持仓，在估值高到离谱(A股远比美股更容易出现)的时候能够大幅降低仓位(无论是通过股债动态平衡还是降低权益在组合中的比重)，其实都可以大大降低大涨大跌对你收益率的冲击
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从这点而言，“当闪电劈下的时候，你应该在场”这句话，或许应该改成“
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   当估值够低的时候，你应该在场
+  &lt;/strong&gt;
+  ”，才更具指导意义。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  &lt;mp-style-type data-value="3"&gt;
+  &lt;/mp-style-type&gt;
+ &lt;/p&gt;
+&lt;/div&gt;
+</description><pubDate>Tue, 29 Oct 2024 01:05:09 GMT</pubDate></item><item><title>沪深300 估值一图看全，及一个坏消息</title><link>https://mp.weixin.qq.com/s/ZUfchJzqmF17Fsb6avh3cw</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  之前写了一篇《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650301382&amp;amp;idx=1&amp;amp;sn=441fbbe80209fec3a36bf929a227fb85&amp;amp;chksm=beed3147899ab8516b712d75415bee53d54330c114ad9b16e7c3fba58d062252be2da354ef59&amp;amp;token=683476338&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   韭圈儿的神奇沪深300 抄底指标，还能怎么用
+  &lt;/a&gt;
+  》，聊到了韭圈儿北落兄提到的一个神奇指标，用万得偏债混合型基金指数来估算沪深300 的底部，历史表现不错，我进一步推演用来估算顶部。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这篇文章的阅读相当好，好到让我大吃一惊的地步，甚至有点后怕。毕竟，这个神奇指标，并没有坚实的理论基础，有些评论认为只是数据挖掘下的巧合，对此我也很难反驳。虽然作为一个庸俗的实用主义，我觉得既然这个 2022 年韭圈儿就提出的指标，经受了 2024 年 1 月和 9 月两个底部的考验依然有效，那不妨兼听则明，继续跟踪。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，我也要强调，这个指标只能兼听，甚至只是有益补充。更主要的，还是要看市盈率、股债性价比这类有更强理论支持的指标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以最近在修订我自己跟踪的沪深300 股债性价比图，不断添加我自己关注的指标，于是有了下面这张包含 4 套视角合计 6 张图表的超级大图。
+ &lt;/p&gt;
+ &lt;p&gt;
+  老规矩，喜欢看视频的看视频，喜欢文字的看下文。
+ &lt;/p&gt;
+ &lt;section class="channels_iframe_wrp"&gt;
+  
+  
+ &lt;/section&gt;
+ &lt;p&gt;
+  先看一下全图，我再拆开分别解释。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahmiaM0jLOrR4s4LdQdrb9ibKsHRuiaaw7Xt24CcCp2ibMF7v7icIF9AEzAXfGEFM5bG1meAuBEp4Z3B2Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  市盈率与市赚率
+ &lt;/h2&gt;
+ &lt;p&gt;
+  这张估值一览图的第一部分，是沪深300 的走势图，主要是与下面的估值指标对照，研判估值指标对于“猜顶”和“估底”的作用。
+ &lt;/p&gt;
+ &lt;p&gt;
+  第二部分，则是最经典的市盈率 TTM。
+ &lt;/p&gt;
+ &lt;p&gt;
+  市盈率，可谓是这张图所有估值体系的起点。用股价除以过去 12 个月(四个财报季)的利润，就得到了市盈率，可以让你一目了然的知晓，当下的股价，如果以过去四个季度的盈利估算，需要多少年才能回本。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个指标，优点胜在简单明了，但缺点是考虑的因素过于单一。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以才有了后续的各类派生的指标，比如
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   市赚率
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  市赚率这个指标，来自雪球用户@ericwarn丁宁，他提出了市赚率公式（PR=PE/ROE），并认为：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   当市赚率等于1PR为合理估值，大于1PR和小于1PR则分别为高估和低估。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  市赚率的思路，其实和早年风靡一时的 PEG 有点像，都是将估值与另一维度指标联用，避免单一指标的陷阱。俗话说便宜没好货，单独看市盈率或者市净率，容易陷入估值陷阱。多一个维度，就有可能避免“便宜没好货”的悲剧。
+ &lt;/p&gt;
+ &lt;p&gt;
+  只不过，PEG 指标关注的是利润增速，而市赚率关注的是近年大热的质量因子 ROE。对于像我这样偏爱质量多过成长的投资者，这个指标更有意思。
+ &lt;/p&gt;
+ &lt;p&gt;
+  虽然丁宁提出这个指标是用于个股，但我觉得指数一样好用，所以把他放入了沪深300 的估值图。
+ &lt;/p&gt;
+ &lt;p&gt;
+  请仔细看下图的❶和 ❷两个节点。❶是 2018 年初，如果单看市盈率，相比之前 2015 年的高点，距离甚远，似乎感觉不到高估的味道。但是你看市赚率，其实和 2015 年的高点就差不多位置了。这背后的原因，显然是 ROE 的回落，导致经过 ROE 调整的市盈率也就是市赚率其实并不低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahmiaM0jLOrR4s4LdQdrb9ibKnV9uibV0xWKPJneesvB2MTwL0xS9kyuzria7tCT3Em1Q9KzvIhyxCYEg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  ❷也就是 2021 年初的那波也是如此，单看市盈率，依然低于 2015 年，看不出离谱的地方。但是你看市赚率，那就已经超出了，可见考虑 ROE 调整，2021 年的那波行情市盈率其实更高估。
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于当下，无论是从市盈率还是从市赚率来看，都属于一个相对均衡的水平，说高不高，说低不低。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  股债性价比，中债与美债版
+ &lt;/h2&gt;
+ &lt;p&gt;
+  沪深300 估值图的下半部分，则是股债性价比的组图。
+ &lt;/p&gt;
+ &lt;p&gt;
+  无论是市盈率还是市赚率，都是基于 A股本身的估值指标。但现实中，股市不是一个孤立的市场，尤其是许多大资金，是基于配置思路去看待 A股的，尤其是以股债配置的思路，对比股票和债券的性价比，才决定要配置多少的股票类资产。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，股债性价比，就是为了将股票和债券的估值指标复合成新指标，以体现不同债券利率水平下的 A股估值水平。常见的是用 10 年期国债收益率来作为无风险利率的参考，理论上无风险利率越高，市场对于股票的回报率要求也就越高，对应的估值水平也就越低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  股债性价比，这个概念应该是这几年开始大红的，比较早的提倡者应该是国泰基金的基金经理徐治彪。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是用市盈率倒数代表股票的回报率，然后减去中国 10 年期国债的收益率，得到股债性价比。这里需要特别说明的是，我将
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   坐标轴倒置了
+  &lt;/strong&gt;
+  。我以前做的股债性价比图，采用的是自然坐标轴，数值大在上面，数值小在下面。但股债性价比这个指标，数值越大意味着股票估值越便宜。这就导致每次看图，要判断高估低估时候，不直观，尤其是看完市盈率和市赚率，需要搞脑子一下。但我将
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   坐标轴倒置，大数在下面，一切就自然了，图表下方是低估，上方是高估
+  &lt;/strong&gt;
+  ，就不费脑子了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahmiaM0jLOrR4s4LdQdrb9ibK8xR60ygENiayrpt12uJO1A85GySGP5Y6xQlP3M73oqicy50EoTQv563w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  从这张图可以看到，以股债性价比(中债版)来看，今年 1 月和 9 月的估值，都是 2016 年以来的低点，而且与此前的低点相若，是一个非常不错的逆势左侧加仓点。而
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   当下，沪深300 的股债性价比是快逼近均值但还略低的水平
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  既然叫中债版，那么自然有美债版。
+ &lt;/p&gt;
+ &lt;p&gt;
+  之所以要有美债版，是因为过去五六年，A股市场的外资力量越来越强，尤其是 2019 年至 2020 年那波“核心资产”的行情，完全是美债超低利率水平下外资的审美偏好。而核心资产泡沫破裂后那么惨，某种程度上也是被美债快速加息引发 10年期美债收益率大涨给拉爆的。要关注股债性价比(美债版)，主要是判断外资的喜好，判断外资流入的可能性。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahmiaM0jLOrR4s4LdQdrb9ibK9Wu42OhT6QYBRh90bnqPlR9E1q3tcoFEhhpHicSD1F0WNpT6g76PyOQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  而一个坏消息，也正是来自于股债性价比(美债版)。当下的数值差不多是过去十几年以来的极高值，这意味着在 10年期美债收益率高达 4.24%的当下，沪深300 对外资的吸引力不太大，短期内奢望外资大举杀入，就会有点难了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  为什么说成长风格崛起要等待美债利率下跌，为什么 A股反弹要期待美联储降息，原因也正在此。遗憾的是，最近一个月，10年期美债收益率处于上行阶段，这对沪深300 是一个小小的压制。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，对比股债性价比的中债版和美债版，出现如此巨大的矛盾，也提示着我们要更关注局部的力量。
+ &lt;/p&gt;
+ &lt;p&gt;
+  显然，当下中资更容易看好 A股，那么我们就要考虑中资的偏好，比如险资为代表对高股息的偏爱；至于外资，那么更要努力寻找那些即使在 4%+的 10年期美债收益率下，股债性价比依然宜人符合外资审美的行业。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Mon, 28 Oct 2024 00:42:09 GMT</pubDate></item><item><title>EarlETF图表周刊2024-10-26</title><link>https://mp.weixin.qq.com/s/nXt8VAV_A_-DzN-p0rASww</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  作为一个从技术分析时代走过来，如今又笃信动量投资的草根投资者，我始终是相信指数和图表的力量。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的指数，可以让我们跳过个股，一窥全貌。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的图表，可以将一些价格之外我们不容易看到的“真相”展现出来，更好的帮助我们把握市场的脉络。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这段时间，我设计了不少的图表。独乐乐不如众乐乐，所以每周日更新一下，放在 EarlETF 上与诸位分享。目前，这个还只是半成品，应该陆续还会有新的图表模型添加。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  Wind全A五年之锚
+ &lt;/h2&gt;
+ &lt;p&gt;
+  五年之锚，是我此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293637&amp;amp;idx=1&amp;amp;sn=bff1a40b7f23a6a5302c308a658ff31c&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果A股很烂，烂市场生存法则是什么？
+  &lt;/a&gt;
+  》中提及的一个图表风格。
+ &lt;/p&gt;
+ &lt;p&gt;
+  它的本意就是不考虑什么长期投资长期收益，将A股当作类似商品这样有波幅少升幅的品种，更强调以五年均线为锚点，低位多买点，高位管住手甚至减仓。此后我在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293764&amp;amp;idx=1&amp;amp;sn=088aa1e88e1bd69ae47c5a8831173d4b&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   “五年之锚”还能怎么用
+  &lt;/a&gt;
+  》中又提到，五年之锚可以辅助定投，当指数超过五年均线+15%的位置，就可以考虑暂停；此外，当指数无论是上下偏离五年均线比较多时，就可以考虑通过动态平衡来重置风险配置，并等待下一次回归五年均线后再次再平衡，避免过快的再平衡。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，每周率先更新一下 Wind 全 A 指数的五年之锚图，让你对当下 A股在历史长河中到底处于什么位置，有一个直观的认知。为了既保留全貌，又能看清近景。所以图表有两张，第一张始于2000 年，第二张则是放大 2019 年迄今的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicGECk00vt0OYYnPIAzzic8wYaYVTWjXIo3ibVsa3lT3o74M2mx4B4ItOw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicia6sZee1AmBiaicY3nNEyET7QbpWzBWTqsUic3E81PuCSMq4WoaNrKKK4g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中美视角下的 A股股债性价比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  脱胎于美联储 FED 模型的股债性价比，是一个用动态市盈率倒数减去十年期国债收益率来代表股票相对债券的性价比，数值越高，代表股票越具有性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但正如笔者此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293673&amp;amp;idx=1&amp;amp;sn=c1914d7fc6dadfac0e39af9cc6df0633&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   中美视角下，A股有何不同
+  &lt;/a&gt;
+  》中所提到的，A股的参与者既有内资，也有大量美元本位的外资，他们彼此之间对于债券收益率的基准是不同的，这就造成了同样的
+A股，在内资和美元资金眼中，性价比迥异。
+ &lt;/p&gt;
+ &lt;p&gt;
+  2019 年初，中美利率接近，所以判断相近。而经历了 2022 年和 2023 年的美联储加息，10年期美债收益率正处于高位，所以美元资金视角下，A股的吸引力锐减，这对于外资偏爱的“核心资产”类A股是坏消息。
+ &lt;/p&gt;
+ &lt;p&gt;
+  相对而言，A股中的高息红利股、小盘股，往往由内资主导定价，中国 10 年期股债引申的股债性价比更具参考价值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  时刻比较中美两种股债性价比的视角，有助于判断 A股结构性行情下的真正性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是最新数值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicxxh2paulAxXN6LBYtWEHYpP09gIVibyAP4Uk7lezqomQiaPdpa5VicdWw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  韭圈儿神奇指标
+ &lt;/h2&gt;
+ &lt;p&gt;
+  之前推送过一篇《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650301382&amp;amp;idx=1&amp;amp;sn=441fbbe80209fec3a36bf929a227fb85&amp;amp;chksm=beed3147899ab8516b712d75415bee53d54330c114ad9b16e7c3fba58d062252be2da354ef59&amp;amp;token=136234037&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   韭圈儿的神奇沪深300 抄底指标，还能怎么用
+  &lt;/a&gt;
+  》，介绍了韭圈儿提出的用万得偏债混合型基金指数来作为沪深300全收益指数底部预测的一个神奇发现，我进一步推演了作为顶部的预测功能。许多读者觉得这东西太神奇了，建议每周跟踪。
+ &lt;/p&gt;
+ &lt;p&gt;
+  那么从善如流，我每周会更新一下图表。不过还是要提醒，这个指标，其实没有什么坚实的理论基础，虽然在韭圈儿2022 年提出之后，这波 2024 年 1 月和 9 月的底部都神奇踩准了，但依然可能是“巧合”。所以，随便看看就好，要研判顶底，还是市盈率、股债性价比更具理论基础。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicsTt32RVjqNfk1aywy5BjX0jice2vaCibRa1RW865w4oN4KjWlwU8aEVw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  偏股基金3年滚动年化收益
+ &lt;/h2&gt;
+ &lt;p&gt;
+  中证偏股基金指数3年滚动年化收益这个指标，最早是董承非在“公转私”后与客户分享时使用的一个指标。2022 年 10
+月我在写《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650286978&amp;amp;idx=1&amp;amp;sn=93012c01cf1143dc83aadd1b2365aad1&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果熊市还要一年多？
+  &lt;/a&gt;
+  》时，引用过这个指标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个指标无论是用 30%提示泡沫，还是用-10%提示底部，都挺好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  考虑到当下 A股内资越来越多的资金是通过偏股基金来投资，所以这个指数作为市场情绪的衡量，重要性或许会越来越强。在 2023 年 9月我写过的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293268&amp;amp;idx=1&amp;amp;sn=1536517d9752fca49906b5b5b279059e&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   偏股基金指数跌到位了吗？
+  &lt;/a&gt;
+  》中，提到过如果按照此前两波的规律，可能就要期待2024 年 2 月到 6 月期间两波双底-10%水平才能走出阴霾。当然，历史不会简单重复，所以要时刻关注最新的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  需要说明的是，此次为了更快呈现变动，所以改用日线数据，3 年滚动年化收益率采用 726 个交易日(242×3)的收益率计算，与中证指数官网披露的数据略有偏差。不过这个数据，关注的是历史纵向的对比，而不是绝对数值的高低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicOp1riasrQ5A1tvtwH7dXOv23PHfHc23cmg1MdXo8KtTUFDD5XA7efMw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  规模风格轮动三棱镜
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在A股投资时，除了股债配置这样的整体考量之外，一个提高收益潜力的重要问题就是针对大小盘、成长/价值风格轮动的选择。笔者之前写的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294206&amp;amp;idx=1&amp;amp;sn=a66e5773ee52cc4a8e53d585c5666d5d&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   捕捉风格轮动的新工具，两个！
+  &lt;/a&gt;
+  》中介绍的“轮动三棱镜”图表范式，正是希望给大家在研判轮动上有更多可参考的数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正如我在上文中说到的，当比值上穿或下穿 252 日布林线，或者比值跌破五年均线，又或者是 40 日收益差 252 日均线上下穿 0值这三个信号凑齐两个的时候，你就要对一波轮动开始的可能，高度重视了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，不是所有的品种之间，都适合用这样的趋势思路去看待，比如 1000 成长创新和 1000 价值稳健明显比值就在一个区间内震荡，看着比值低买高卖或许更好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就个人偏爱，300 价值稳健和 300 成长创新之间的轮动，是比较适合用这个图表去跟踪的，毕竟 A股的大盘股风格轮动，往往两三年一波，趋势性比较强。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicZ8YH507SyVskqW0KMXSQQDTGP0egDGibicmsmAdm8UEJ0ae2Kwg9RicoQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicxmmceMkcy2WrED6cz5tNAeuZ8I4oaLNb6glrcicb1XQeVyHt2UWbT0Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicJE5Ohl2u3aFoTDLpZTvbnvw6uicBXRiamANtlMxHrhvsTTNtVwRA6ttw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicOM3UcdQsXD6pmyHT2kDiblTF9FRLL6icpDKFdC7G98sxUv4Na4L2tiaQA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicw4bHO7Gvsa4JK6ZDju7OJeiaqssricGILTKEpav2hFdhOcCOibIDLq9bw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利股息率追踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  过去数年,中证红利是熊市中少数的亮点。但也正因此，许多投资者觉得红利已经出现泡沫了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但我始终觉得,过去数年红利的强势,不过是抗跌,不过是核心资产等其他品种的疲弱衬托的而已。要真正评价中证红利的潜力，还是要回归股息率。下面这种图，列出了中证红利历史股息率走势，同时考虑到险资的话语权越来越大，所以也加入了中证红利股息率和 10 年期中国国债的差值作为股票风险溢价率的体现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicwYqAoqBrj3DHfWPrptXGPibhmzM0tKaCpOv8jdVnkXLzOIqqgrRPichA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利 40 日收益差跟踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  虽然红利是一个长期稳健的策略，但近年也时不时会有一波强势行情。在这种强势末期杀入红利，短期可能要相对 A股疲弱一段时间。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利相对 Wind全A 的轮动三棱镜，请密切注意 40 日收益差，过高的时候不要追高，可以静待回落到零轴甚至此前常见的更低点时杀入。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhic7XticgCK5ULLTiccsbsKOPbWKu9fCe6zddzm2fcgBdVoicKQAb1ZrSbng/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  红利A股港股 40日收益差跟踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  伴随 A股红利策略的走强，港股高股息策略也日益受到关注。虽然都是红利策略，但 A股和港股也有此消彼长的情况。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利相对中证港股通高股息指数(CNY)的轮动三棱镜，请密切注意 40 日收益差，过高时可以多买点港股高股息，过低时则要多多考虑中证红利。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagp2XlibVhu0SoBaG2smLqhicXJgIfu4qsicPh2nWOWgQ6lib9HfgZKiaQLDUuwIKiadXfEXaRH8FVSYy6g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sun, 27 Oct 2024 04:38:19 GMT</pubDate></item><item><title>申万一级行业相对强弱一览 2024-10-25</title><link>https://mp.weixin.qq.com/s/527hUmJzUZCqAdHS6AxC2A</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  相对强弱RS是国盛证券基于欧内尔的选股思路，设计的一个对比研判不同行业强弱变化的指标。笔者基于国盛证券的版本进行了实现，并于每周六推送与诸位分享。关于这个指标如何使用，可参见旧文
+  &lt;a href="http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650283697&amp;amp;idx=1&amp;amp;sn=43ae60fe44c8bfc8cdbcb37792c951d6&amp;amp;chksm=beed4c30899ac5268c68d6dd7989b2b06a905e6191816af60ee6df8b80065160f9e43014ecdf&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   新利器！捕捉行业的一飞冲天与否极泰来
+  &lt;/a&gt;
+  。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  2024-10-25截面强度一览
+ &lt;/h2&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ohC5UITEJBP4JWBcu2rYtGFRP6sTzk9B1O5wt4ibaS5kQAMvic7XeiaesA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  分行业相对强弱 RS 走势图
+ &lt;/h2&gt;
+ &lt;h3&gt;
+  计算机
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oQuEM2CeY0RSjribNvSDSUGbgP5tPLcUJ8asgqV6Glg8zuGz7vAokGmQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  非银金融
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oCS1XKOx7m9yicXUalLJzUMDtqbgFtKJmf1kbRPksyRVny92VoQ5AWgQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  电子
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o7AbwBiagAwERszW6KCRN0K9pFOfsQJvSicNvYB4wJBv5LCggjwnooibDA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  电力设备
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o5Fj7R12ictbvic1ISxsnc5k6w4UpSHhR0CSmsROHJBicHibkf9aLkib1c7Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  传媒
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oEKzdPiaQh7mxBkEd4vNwAmYyTBm9x7TnQddpFPtibA3e9qOos7NsqaMQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  综合
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oliavvbXl0vSqFq5QNZT5lHiaYebzInr2m0u6hjAK51KX2hMoC9YEq3Jg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  国防军工
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oCfFGEqYnggYGOJibFm22Xb6e58n7ujKrMz3LXGcheMCaJ5ANSka0xOQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  房地产
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oqicT1SMDmHj8Uf3iafzswiaAiaFUcNf5GiaE9pS8S9rRpZkKibB9vCj4eleg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  通信
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oIbv0W207dic6NbVyoPdR4uW9ZttXU0CNsMBny4arttkjFa102lb0C8A/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  社会服务
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o9D1e8kArR5lCObGSgFBdXQPjxl9dabr1ppaib9g6ByoEMX3mHw5yYGQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  商贸零售
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oarRydEuOBdsiardyagvjgGGkQjQwKUNg41RnntZuCmkC3k5nmCMMRpQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  环保
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o01yBeRLUY9YsaM6N7Mpx7UslVKU7ghQLnqNOwiaBmkqicbVUVVS5UBbw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  机械设备
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o2GS7SdQurMITibNNYN1ibTvqZ1Y2SwjticsXdWc7jb7cl0CwgicCQ6oOTw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  美容护理
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oy4R8Ar4GlgcBV5E4vLxUV5qnqqy4q6ycAQ3DpLO05Hic2iaddK5lFAgw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  轻工制造
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ot0e6cvNyicgENPicFaict495BZwuIaibIicUDZ4y2FicXKGIysTicetABAxpA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  建筑材料
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857osGicVcI0JPklhiaglX1iaQib49LvXeH98QKLM7KTIknicHXTrK75HqSc5bQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  建筑装饰
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oJIoGbeibwNicEibDf6ic0ZibUNbxPcK80znwRcdR2siaqB2UjH2vte4lxRqw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  家用电器
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oWgibvP4eHl6NVangF8lueZTaVd9cCDiaqdRyPpynSoh06RTNMQCL3seA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  汽车
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ooHVGgib0GYzeaJ94rXEiadcUK3ZvYaSI6kia3qGGazP2uby7CE9FCRGicQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  基础化工
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o5JKHlEkD1ftFaMHdv3P5AjctsQVcib9raIbDib1vIiaG35OrL1DxMJENA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  医药生物
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oXNS8goHEuUmAW57TWNVp0xxu6JfI1XkTAYzZIubeY0XvQMtBNzvQmg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  纺织服饰
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oiaHcUM5O0IkUjWaJqHmDcbBMZIcDds1QYxpyV1XstVmhIO3bTq6HyXw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  钢铁
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oxHPtDRJaQDia3RQKBWUN5ONdugp8qTiaY8kMNbmvnEqcNUxTgsf5icbhg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  食品饮料
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857obRHZ0wt7jnLNN0BYUzIXdBZIazAibEKY6jhureiaJ6cicWSNYEIrLQYFw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  有色金属
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o2RIupnBvGdCHyU0m5OdibOLwq5ZHOArszsn267oQHAK77X6J5Hy3Osg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  农林牧渔
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oyicXTtXkU0xOx3ibuXTblwLwicbiaQqqarEYfn1KYX165u4f4ubKfOmXjQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  银行
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ot19HgX0OdQ77WsVaHhaJ0eGdeQX4hvbDibUO6RpQg4Mr8Wmku0e3Mow/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  交通运输
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oKMuE5eicnZ7iczIOIB1kcBVnayCIj3aAFzicWEUxYO2OuX46EXibNAbRwg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  煤炭
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oyz1iavYfVJPMXjGjppiciaiaklUHGjgDibfq2Kf3LRAUImgAxtWIbqsWDUQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  石油石化
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ouXwGudUNEdPibJ9TS4sMicoCL4WqxDOt8dJ9eWScdqiauvZ4eL4S1dg2w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  公用事业
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857omic7rjLjVwnmtIfrUvdw2JIbtLOeictg2hP0hkwgWK4IrBSziccLhX1Mw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sat, 26 Oct 2024 00:58:42 GMT</pubDate></item><item><title>教科书一般的上涨 | 数据复盘 10月25日</title><link>https://mp.weixin.qq.com/s/5vlMWYhWeoEzS9S1N90cGw</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  10月25日，星期五，A股走出了一波教科书般的上涨。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  万得全A走势一览
+ &lt;/h2&gt;
+ &lt;p&gt;
+  10月25日，万得全A指数涨跌幅为+1.31%，成交额为18307.66亿，相较上一交易日变动为+2673.49亿。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oPC1X5ovlbLS3fw4B2jRqjbSePVe34NZsSsfTrgbRUCZAv4w0gg6vrQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  前两天我提到，A股的连续上涨速度有些快，其实可以放慢一些。我的期待是A股能回抽五日均线，小幅调整。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下图中证1000 指数日K线来看，周四的走势来看，A股小幅回抽了五日均线后，稳健收出一根小阴线。周五继续上涨，在五日均线的支撑下，出现了一根实体不小的中阳线，这样的走势就像教科书上经典的上涨模型，挺好的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857o7FoO7R2icHLVQoTH0Zk694ia6eTTXRR1HyOz8JnibtjtlLBib8A8aGfkfw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  五日均线的回调偶尔出现，就像过去A股的许多波上涨一样，走得慢一点、稳一点，可以让未入场的股民有机会上车，并且上车后很快享受到赚钱的效果，这对于吸引更多场外资金进入，是很有益处的。同时，指数上涨速度不快，也不容易引发监管的各种干预，这使得上涨更加稳健。这其实是一波非常良性的上涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  今天我们看到市场中出现了一些新的预期，那就是周五必须上涨。这主要源于上周五的那根大阳线，以及本周五出现的一根中等实体的阳线，很多股民开始认为每周五都应该上涨。甚至有人提出，如果周五一定要上涨，那么周四就不能抛，可能也就不会下跌。这是重复到预期慢慢变化的过程。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，每周五就不能下跌的说法有些无稽之谈，更多是股民的美好愿望。但无论如何，沿着五日均线缓慢上涨的行情，对于稳步发展是有好处的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果要说隐忧，本周最大的隐忧就是
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   上涨只有“半程”之力
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是万得全A 过去 5 天的连续日内走势图，可以看到周一、周二、周三和周五，都是冲高到中午收盘，然后下午就开始回落。这种走势，是一种从长期来看健康，但短期疲弱的走势。或许，这与各类小作文出现的节点，和小作文没能落实，也有一定的关系。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oqQ7tJlDKUB4FgpjoqrsvKk1mZDPfZic5afAQ8rAZ54uBlHKQAlhUdwg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  过去一周，价值板块滞涨，中证红利指数还是微跌 0.26%的，相比同期万得全A 上涨2.72%，显然落后不少。但局部的滞涨，其实为行情留了一个后手，如果成长等板块出现调整时，中证红利指数为代表的价值板块可以作为跷跷板顶上，让整个指数表现不太难看。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  主要市场走势对比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  10月25日，主要市场指数中，表现最好的是创业板指，涨跌幅为+2.93%，表现最差的是300价值，涨跌幅为-0.17%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857okzDQDbAaVKgMCYFGYwAlO3UvpAWfT4JagTDJcvuoWic5sRibs52q0qpA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  恒生AH股溢价指数走势
+ &lt;/h2&gt;
+ &lt;p&gt;
+  恒生AH股溢价指数是一个体现同时在A股和港股(H股)上市的公司，A股相较H股的溢价水平。此指数最新值为143.89点，较前-0.85点。代表上述公司A股相较H股溢价率为43.89%。最近数值高于过去五年84.52%的交易时间。注：为规避A股休市带来的数据波动，下图仅显示A股交易日数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857osw0UpArWPOepJtsVv2RxunKdialoPsZnY4F8icb4PWy5FlNJ7OcHiaBkA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  申万大类风格走势对比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  申万大类风格是申万指数将大类行业聚类成6个风格，通过将它们与申万A股指数的对比，可以一目了然知道目前哪个大类风格领涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oqvFUVfnMrwgvpfNLMutzNItnNKVHhAlSWqgLmUWKqObb6Gk9BdWrBg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  主要行业走势对比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  主要行业指数中，10月25日表现最好的是光伏产业，涨跌幅为+7.81%，表现最差的是中证银行，涨跌幅为-0.61%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oDTI3aBvf4rUia7gicRBqkCpwDkibEA3RyS0MBkCqjYXpTSqH3AeTbwI5Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  离岸人民币(CNH)走势一览
+ &lt;/h2&gt;
+ &lt;p&gt;
+  离岸人民币(CNH)至执笔时最新值为7.1338，较前一日变动为+0.0094。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ovuoE9zicmTBXp0sLQTKRJfficMDQNVYKDJdlqjt1ADYo45HqSlvKnekw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  两个动量
+ &lt;/h2&gt;
+ &lt;p&gt;
+  最近好多读者问，之前跟踪的两个动量模型怎么不见放出来。我回顾了下，应该是某一晚发烧没更，后来就给忘了，后来没人问起我就估摸着大家不想看，也就没放。
+ &lt;/p&gt;
+ &lt;p&gt;
+  没想到原来大家是熊市无心关注，牛市就要看看了。那我继续更新数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  3104模型上周关注的是1000成长创新，关注收益是2.31%，相较同期3104四指数平均收益1.65%，超额收益为0.66%，根据模型下周将关注1000成长创新。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857ooAFYHCYDAgUicfjjIORbdrb8sWA4iaaXTibqRibXZQQeLcYv68ZjYDFDOw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  行业轮动456模型，本周周关注的三个行业是证券公司/中证银行/动漫游戏，平均收益是0.26%，相比19个行业平均收益2.71%，超额收益为-2.45%。根据模型，下周将关注中证军工/CS新能车/建筑材料。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaheFQhAEyXJUP68VhNh857oH6u8OutRFYbyA484ibCzpj5zZU8GoibA5s9ODTHD1Eyl4dgxGgdgtq9g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sat, 26 Oct 2024 00:58:18 GMT</pubDate></item><item><title>该抛弃中证红利了吗？</title><link>https://mp.weixin.qq.com/s/TzMlWwabYrdtBrFPJWx-bg</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  最近写过几篇文章，表达了我对食品饮料代表的质量因子和创业板代表的成长因子的关注。
+ &lt;/p&gt;
+ &lt;p&gt;
+  随之而来的，就是不少读者来问，既然质量和成长可能要回归 C 位，中证红利ETF(515080)代表的红利因子是不是该放弃了？
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajB5LFScicHwqAMIt9Ne5pdexuqIY3Cupyyh8lLf8ZGF0ubwI3wD9yC6CNB5Jia3IAvkWtCbWb3diaDw/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里就展开，多个角度聊聊。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  轮动真开始了吗？
+ &lt;/h2&gt;
+ &lt;p&gt;
+  成长因子已经崛起了吗？红利开始落寞了吗？
+ &lt;/p&gt;
+ &lt;p&gt;
+  下面来放一张中证红利全收益指数相对万得全A 的新版轮动三棱镜。这张新版，是既包含了我在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294206&amp;amp;idx=1&amp;amp;sn=a66e5773ee52cc4a8e53d585c5666d5d&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   捕捉风格轮动的新工具，两个！
+  &lt;/a&gt;
+  》中介绍的比值布林带和 40 日收益差两个工具，也包含了我在
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650301220&amp;amp;idx=1&amp;amp;sn=b5d1357359d6541b971e229705a8ef35&amp;amp;chksm=beed31a5899ab8b3ff97fdd81aa531d3e32ee88e52adee71902dfad26b96782a4ab1a18eb92a&amp;amp;token=654714659&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   用 RSI 跟踪成长风格崛起，很有意思！
+  &lt;/a&gt;
+  中介绍的 比值 RSI，可谓是真正的三棱镜完成体了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  以下图看，说中证红利指数走弱，还为时尚早。
+ &lt;/p&gt;
+ &lt;p&gt;
+  以第一张副图来看，比值布林带就回调至年线，距离击穿下轨还早，这意味着 2021 年初击穿上轨开始的走强趋势，从趋势角度还没终结。更何况，请注意比值布林线虽然 2021 年初击穿上轨，但也横盘了差不多一年，2022 年才走出明显趋势，其实回顾历史，风格转换耗时一两年的并不少，比如 2015 至 2016 年，击穿上轨后还盘整了 2 年。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajB5LFScicHwqAMIt9Ne5pdeLEGkxzxK8KlypgPgicDRwCu3eYa2S3RD7HXGtOynGsRqAL7pm0KEPJQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  以第二张副图 40 日收益差来看，这轮的极值和 2021 年迄今的几次差距不大。40 日收益差的年线还未下穿均值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于新加入的第三张副图，比值 RSI 指标来看，这次触及 20 点，的确是 2021 年迄今的一个新信号。但笔者此前分析成长因子时候也说了，这只是第一个信号，而且因为这波暴涨，所以信号的有效度还存疑，需要第二个信号去确认，就是中证红利指数相对万得全A 的比值 RSI 反弹到 70 点，就无力继续向上，无法向此前那样频频触及 80 点，如果到那时，或许才是中证红利指数相对 A股走弱的一个进一步的确认。
+ &lt;/p&gt;
+ &lt;p&gt;
+  暂时，中证红利指数代表的红利因子转弱，还是一个需要去证实或者证伪的潜在风向。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  另一种轮动你想过吗
+ &lt;/h2&gt;
+ &lt;p&gt;
+  谈及轮动，许多人会想到的都是红利走弱的轮动。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但是，作为一个经历过 2007 年牛市的老股民，我心中始终有一种必须做预案的场景——
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   红利或者说价值板块站上 C 位
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  是的，对于新生代基民，红利或者说价值板块，始终是一个防守概念。2021 年核心资产泡沫破裂之后，才轮动中证红利代表的红利因子的上佳表现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但许多老股民应该都记得，在 2007 年那波牛市中，当“5·30”加印花税导致 A股尤其是小盘股暴跌之后，以银行为代表的红利股，曾经有多么强势接棒。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是 2007 年“5·30”之后，中证红利指数与中证1000 全收益口径下的表现对比，可以看到“5·30”后小盘股的行情就差不多熄火了，而中证红利指数却依然继续大涨50%+。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajB5LFScicHwqAMIt9Ne5pdeABRmAIEYiaSNqoI29mAyAIbIXwhGyAOuzibYhn30j9kDWlAZf17Dr5qQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  回首整个 2006 年到 2007 年的牛市，中证红利指数全程的进攻性，是高于中证1000 代表的小盘股的。这或许是许多新股民未曾想到的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajB5LFScicHwqAMIt9Ne5pdeGwymxg9OnpuLaXhsyzDuaXEx0RRHmicluO5395jUmkoWcsSwjskJNwQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  放眼未来，我始终觉得要为这种预案做好充足的可能。
+ &lt;/p&gt;
+ &lt;p&gt;
+  毕竟无论是去年就开始的保险公司会计准则，还是“9·24”以来鼓励企业或大股东借贷回购，又或者是央企鼓励的市值管理，这一切都指向低估值个股的“复苏”需求。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果未来美联储降息速度慢于预期，如果宏观经济不如预期那么乐观，或许热点会重新回到年初 A股红利领涨的格局，这时候红利板块就不是防守利器，甚至会化身进攻利器了，这种轮动可能性不可忽略。
+ &lt;/p&gt;
+ &lt;p&gt;
+  也正因此，至少就我自己而言，是要牢牢拿稳红利持仓的不动摇的。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  指数赚钱与你赚钱不是一回事
+ &lt;/h2&gt;
+ &lt;p&gt;
+  上面聊的是指数强弱本体，其实我觉得在考虑持有中证红利指数的问题上，拿得住拿不住，也是一个需要考虑的问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  是的，指数赚钱，不等于基民赚钱。能不能早早入场，能不能拿得住，至关重要。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利全收益指数和万得偏股混合型基金指数的走势对比。我采用的是中证红利指数修订编制规则，采用股息率加权后 2014 年迄今的走势对比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  相对 2019 年的起点，万得偏股混合型基金指数其实依然累计了不少的收益，但有多少人觉得偏股基金整体体验好的？更多人是在 2020 年下半年甚至 2021 年初才入场，体会到的是此后 40%+的回撤。因为受不了回撤而离场，倒在黎明之前的案例，相信诸位在网上也不是没听到过。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajB5LFScicHwqAMIt9Ne5pdeJ4K2JU5ZfPImJWeZhQtibdAKSJ7ePdAEcSDho6OnBSD7eI9lD16wJ2A/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  相比之下，中证红利全收益指数在 2019 年和 2020 年虽然以绝对收益而言还算不俗，但与偏股基金指数比较相对收益，的确表现不算起眼，但也胜在这种温和，所以后面回撤很小，最大回撤也不到 20%，2023 年开始屡屡新高，持有人体验是相当好。所以在我看来，对于普通基民，中证红利ETF(515080)这类品种，依然是提升持有体验，进而提高长期实际收益率的“利器”。更何况，每季度分红的机制，也提供了一种落袋为安这第二重的保护机制。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Fri, 25 Oct 2024 01:25:46 GMT</pubDate></item><item><title>我一直跟踪的万得全A 哪里看，及同类替代品</title><link>https://mp.weixin.qq.com/s/Z5D-rPCclafLML_1jAIymw</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  日常，我都会用万得全A 来跟踪 A股的表现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对此，许多读者也会有疑问，比如为什么用万得全A？万得全A 哪里能查到。
+ &lt;/p&gt;
+ &lt;p&gt;
+  借着回答这个问题，顺便科普一下 A股目前主要的几个全 A 指数。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  为什么大家都爱用万得全A
+ &lt;/h2&gt;
+ &lt;p&gt;
+  如果你平时看券商研究报告，就会发现许多的分析师在研究 A股的长期表现时，会使用万得全A 这个指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这是为什么呢？
+ &lt;/p&gt;
+ &lt;p&gt;
+  作为一个描绘 A股整体表现的指数，万得全A 的确有几个优势：
+ &lt;/p&gt;
+ &lt;ol class="list-paddingleft-1" start=""&gt;
+  &lt;li&gt;
+   &lt;p&gt;
+    历史悠久。万得全A 是2006年6月14日发布的，但数据可以追溯到1999 年 12 月 30 日，算是目前主流描绘 A股整体表现的指数中，数据最久的了。
+   &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+   &lt;p&gt;
+    全收益指数。当我们使用一个指数，往往是希望便捷快速的描绘一类资产的表现。在谈及 A股时，我们最希望讨论的是 A股的长期回报。A股以往的指数，以著名的上证指数为例，是典型的价格指数，不包含派息收入，甚至因为派息除权，会出现派息越厉害，指数下跌越厉害的情况。而万得全A 是一个全收益指数，包含了股息再投资的收益，可以综合反应 A股长期的整体收益。
+   &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+   &lt;p&gt;
+    一目了然。在中国的金融投资界，Wind 金融终端一度算是近乎独占的江湖地位，打开 Wind 的内地综合屏，万得全A 就在里面的显眼位置，大家看习惯了，自然用起来也会首先想到。
+   &lt;/p&gt;
+  &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgEU06PwdIm1VHPibtHVbWoxqBujNZz69fiaYS0uzibQwdCb9uZFXWFrrsRw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  哪里能看到万得全A?
+ &lt;/h2&gt;
+ &lt;p&gt;
+  万得全A(881001) 是一个 Wind 金融终端发布的指数，所以属于独占性指数。另一个广为使用很出名的万得偏股混合型基金指数(885001)也是如此。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正因此，你必须在 Wind 的终端上，才能看到。
+ &lt;/p&gt;
+ &lt;p&gt;
+  PC 端的 Wind 金融终端功能强大，但是付费软件。
+ &lt;/p&gt;
+ &lt;p&gt;
+  不过如果你使用手机版，只需要用手机号注册就能使用，完全免费。虽然不支持数据导出之类复杂功能，但是看看数据，看看 K线是全然没问题的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  Wind 在手机端上还是比较大方的，包括万得偏股混合型基金指数之类的指数，手机端上都是可以免费查阅的，如果你热爱用指数来跟踪行情冷暖，绝对是好工具。
+ &lt;/p&gt;
+ &lt;p&gt;
+  顺便说一下，在许多媒体报道中常见的这个全球市场涨跌气泡图，也是来自 Wind 手机端。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgEmTfOxHpSWQFoDAC9PXgZ6Tro9hJlSdWKzicwUmWWF163DHALulyDGAw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  万得全A 的平替
+ &lt;/h2&gt;
+ &lt;p&gt;
+  万得全A 虽好，但必须依赖 Wind 的数据渠道，终究有些不便，尤其是在 PC 端。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以就分享下平替。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgEZaic4qMW6X3UK82kZia7x7t1G38s9GibJ2jH4jRBIqiaFGAZAkf1ETMcbw/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  要说万得全A 的最佳平替，我觉得是国证 A 指(399317.SZ)。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个指数是由深交所旗下的国证指数公司于2005年 2 月 3 日发布，以资历而言，甚至还早于万得全A。不过缺点是，这个指数的历史仅追溯到2002 年 12 月 31 日，比万得全A 少了三年。
+ &lt;/p&gt;
+ &lt;p&gt;
+  和万得全A 一样，国证 A 指也是一个全收益指数，包含了股息再投资的收入。不过
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   可惜的是，国证 A 指似乎没有配套的价格指数，不似万得全A 有配套的价格指数
+  &lt;/strong&gt;
+  ，这意味着你无法通过全收益指数和价格指数的年度收益差来估算当年的股息收益贡献。
+ &lt;/p&gt;
+ &lt;p&gt;
+  更难得的是，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   国证A指是一个普惠免费指数，所以哪怕是在券商提供的电脑上的通达信行情终端上，你也能看到这个指数
+  &lt;/strong&gt;
+  。通达信终端虽然久远，但是在类似黄金分割线等老牌技术分析工具上，其实比收费的 Wind 金融终端功能还要强，对于老股民，绝对难得。
+ &lt;/p&gt;
+ &lt;p&gt;
+  说完国证A指，就要说两个差一点的平替：中证流通和中证 A 股。
+ &lt;/p&gt;
+ &lt;p&gt;
+  中证流通(000902.CSI)是一个老牌指数，是为了 2005 年股权分置改革背景下，于2006 年 2 月27日发布的指数，专门跟踪全流通 A股的表现。伴随所有的 A股都完成改革，其实也就变成了包含所有 A股的指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我记得早年，许多讨论整个 A股的表现，会使用中证流通指数，那时候通达信中应该也有这个指数，不过不知道何时就查不到了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  后来，中证指数公司于 2016 年10月 18 日发布了
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   中证A股指数(930903.CSI)
+  &lt;/strong&gt;
+  ，虽然这个指数的基日也是1999 年末，但在 Wind 金融终端上只能查到 2005 年后的数据，可用数据甚至比国证A指还短。
+ &lt;/p&gt;
+ &lt;p&gt;
+  中证 A 股指数和中证流通指数都是价格指数，在类似同花顺手机版、腾讯自选股等流行的手机 APP 上也都能查到，算是普适性还算可以。中证 A 股指数还有对应的中证 A 股全收益指数(H20903.CSI)和中证 A 股净收益指数(考虑分红收入再投资并考虑股息税)，算是比较全面的全市场指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果使用的是 Choice、iFind等金融终端，那么中证 A 股指数和相应的衍生指数，是跟踪 A股总体表现比较好的标的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  值得一提的是，中证 A 股指数应该算是上述几个指数中，唯一有ETF 跟踪的指数，但规模很小不足 2 亿元，还没有场外联接。
+ &lt;/p&gt;
+ &lt;p&gt;
+  或许，基金公司或者监管从产品设计角度，并不太推崇这样无论是蓝筹还是垃圾股雨露均沾的全市场投资思路，所以近年反而是体现代表性和龙头的中证A50 和中证 A500 两个新一代表征指数的 ETF 大行其道。
+ &lt;/p&gt;
+ &lt;p&gt;
+  最后，给一张走势对照图，是上述四个指数自 2005 年迄今的走势对比，可以看到万得全A 和国证A指两个全收益指数走势极为接近，而中证流通和中证 A 股同样表现极为接近。这两类指数的长期年化收益率之间有 2 个百分点的差异，大体体现的就是股息及再投资的贡献。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgEibib0cqUnsUTNlaJgPCiaKyO7AKVfQAnUarWicgb8pQeTC4icrmJWSHoGvQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;section&gt;
+  &lt;section&gt;
+   &lt;section&gt;
+    &lt;section&gt;
+     &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/dDB9AEpicyTKpuGWyp2L0N7SJVl6KQz2E4iausJ4lXbodP7Lr868LV0enUMxK34eHudc4j8t9niabYIJkSfOgdcsA/640?wx_fmt=png" /&gt;
+    &lt;/section&gt;
+   &lt;/section&gt;
+  &lt;/section&gt;
+ &lt;/section&gt;
+ &lt;p&gt;
+  聊完万得全A 指数，来说个 ETF 的大事件——中证 A500ETF 终于要有百亿级玩家了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下表是截至 10 月 22 日，10 家中证 A500ETF 的规模，可以看到国泰中证 A500ETF(159338)以 91.20 亿元遥遥领先。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgE5KnsibltCb96fA61z9rwzOjc89JgumiaLKbyOcj2c5B4Z03sjr1hElsw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  看了下周三的实时申赎数据，当日共 357 笔申购，合计 12 亿份，按照收盘的IOPV价格0.9652 元计算，就是流入 11.5824 亿元。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgEaOr8CZtzlHnLuNklpuFTeOkvWAXaKcoVJ02SynROzxD3W0I6CGzSlw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  这意味着，到 10 月 23 日，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   国泰中证 A500ETF(159338)的规模，妥妥过百亿元了
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于一只 ETF，首发规模往往不具有太大的意义，尤其是是类似中证 A500 十箭齐发还限额 20 亿元的前提下，后续运营的意义就更大了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从国泰中证 A500ETF(159338)来看，上市第一日就31.53 亿元的日成交额，并始终维持较高水平，上市迄今 7 个交易日合计成交 155.78 亿元，日均 22.25亿元。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对 ETF 而言，规模和日成交额是有马太效应的，一个 ETF 的成交额越大，意味着大资金的进出越游刃有余，就越愿意申购或者买入；而活跃的大资金入场多，自然成交更活跃。许多老牌 ETF 越做越大，就有赖于这样的马太效应。
+ &lt;/p&gt;
+ &lt;p&gt;
+  不得不提的是，此次中证 A500 已经有了百亿级 ETF，可谓是后来居上，毕竟，上一波发行的中证A50 迄今还没百亿级 ETF 呢。这或许也能看出市场对中证 A500 指数的重视。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下图可以看到，自“9·24”以来，中证 A500 相较沪深300，优势显著拉大，尤其这两个交易日。肉眼可知的是，未来还有一堆中证 A500 的场外指基、场外联接和指数增强基金后续有来，场外资金提前占坑中证 A500 的，无疑有小小的抢跑优势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYah7icyDiapU815RYXVexLAicgE2ZX5rsHQFOPoKkqcNa0oNebDhcEV1pD3En1fCCs9byAqxv3s8Aum0w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Thu, 24 Oct 2024 05:08:06 GMT</pubDate></item><item><title>科创双雄买哪个？遇事不决还问TA</title><link>https://mp.weixin.qq.com/s/KH1C2-oNpyHve8Y7He99_Q</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  科创板 20cm 很好，这波大涨中越来越多人意识到了这一点。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但问题也来了，科创50 和科创100 两大当红指数，哪个更好？
+ &lt;/p&gt;
+ &lt;p&gt;
+  之前也聊过很多次，这两个指数的“行业偏性”比较严重，科创50 差不多半壁江山是半导体，科创100 则主要是由医药生物、半导体和新能源三大行业构成。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这就意味着对指数的选择，免不了对行业的押注。这对许多投资者，或许是一件难事。
+ &lt;/p&gt;
+ &lt;p&gt;
+  怎么办？指数投资领域，遇事不决，问 Smartbeta。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，就有了科创成长这个侧重成长因子的指数产品用武之地了。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  以成长因子筛选科创个股
+ &lt;/h2&gt;
+ &lt;p&gt;
+  科创成长(000690.SH)，顾名思义就是以成长因子来筛选科创板个股，构成一个指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  根据中证指数披露的编制规则，主要是从营收、扣非净利润，通过最新季度、过去 12 个季度多维度来进行筛选，最终选出 50 个成分股，构成指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6Yd8znrKbiclDCoiaWibR90dEH7CGwOA8nwZkvWhpKXIaIQwK1RtSueogc7w/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  正因为利用成长因子来选股，所以科创成长指数在行业分布上，会更为灵动。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是科创成长指数过去 3 年的行业分布，可以看到当下电子(半导体)行业占比 62.55%，医药生物占比 24.3%，是两大重仓行业。但对比看 2022 年的权重分布，当时是电力设备占大头。显然，从成长因子选股角度，科创成长指数从早年偏重新能源向偏重半导体转变，同时也在增加医药生物的配重，大幅降低新能源的权重。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6YdFKu8sYwQn8Ew30XwJwCAmRiaic9ZuU0SDP2XtJ2OibyPzvXzGQNicYOicTg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，虽然当下科创成长指数在半导体上是重仓，但与同样重仓半导体的科创50，还是有很大不同。
+  &lt;strong&gt;
+   科创成长指数有着更强的小盘股风格
+  &lt;/strong&gt;
+  ，从下表可以看到，科创成长的持仓主要集中在 500 亿元以下的市值，其中相当多甚至在 100 亿元以下；相比之下科创50 有相当多的持仓在500 亿元以上，没有持仓在 100 亿元以下。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6YdwZG3qErZT8tP5kLJ9v9GL2Nic2RScucFH85rqsbldQ1iaqJe0u6uSRNw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  这也使得科创成长即使当下侧重半导体，但也会更偏重小盘股。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  什么时候该用好科创成长？
+ &lt;/h2&gt;
+ &lt;p&gt;
+  基于成长这个因子筛选，科创成长指数的长期表现如何呢？
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是科创成长、科创50 和科创100 三个指数自 2019 年末以来的走势对比。从图上可以看到，在指数最初发布的数年里，科创成长风头无两，尤其是 2020 年末至 2021 年，不仅超额收益显著，而且回撤极小。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6YdQhcPtFLibAdLeHRqnOxIicdDAcGchAh8asxofmiaocXHdxVsk88nQKOSw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，进入 2022 年尤其是 2023 年，科创成长的表现有些疲弱。整体来看，科创成长胜在阶段性表现不错。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6Yd7tv3YtMUX4iaXSepVJNMnxyiaphbT0xYg8ZRbzISGdjk8IgA9vZdGibNQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  于是问题就来看，那么什么时候该用好科创成长呢？
+ &lt;/p&gt;
+ &lt;p&gt;
+  俗话说，人有悲欢离合，月有阴晴圆缺。
+ &lt;/p&gt;
+ &lt;p&gt;
+  任何一个因子投资，也是如此。无论是类似成长因子，还是价值因子，往往都有跑赢 A股整体，也有暂时跑输的时候，循环往复。
+ &lt;/p&gt;
+ &lt;p&gt;
+  EarlETF 的老读者都知道，在观察因子的强弱问题上，我会使用长江证券战略数据组出品的行业中性系列指数。下图是 2019 年迄今，行业中性成长(长江)指数与长江 A 股指数的走势对比，副图1则是这两者的比值，副图 2 是比值的 14 日 RSI，这是笔者新研发的一个判断相对强弱变迁的分析范式，具体用法可参考《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650301220&amp;amp;idx=1&amp;amp;sn=b5d1357359d6541b971e229705a8ef35&amp;amp;chksm=beed31a5899ab8b3ff97fdd81aa531d3e32ee88e52adee71902dfad26b96782a4ab1a18eb92a&amp;amp;token=783331771&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   用 RSI 跟踪成长风格崛起，很有意思！
+  &lt;/a&gt;
+  》。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下图可以看到，2021 年末，行业中性成长指数相对长江全 A 指数的比值出现掉头向下的趋势，这意味着整个成长因子相对 A股开始走弱。如果以最下面那张副图中蓝色虚线的相对比值 RSI 的 242 日均线(年线)来看，2022 年初由正转负，预示着成长因子的相对转弱。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6Yd1TYU9icibjfUOItbiazicYNRmbysic1JgZI3Rbk5eOeZmdZtlla6Tjic0HlA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  从这个角度说，成长因子的整体走强，会更利于科创成长指数的发挥。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于成长风格的回归，市场一直在期待。核心原因，在于美联储降息预期下市场环境的宽松。下图笔者之前也分享过，是美国和中国 2 年期国债的利差，与国证成长/国证价值比值指数的同步关系，当中国和美国利差由美国偏紧向均衡缩小(图表上向上运行)时，是利好成长风格(图表上是国证成长/国证价值)向上。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaA4jL6jEmb4j8VJia9cB6YdiaQcUmoIpia7s88eP7eoA92viaJSeT1v4qTzxlD7wdl7T0lDliaQJqneZA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  正因此，近期笔者一直在关注整个成长因子和成长板块“王者重来”的可能。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，未雨绸缪，不仅在于对因子的跟踪，也在于指数产品的建设。近期，长期在成长因子上沉淀的万家指数产品线又上新了，正在发行科创板成长 ETF (认购代码：588073)。
+ &lt;/p&gt;
+ &lt;p&gt;
+  关于万家基金的指数产品线，一直很有特色，尤其是在成长因子上，此前在 2022 年末发行了跟踪 300成长指数的300 成长 ETF(159656)和对应的联接基金，成为唯一一家在场内场外完成 300 成长指数布局的基金公司。而此次再接再厉，发行科创成长 ETF，显然是要加强在成长因子上的布局。有兴趣的不妨关注。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Wed, 23 Oct 2024 06:35:46 GMT</pubDate></item><item><title>韭圈儿的神奇沪深300 抄底指标，还能怎么用</title><link>https://mp.weixin.qq.com/s/6d1C1xWXHImd8JDxJ2UZOw</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  虽然大涨后，抄底A股已经不是一个热门话题，但最近依然有不少人来问韭圈儿那个抄底沪深300 的神秘指标，或许是希望能获得更多关于最大调整幅度的信心支持。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所谓韭圈儿的神奇沪深300 抄底指标，韭圈儿的创始人北落兄很多次提及过，这里一张截图来自 2022 年 4 月。大概的意思就是当沪深300指数基金 的累计涨幅跌至于偏债混合基金相若时，往往就是市场见底时。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkFS7JBACwIRP2jiamgBcCJjq0Iyn3hGHMtURuicNAzHzHuzKY3KXqONUEA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  最近那么多人问，或许因为回头看，这轮底部，这个指标
+  &lt;strong&gt;
+   再次神奇看准
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  韭圈儿的原图，是用某家的沪深300 指数基金来对比，毕竟它家是基金研究平台，这个对比每个用户能都自制，方便跟踪。
+ &lt;/p&gt;
+ &lt;p&gt;
+  不过我还是习惯用沪深300 全收益指数(H00300.CSI)和万得偏债混合型基金指数(885003.WI)来重绘，自 2004 年 12 月 31 日迄今的走势对比图。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从图中黄色高亮的两个位置可以看到，年初的那次和 9 月的那次，沪深300 恰好止跌在万得偏债混合型基金指数上。
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   这指标还真是准
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkFq7eRib3DQvNlfBBN3jcxk45bCXyzYbUROvwGHZLQXMF5bouWgDuiaJdQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  为什么那么准？
+ &lt;/p&gt;
+ &lt;p&gt;
+  韭圈儿的帖子下有个读者的评论有点道理：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   理论上，股市投资者的长期收益应该是高于债券的，至少美国市场是这样。但 A股这样长期上蹿下跳的电梯式涨跌，却很容易让股市投资者阶段性跑输债券——若长期如此A股就没吸引力了，所以或许是产业资本出手，或许是有形之手之手，又或许是多重因素叠加，A股就会在这个区域见底。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  那么，这个指标除了抄底，在逃顶上能不能提供一点参考？
+ &lt;/p&gt;
+ &lt;p&gt;
+  单纯两者的比较，不太容易看清。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以我增加了一个副图，是沪深300 全收益指数相较万得偏债混合型基金指数的偏离程度。我在偏离曲线上增加了两根灰色水平线，一根是 0 值，一根是向上偏离 60%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkFOJVk6BicYSoD3Hdfcdzndt6LNQSEpDmXmMpFnScCt4s99BDFGZWxxKw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  从偏离度可以看到，沪深300 的熊市，绝大多数都得 偏离度 0 轴区域止跌，这个韭圈儿北落兄已经讨论很多了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  与此同时，除了 2008 年的疯牛之外，之后 2009、2015、2021 这三波牛市，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   沪深300 相较万得偏债混合型基金指数的偏离度在超过 60%之后，就进入高危区域，往往很快就见顶了
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，如果将 2017 年那波小牛市算上去，进入 50%就要警惕了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，站在这波许多人都说“大牛市”起点的位置，上图也是一个可以参考的警示区。
+ &lt;/p&gt;
+ &lt;p&gt;
+  截至 10 月 18 日，沪深300 相较万得偏债混合型基金指数向上偏离 20.59%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果以万得偏债混合型基金指数走平作为基础预测，按照 50%计算，沪深300 全收益指数还有 24.4%的空间；按照 60%计算则还有32.68%的空间。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，万得偏债混合型基金指数每年还是会有上升，这会对沪深300 构成支撑。所以，慢牛可以走得更远，快牛的话，很容易就出现危险区域了。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Tue, 22 Oct 2024 00:36:00 GMT</pubDate></item><item><title>重温《大时代》，对股市投资的五点感悟</title><link>https://mp.weixin.qq.com/s/Dkpnb24-BaJJsxqgFTOvXA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  国庆长假后的第一个交易周刚刚落下帷幕。经历了节前的一波神奇上涨和节后的冲高回落，相信许多投资者的心情并不如想象中那般美好。今天，我想借一部经典港剧《大时代》，与大家分享五点关于股市投资的深刻感悟。
+ &lt;/p&gt;
+ &lt;p&gt;
+  《大时代》是1992年TVB出品的一部经典剧集，至今已有30多年的历史。在华语影视作品中，论及对股市题材的刻画，恐怕很难有其他作品能够超越它。这部剧不仅剧情扣人心弦，演员阵容更是豪华：刘青云、郑少秋领衔主演，女主角阵容更是我相当喜欢的几位——李丽珍、周慧敏、蓝洁瑛、郭蔼明。
+ &lt;/p&gt;
+ &lt;p&gt;
+  老样子，喜欢看视频的可以直接看下面的视频，喜欢听音频的可以去小宇宙、喜马拉雅、苹果播客搜索“精分派”栏目收听，当然喜欢看文字的可以直接阅读。
+ &lt;/p&gt;
+ &lt;section class="channels_iframe_wrp"&gt;
+  
+  
+ &lt;/section&gt;
+ &lt;p&gt;
+  下面，就让我们透过这部经典作品，一起探讨五个与投资息息相关的洞见。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkF9YK6axdy7rHHvfPSOMqvWfK8cFt0yeayicXa0sCBaYKYASMib2ico16Ag/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  一、“随机致富的傻瓜”现象
+ &lt;/h2&gt;
+ &lt;p&gt;
+  剧中最引人注目的角色莫过于郑少秋饰演的反派“丁蟹”。这个出身街头的莽汉，凭借一系列“好运气”，通过频繁做空操作在短短几年内积累了数十亿身家。丁蟹的形象恰恰诠释了现代金融理论中的一个重要概念——“随机致富的傻瓜”。
+ &lt;/p&gt;
+ &lt;p&gt;
+  2001年，塔勒布在其著作《随机漫步的傻瓜》中深入探讨了这一现象。他指出，在金融市场中，许多人的成功可能并非源于真才实学，而仅仅是运气使然。如果你经历过2021年的市场，或许会对此感同身受：当时很多投资者购买消费主题基金后获得了丰厚回报，一度认为这得益于自己或基金经理的“阿尔法”(超额收益能力)。然而事后证明，这不过是那个特定时期的“贝塔”(市场系统性收益)罢了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  丁蟹的角色塑造堪称经典，将“随机致富的傻瓜”形象刻画得淋漓尽致。当你在 A股中赚钱的时候，不妨时不时思考一下，你是不是那个“随机致富的傻瓜”？
+ &lt;/p&gt;
+ &lt;p&gt;
+  说句题外话，在港股市场，“丁蟹效应”(又称“秋官效应”)已然成为一个广为人知的现象：每当郑少秋的作品在TVB播出，股市就会出现大跌。这个效应甚至引起了专业机构的关注，里昂证券曾在2003-2004年间发布研究报告，追踪并验证了这一现象的“准确性”。我觉得“丁蟹效应”更多是一种巧合和自我实现的预期。当人们普遍预期市场会下跌时，买盘自然减少，卖盘增多，从而导致预期成为现实。这或许也是金融市场“自我实现”的体现。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  二、做多优于做空的市场逻辑
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在剧中，主角方展博(刘青云饰)常常重复一句话：“我爸爸是不会靠做空股市赚钱的。”这句话不仅体现了一种价值观，更反映了一个被数据支持的投资策略。
+ &lt;/p&gt;
+ &lt;p&gt;
+  与期货、外汇等零和博弈不同，股市投资的标的——上市公司是受益于宏观经济的实体，能够创造真实的价值。因此，从长远来看，全球股市必然呈上涨趋势。只要人口和生产力要素持续提升，GDP就会增长，上市公司的利润也会随之增加。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这就意味着，在股市中做空是一项高风险的操作。此前华尔街的研究已经表明，即便是采用均线择时策略，其收益贡献也是不对称的：绝大部分收益来自做多，而做空贡献甚微。因此，“不靠做空股市赚钱”不仅是一种高尚的价值观，更是一个正确的投资策略。除非你能准确预见十年一遇的大股灾，否则长期持有做多才是更稳妥的选择。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  三、切勿盲目“赌命式”投资
+ &lt;/h2&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkFzOZ8s33PZ1Htv9VaB3MDt3VcpAxJazY5QTsCVt7ib6pZKambewuWYIQ/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  方展博在剧终时与丁蟹展开了一场惊心动魄的对决，这场被称为“大奇迹”的剧情高潮虽然扣人心弦，但却不应成为普通投资者效仿的榜样。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在现实中，我们常常看到投资者在市场狂热时期盲目追涨，声称要“做多一波大牛市”，仿佛不参与就会错失良机。这种非理性的狂热与方展博最后的“豪赌”如出一辙。
+ &lt;/p&gt;
+ &lt;p&gt;
+  然而，理性的投资者应该明白：市场既不存在只涨不跌的神话，也没有永远下跌的噩梦。越是狂暴的上涨，往往伴随着同样剧烈的回调。
+ &lt;/p&gt;
+ &lt;p&gt;
+  真正的投资高手应该依靠专业知识和理性分析，而不是把希望寄托于运气。这包括在低估值时适度买入、精选优质基金或公司，采用符合金融市场规律的方法进行投资。盲目相信“一定会有一波大牛市”并全力押注，最终很可能落得丁蟹般的下场。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  四、保持“无执”心态面对得失
+ &lt;/h2&gt;
+ &lt;p&gt;
+  剧中有一个值得玩味的情节：丁蟹与四个儿子成立的“五蟹集团”上市后，陈滔滔(林保怡饰)为了替方婷(李丽珍饰)报仇，试图收购该公司。然而，出乎意料的是，丁蟹并不在乎公司的控制权，毅然决定抛售股票，将股价打到最低点0.01元，最终导致陈滔滔爆仓，复仇计划失败。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个情节展现了丁蟹“无执”的人物形象。在金融市场中，过度执着于某个标的或某种观点往往会带来灾难性后果——许多股民往往喜欢与股票谈恋爱，甚至无视基本面的恶化。丁蟹的行为，虽然出于其莽撞性格，却无意中体现了一种大智慧：
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   不被过往经历或虚荣所束缚，能够在关键时刻做出果断决策
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于普通投资者而言，这提醒我们要时刻保持理性和灵活性。不要对任何投资产生过度依恋，也不要被自己的预判所束缚。市场瞬息万变，唯有保持开放和适应性的心态，才能在投资道路上走得更远。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  五、“及早离去”的深层智慧
+ &lt;/h2&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkFtCwN9JVfLj6YPj0iaZmzFmich48qtsFRN6LBSepX8fr19iagA0Xrib5PvQ/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  剧中，方展博的师父叶天(罗乐林饰)临终前留下了一段神秘文字，经过解读后揭示了一套“股市必胜法”，其核心就是四个字：“及早离去”。这个颇具禅意的结局，为整部剧增添了一层深刻的哲学底蕴。
+ &lt;/p&gt;
+ &lt;p&gt;
+  以下是必胜法全文：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   股市原意，乃让集资投资有其地，社会相向荣，人皆有赚， 惜人性贪婪，耗尽心思，巧取豪夺，乐土成炼狱，血雨腥风，杀戮不惜，无数人倾家荡产输性命，胜者则丧良知人格，余於股坛数十载，未尝见一真正赢者，智者应知此乃一处永无赢家之战场，取胜唯一法。。。。。。“及早离去”四字而矣。
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  然而，我们不应简单地将“及早离去”理解为完全远离股市。仔细解读叶天的遗言全文，我们可以发现，他批评的是将股市视为投机场所的行为，而非否定股市本身的价值。股市的本质是“集资投资有其地，社会相向荣”的场所，是分享经济增长红利的渠道。
+ &lt;/p&gt;
+ &lt;p&gt;
+  真正的投资智慧，在于以长期投资的心态参与市场，而非追逐短期波动。正如有知有行APP上展示的一张经典图表(见下图)所示：A股长期收益主要来自于净资产的增长，即公司利润的累积，而非估值的波动。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_jpg/C4xib9axrYaiaWSuxic24uIs9icqMFx7jZkFKSrD39IOXAv9iaiaV4KxfibNtYeOWqVSryPPFmf2eSHYBmPH0KaY3lsDA/640?wx_fmt=jpeg&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  因此，“及早离去”的真谛，或许是提醒我们要远离投机心态，摒弃对短期暴利的幻想。真正的股市“必胜法”，是通过长期持有优质公司，分享其盈利增长，同时避免在估值过高时盲目追涨。
+ &lt;/p&gt;
+ &lt;hr /&gt;
+ &lt;p&gt;
+  《大时代》虽然是30年前的作品，但其中蕴含的投资智慧依然适用于今天的市场。通过理性分析、长期投资、保持灵活心态，我们每个人都有机会在股市中获得成功。铭记这些宝贵的教训，才能在投资道路上走得更稳、更远。
+ &lt;/p&gt;
+ &lt;p&gt;
+  PS：本文由 claude 大模型基于我的字幕文件自动撰写，我仅仅少少增添个别文字，你觉得文章效果如何？我觉得是远远超出我的预期了，无怪乎 claude 被称为现在写作尤其是中文写作能力最强的大模型。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Mon, 21 Oct 2024 06:38:20 GMT</pubDate></item><item><title>EarlETF图表周刊2024-10-19</title><link>https://mp.weixin.qq.com/s/GzNsYN1Z4OdgfnP_elRwEg</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  作为一个从技术分析时代走过来，如今又笃信动量投资的草根投资者，我始终是相信指数和图表的力量。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的指数，可以让我们跳过个股，一窥全貌。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的图表，可以将一些价格之外我们不容易看到的“真相”展现出来，更好的帮助我们把握市场的脉络。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这段时间，我设计了不少的图表。独乐乐不如众乐乐，所以每周日更新一下，放在 EarlETF 上与诸位分享。目前，这个还只是半成品，应该陆续还会有新的图表模型添加。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  Wind全A五年之锚
+ &lt;/h2&gt;
+ &lt;p&gt;
+  五年之锚，是我此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293637&amp;amp;idx=1&amp;amp;sn=bff1a40b7f23a6a5302c308a658ff31c&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果A股很烂，烂市场生存法则是什么？
+  &lt;/a&gt;
+  》中提及的一个图表风格。
+ &lt;/p&gt;
+ &lt;p&gt;
+  它的本意就是不考虑什么长期投资长期收益，将A股当作类似商品这样有波幅少升幅的品种，更强调以五年均线为锚点，低位多买点，高位管住手甚至减仓。此后我在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293764&amp;amp;idx=1&amp;amp;sn=088aa1e88e1bd69ae47c5a8831173d4b&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   “五年之锚”还能怎么用
+  &lt;/a&gt;
+  》中又提到，五年之锚可以辅助定投，当指数超过五年均线+15%的位置，就可以考虑暂停；此外，当指数无论是上下偏离五年均线比较多时，就可以考虑通过动态平衡来重置风险配置，并等待下一次回归五年均线后再次再平衡，避免过快的再平衡。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，每周率先更新一下 Wind 全 A 指数的五年之锚图，让你对当下 A股在历史长河中到底处于什么位置，有一个直观的认知。为了既保留全貌，又能看清近景。所以图表有两张，第一张始于2000 年，第二张则是放大 2019 年迄今的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRP5PVkRibcS2fSl7rP1dQLZsYuEnZQcBsCJibvuwyDCAGsfLibrdiapfatww/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRP6FxPJqFkD74eS5faNaf4ia47O2b8aeUyZibufF5UOHwjibqs1P73Ibglg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中美视角下的 A股股债性价比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  脱胎于美联储 FED 模型的股债性价比，是一个用动态市盈率倒数减去十年期国债收益率来代表股票相对债券的性价比，数值越高，代表股票越具有性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但正如笔者此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293673&amp;amp;idx=1&amp;amp;sn=c1914d7fc6dadfac0e39af9cc6df0633&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   中美视角下，A股有何不同
+  &lt;/a&gt;
+  》中所提到的，A股的参与者既有内资，也有大量美元本位的外资，他们彼此之间对于债券收益率的基准是不同的，这就造成了同样的
+A股，在内资和美元资金眼中，性价比迥异。
+ &lt;/p&gt;
+ &lt;p&gt;
+  2019 年初，中美利率接近，所以判断相近。而经历了 2022 年和 2023 年的美联储加息，10年期美债收益率正处于高位，所以美元资金视角下，A股的吸引力锐减，这对于外资偏爱的“核心资产”类A股是坏消息。
+ &lt;/p&gt;
+ &lt;p&gt;
+  相对而言，A股中的高息红利股、小盘股，往往由内资主导定价，中国 10 年期股债引申的股债性价比更具参考价值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  时刻比较中美两种股债性价比的视角，有助于判断 A股结构性行情下的真正性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是最新数值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPlbEvxcW2oaPiaUpibP9kpKjdIQfax1ibicyjxwCOnR47DodbbyLLR1dafQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  偏股基金3年滚动年化收益
+ &lt;/h2&gt;
+ &lt;p&gt;
+  中证偏股基金指数3年滚动年化收益这个指标，最早是董承非在“公转私”后与客户分享时使用的一个指标。2022 年 10
+月我在写《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650286978&amp;amp;idx=1&amp;amp;sn=93012c01cf1143dc83aadd1b2365aad1&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果熊市还要一年多？
+  &lt;/a&gt;
+  》时，引用过这个指标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个指标无论是用 30%提示泡沫，还是用-10%提示底部，都挺好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  考虑到当下 A股内资越来越多的资金是通过偏股基金来投资，所以这个指数作为市场情绪的衡量，重要性或许会越来越强。在 2023 年 9月我写过的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293268&amp;amp;idx=1&amp;amp;sn=1536517d9752fca49906b5b5b279059e&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   偏股基金指数跌到位了吗？
+  &lt;/a&gt;
+  》中，提到过如果按照此前两波的规律，可能就要期待2024 年 2 月到 6 月期间两波双底-10%水平才能走出阴霾。当然，历史不会简单重复，所以要时刻关注最新的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  需要说明的是，此次为了更快呈现变动，所以改用日线数据，3 年滚动年化收益率采用 726 个交易日(242×3)的收益率计算，与中证指数官网披露的数据略有偏差。不过这个数据，关注的是历史纵向的对比，而不是绝对数值的高低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPWRDEBHr4txKGIX1nOibia9cWZM7bcYOXKEjbuC6rYpA7XFpMncszdg9g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  规模风格轮动三棱镜
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在A股投资时，除了股债配置这样的整体考量之外，一个提高收益潜力的重要问题就是针对大小盘、成长/价值风格轮动的选择。笔者之前写的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294206&amp;amp;idx=1&amp;amp;sn=a66e5773ee52cc4a8e53d585c5666d5d&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   捕捉风格轮动的新工具，两个！
+  &lt;/a&gt;
+  》中介绍的“轮动三棱镜”图表范式，正是希望给大家在研判轮动上有更多可参考的数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正如我在上文中说到的，当比值上穿或下穿 252 日布林线，或者比值跌破五年均线，又或者是 40 日收益差 252 日均线上下穿 0值这三个信号凑齐两个的时候，你就要对一波轮动开始的可能，高度重视了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，不是所有的品种之间，都适合用这样的趋势思路去看待，比如 1000 成长创新和 1000 价值稳健明显比值就在一个区间内震荡，看着比值低买高卖或许更好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就个人偏爱，300 价值稳健和 300 成长创新之间的轮动，是比较适合用这个图表去跟踪的，毕竟 A股的大盘股风格轮动，往往两三年一波，趋势性比较强。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPgqll6sRYibcmp00p6JwygPPWLnKW06S0z8jUPdwcwdtMwT6fyT3kTDw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPic0CnxDczaWbLRnzwAGd93MKhKovgBj0lMnbmHc3OyD1ndpAtn5bbsw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPpQwYLAGYkWItB0hHkUibtojn5fJzcNiawDv2rW1ljpcfjUibfp7a1hARg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPMUIoscOc81SIkuf1Xo9X4ibBVPg0r7Y5AdL0AxTFfLTOicZHAEic8cIgg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRP3Y0fYdMJuWKDVrzQu7sbfM5xqMVO9pSlWibHQWiaiaAjia4jrXnroyyBLg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利股息率追踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  过去数年,中证红利是熊市中少数的亮点。但也正因此，许多投资者觉得红利已经出现泡沫了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但我始终觉得,过去数年红利的强势,不过是抗跌,不过是核心资产等其他品种的疲弱衬托的而已。要真正评价中证红利的潜力，还是要回归股息率。下面这种图，列出了中证红利历史股息率走势，同时考虑到险资的话语权越来越大，所以也加入了中证红利股息率和 10 年期中国国债的差值作为股票风险溢价率的体现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPmDYIlkVdjCJVSSREsGTEZ8iaOHslOrDwefMIYw2Q8fI3h4rh2AKgjBQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利 40 日收益差跟踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  虽然红利是一个长期稳健的策略，但近年也时不时会有一波强势行情。在这种强势末期杀入红利，短期可能要相对 A股疲弱一段时间。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利相对 Wind全A 的轮动三棱镜，请密切注意 40 日收益差，过高的时候不要追高，可以静待回落到零轴甚至此前常见的更低点时杀入。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRPptjTBUzhSWEQZ1f7Sut9FW4HmCeGjHbGjzvpia5wAr5L9lB9PAGy7Xg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  红利A股港股 40日收益差跟踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  伴随 A股红利策略的走强，港股高股息策略也日益受到关注。虽然都是红利策略，但 A股和港股也有此消彼长的情况。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利相对中证港股通高股息指数(CNY)的轮动三棱镜，请密切注意 40 日收益差，过高时可以多买点港股高股息，过低时则要多多考虑中证红利。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagSkwKqcVCo4ElUlfbJ3IRP4FZdJjZzPoaibBbtk23ZaaoELqpZvDl7gv4DnZTcVFiaudHfUurnGNFg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sun, 20 Oct 2024 00:30:50 GMT</pubDate></item><item><title>申万一级行业相对强弱一览 2024-10-18</title><link>https://mp.weixin.qq.com/s/yE8jSnx835-W2v7YQi4GTg</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  相对强弱RS是国盛证券基于欧内尔的选股思路，设计的一个对比研判不同行业强弱变化的指标。笔者基于国盛证券的版本进行了实现，并于每周六推送与诸位分享。关于这个指标如何使用，可参见旧文
+  &lt;a href="http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650283697&amp;amp;idx=1&amp;amp;sn=43ae60fe44c8bfc8cdbcb37792c951d6&amp;amp;chksm=beed4c30899ac5268c68d6dd7989b2b06a905e6191816af60ee6df8b80065160f9e43014ecdf&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   新利器！捕捉行业的一飞冲天与否极泰来
+  &lt;/a&gt;
+  。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  2024-10-18截面强度一览
+ &lt;/h2&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvrmCjkbtVibTcNRiaUGibkFGZtTUQ6kUFTCzVKJiawMQGMbscC9yKbqlGQw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  分行业相对强弱 RS 走势图
+ &lt;/h2&gt;
+ &lt;h3&gt;
+  计算机
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvULDHDdELXnwgk8R20ww0ThJ4hgYrdgwBOJE9tTDmgFqNIs52w4IuSg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  非银金融
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvia8stKJ8FMg2gmAQCWruGibAwuWeBrDaF36jYt7ojkutsHg3wafs9WWA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  电子
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvEbq9zEA6ic0emfwOMy02uBLCQF5lsnwOou9jrbRHSvAAyltQcDJaQDA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  房地产
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpv0nHguqvK238cJF7Ag8I9R47nNcXVPhQn759zsBAib14jOeugUG4r2icQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  传媒
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvTjgicoJoXefJWuOZn6pPBDY4TwRVOSLrzj3icvCicgaeJBxicO9cxuOFfQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  国防军工
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvmicUzMe16j1ecicVwBqXXBxOE0rc9rrfcWc80z7TOPIH8MN8fAGmsOibg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  通信
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvLgRdhMWPjPia4K9vegiboJsKlsFwibzdz4VruFwgkyy3uTiaSGicagG5umA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  社会服务
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvh82b488Lp8nTdKUTkY5n7rQaB9q1Z8Bu88ibib4EfuJSZHDjeP7FONoQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  电力设备
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvu5X2VZCDs6kGEOVKIMvIO1AOqUPRvmfDewus2Flt6EXgaZ5Qy0XjLQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  综合
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvX068ib8icpK7rnwa0OrvQdDgD839Gf3enTCOGR59HMzGlY27h4XuW9wA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  机械设备
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvneWia7Gm4MqUpReSxRQ8jop8IHzqDdGNdugOSTXib1mOm04X6icYAsJTQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  家用电器
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvKJGgp5uu1vNoOmjU82uo4vEqx2naiaMBToJnzyreIqa1xLz5RMKYUOg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  美容护理
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvkmPheTJK2DjTflThmIkoglpcG9GSmyOwrDAsiauLzaGYNTOdtUMFboQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  建筑装饰
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvC2xV9IKWKMxiaVnJGfyU4HrFt71psibapXRm2nVM4icnhlQE7ll6GnNBg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  环保
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvS55H3JRdIcVCr2hTLeibSZLiaEebrA9EnBGqYqG3P1cGC22dQU8W8A3A/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  商贸零售
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvERSyk7aZ85hfm9agLemS9YqlLDbXv3ANacgdoHVHaiabFUjQUm3gbVQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  建筑材料
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvjQQMFFiamsfTaWHP6icSG6uSXn59RmhxAC6oicZ6UvHGh56WP73Lj7FYg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  钢铁
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvgXcsZcQD3QicQq9geenV9u0ia9miapXZRBKu94jaIzDdGjlFKNqaPVnfA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  汽车
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvM4dUIrstlyUZucaZLDGX9qIK4YtveI4P0nmlZ24bcEJvoick8mJ6J3A/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  轻工制造
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpv5wLiaWTCGo9jpeYG0P8AaCRmgkOJChqq45cBmsA33rtVwbiakFnwibIiag/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  有色金属
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpv5MAuP4b0Sk7KRzo4yA2NMFjMhr4Cs70V2tU3mpwSxleWgw60giabxpA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  银行
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvo6P5Cspj0Gm4T7iaUcTu2R985w4HgjcibHrqrtlvTetb4Xb4OKNFR25g/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  基础化工
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvlicfHFtaD6cZ90vbdjUy8JianjUfnzBX9Y3HZ192wsDlEN8B8icefwNicA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  医药生物
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpv17IMVDh5xfa3NIicdn8XXnRh2uCIkXlMUicicTiaImjibnk4sVFBYZibawnA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  纺织服饰
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvyiafxydib44tm2ichhXMMJ9ia0GKKyjkrRp4ecpxrxwIBSR5EtzYCz9xtQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  食品饮料
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvr7euBrJ9ODwVUQwt6eRicBmVMLJ01xIx64x780ia4kM6aRPaGwa97zAw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  煤炭
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvMUkG8biaBvF1TeS8GJbekIficvuKTChN9ibcz4rGqvgGANNzb2ufCoAhQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  交通运输
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvrnJrdI7lE9jwp9nzz1riabnwxlmqX1JciakqWmvU54tBFpjR72kVWjhg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  农林牧渔
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvJAUXQkqlkN7mJWEvwwUI2OKPgl8j8kxicetz6aF9NiaUuonsWXH2gE2Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  石油石化
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvded2bqLjj4k8HHSX8hpnD9JqAf5FhMj2sB8Qj21vAic6u4ZbUR2bzAw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h3&gt;
+  公用事业
+ &lt;/h3&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvUyajBGfwnVnfic9rDZ9BwhlYFavw5N9cPgtTgNfTiagayv9zXNQLqAEw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sat, 19 Oct 2024 00:56:41 GMT</pubDate></item><item><title>牛回速归与韭菜的培养皿 | 数据复盘 10月18日</title><link>https://mp.weixin.qq.com/s/lGAadTZdHPdgzu95tcitUA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  大涨，再次突如其来。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvVibnyhnqtyXnM4BwDfHWDRO76XHFtuoiaHbcZ0IwG1mBFWP58wgN1ESw/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  有利好吗？潘行长早上的讲话，当然算利好，但显然不足以解释为何到下午才突然上涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于广为传播来自
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=Mzk0NDAwMDExMA==&amp;amp;mid=2247571205&amp;amp;idx=1&amp;amp;sn=db52583de846381f55154b92ceb79bd2&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   央行官微
+  &lt;/a&gt;
+  的那句“豁免”，其实 10 点 35 分也就公开了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvgrKfwmDGsADQtSzicCJfiaDpc4SQChY2g7eHjbH0JJuKltXM0ib9wzPPQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  甚至在上涨的过程中，连辅佐印证上涨合理的小作文都没有传开。当然那七个字，就不展开了。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  人心思涨
+ &lt;/h2&gt;
+ &lt;p&gt;
+  只能说，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   人心思涨，抛盘够轻，这种纯技术面的利好，是最大的利好
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  10月18日，万得全A指数涨跌幅为+3.80%，成交额为21305.92亿，相较上一交易日变动为+6113.26亿。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvcZfdTsAIZNlImia0NaOyplicnLbsEYK2O12mMqs390GRk2iaw8CHnIAFQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  主要市场走势对比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  10月18日，主要市场指数中，表现最好的是科创50，涨跌幅为+11.33%，表现最差的是中证REITs全收益，涨跌幅为+0.10%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  万得全A 放量上涨，显然是好事。不过细看A股宽基内部，中证1000 是四大宽基中涨幅第一的，上涨4.43%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  本周的数据复盘中，我不断强调中证1000 是宽基风向标。本周，中证1000 上涨了6.14%，而沪深300 仅上涨0.98%，两者差距显著。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从日 K线图来看，中证1000 也是几个宽基中，最具美感的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下图可以看到，周一的那个阳线(❶)差不多是微微回踩蓝色的年线(242 日均线)，并初步满足阳包阴的形态，可以算第一根新高阳线。周二重归回落虽然有点可惜，但从周五来看，算是一次“仙人指路”。周五那根更大的阳线(❷)刷新了❶的高点，甚至将后面那根上涨失败阴线的上影线也刷新，可算是相当扎实的形态。
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   接下来应该按照上涨形态和上涨趋势去看待短期的走向，直至被新的两根新低阴线证伪。
+  &lt;/strong&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于尾盘的回落，我倒是觉得是好事，真的又是单日暴涨的神经病走法，依然会带来后知后觉者来不及参与的问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvnpW0tNAiaYYF9ib99tr4X6xxKK53tGNpMVOwSia2lyJD8emnJPdKE4Bzg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  要知道，一波牛市要走得远，众人拾柴火焰高是关键。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvdQ3swic7yezIibMow3APG705EbJkR1dMKwPtphgBBUKPyNCrdibHVQxqw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  韭菜的培养皿
+ &lt;/h2&gt;
+ &lt;p&gt;
+  10 月 8 日和 9 日，老股民老韭菜总想着高点让新开户的新韭菜接盘，其实是一种一厢情愿。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这不仅在于韭菜也看视频网站，也知道老韭菜是怎么想的，聪明点的新韭菜也会预判老韭菜的预判。
+ &lt;/p&gt;
+ &lt;p&gt;
+  更重要的是，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   韭菜的从成长到狂妄，不是靠刷短视频，相信什么翻倍牛市的
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  那些 10 月 8 日开盘价冲进来的，本质上是“赌徒”。很多人甚至是抱着捞一票赚个一两天就走的心态。对股市都没感情，谈什么韭菜。
+ &lt;/p&gt;
+ &lt;p&gt;
+  传统 A股的韭菜，从来不是这个样子的。一个好的韭菜，是要慢慢培育，慢慢培育的韭菜反过来又会促进牛市的不断发展，两者可谓是相得益彰。
+ &lt;/p&gt;
+ &lt;p&gt;
+  普通的新韭菜，刚开始往往是比较谨慎的，稍微买一点，发现很快就几个点赚好了，再多买一点，又是几个点赚好了，如此几轮正向循环，才会胆子越来越大，甚至觉得自己是新晋股神，然后不断增加资金量，倒金字塔加仓。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这样的加仓，赚钱，再加仓，再赚钱的过程，会让韭菜越发自信，也会通过新增资金推高市场——直到市场高估，精明投资者撤离，引发反转。
+ &lt;/p&gt;
+ &lt;p&gt;
+  而韭菜，最终在顶部恋战不肯割肉，一波调整回吐所有利润甚至倒亏，最终成长为老韭菜。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，那种单日 10%+的大阳线，看起来极具戏剧性，但其实很难形成持续稳定的正循环，反而是每天三四个点甚至更少的上涨，歌舞升平之下，才有持续性——典型例子就是 2015 年上半年，在泡沫破裂前，万得全A 连 5%的回撤都没出现过，天天就是小碎步。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是 2014 年11 月至次年 5 月的万得全A 日涨跌幅分布，在这段7个月上涨113.58%的行情中，可以看到单日 4%的涨幅都很少，高频都是 1-2%的日涨跌幅。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvs6r97a0qyK5gcibQun9Mh9g27rJwk9y0lLUojsbxcbzoLAib3e5uOxVw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  这种市场环境，才是新韭菜极好的培养皿，才能有一波酣畅淋漓的牛市。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以周五半小时能回调踩刹车，是极好的。其实踩了刹车，涨幅还是有点大，不利于长治久安。不过短视频支配时代的投资者，或许也无法用 2015 年这种行情来照搬，或许太多人追求的是刹那绚烂。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  心中无“牛”
+ &lt;/h2&gt;
+ &lt;p&gt;
+  那么，是不是牛回，该速归呢？
+ &lt;/p&gt;
+ &lt;p&gt;
+  某种程度上，我觉得这是一个极其糟糕，甚至会让人更容易亏钱的坏问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  站在当下看，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   牛市，其实并不是一个真实存在的东西
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在回顾A股历史时，我们当然可以去划分一轮轮牛市，比如 2005 至 2007 是一轮牛市，2014 至 2015 年是一轮牛市。“牛市”作为一种回顾性的判断，是可以的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但站在正在运作的这波行情中，当我们相信真有一个叫“牛市”的东西存在时，我们往往会增加许多的妄念，比如当我们相信有一个三年甚至两年翻倍的牛市正在运作时，我们对于追高 20%就会觉得有点理所当然，毕竟未来还有更大的一段上涨等着我们呢——10 月 8 日涨停买入的许多人，正是这样想的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但我始终相信，并不存在“本轮牛市”这么一个东西，行情的演变，会掺杂各种天时地利人和，尤其是全球化之下，A股的上涨，也可能因为其他金融实体的暴雷而被迫中断，牛市不是理所当然，也不是“命中注定”。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，相比“牛市”这样带有预设的词汇，我更习惯用“上涨行情”这样客观的表述。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就像刚刚分析中证1000 的日K线图时聊过的，经过了这两根新高阳线后，可以认为中证1000 进入了上涨趋势，这是不是牛市，并不重要。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvnpW0tNAiaYYF9ib99tr4X6xxKK53tGNpMVOwSia2lyJD8emnJPdKE4Bzg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于我这样的技术分析玩家是如此，其实对基本面投资者也是如此。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当你知道估值够低，股息率够低时，你就知道未来一段长期时间的年化回报可能会在一个比较宜人的水平，通过股价上涨抑或通过股息分派。至于是不是有牛市，低估值不会给指引。甚至一波良性的长期慢牛中，你都未必能看到高估值乃至泡沫化的信号，只能通过高于历史平均的区间年化收益水平，来事后确认这是一波牛市行情。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，是否牛回，是一个无需回答的问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于是否速归，则是取决于你是怎样的交易策略。如果是短线趋势玩家，周五是该入场，并做好随时止损离场的准备。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  恒生AH股溢价指数走势
+ &lt;/h2&gt;
+ &lt;p&gt;
+  恒生AH股溢价指数是一个体现同时在A股和港股(H股)上市的公司，A股相较H股的溢价水平。此指数最新值为143.47点，较前-2.71点。代表上述公司A股相较H股溢价率为43.47%。最近数值高于过去五年83.60%的交易时间。注：为规避A股休市带来的数据波动，下图仅显示A股交易日数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvg907GYo8l5XRfIpWLsKnKXpsJM7EM2R5PctFzzamEmyaMv7FsWejpg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  申万大类风格走势对比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  申万大类风格是申万指数将大类行业聚类成6个风格，通过将它们与申万A股指数的对比，可以一目了然知道目前哪个大类风格领涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvr0LR2mOAWLFFW0DMlSc13hElpVml7W9j9kjxGjGVcRkjjG2B9ib5Bjg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  主要行业走势对比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  主要行业指数中，10月18日表现最好的是国证芯片，涨跌幅为+11.82%，表现最差的是中证银行，涨跌幅为+0.46%。半导体的暴涨，当然与“七个字”的相关鼓励有一定关系，但从本周的走势来看，其实此前就是难得的逆势抗跌板块，市场对半导体的偏爱，倒是贯穿本轮行情。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpvENexJXUzIT1xIleDptYwREJlWSvqfe5QU3L77Dw0KAib61ngFMZ9ibdg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  离岸人民币(CNH)走势一览
+ &lt;/h2&gt;
+ &lt;p&gt;
+  离岸人民币(CNH)至执笔时最新值为7.1204，较前一日变动为-0.0171。汇率的升值，与 A股的大涨，倒是同步了一番。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahODicdeicBo3xPSegZhOFdpv65mSza4WibDibtbzpHu3owZ6iatCAVNOdzIl96mzOrkghNPzqmIdNJThQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sat, 19 Oct 2024 00:56:18 GMT</pubDate></item><item><title>这波抄底，指增 ETF 靠谱吗</title><link>https://mp.weixin.qq.com/s/pFsplXEF58pY-RMqBsnh6w</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  此前以沪深300 的指数基金产品为例，
+  &lt;a href="http://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650301169&amp;amp;idx=1&amp;amp;sn=70743a833a34363af59c69dee45e2f07&amp;amp;chksm=beed3070899ab9666fcd7f762a9d3c37d2d94bd1ec0d0c8dbecd00a0950fdf6cebc5742cb9a2&amp;amp;scene=21#wechat_redirect" target="_blank"&gt;
+   对比了场外联接、场外指基与 ETF 在 9 月 24 日至 10 月 8 日 A股暴涨行情中跟踪指数的效率
+  &lt;/a&gt;
+  ，结果是 ETF“遥遥领先”，场外联接和指基很容易跟不足。
+ &lt;/p&gt;
+ &lt;p&gt;
+  个中原因很多，核心就是场外基金现金仓位的拖累和大额申购的摊薄。
+ &lt;/p&gt;
+ &lt;p&gt;
+  于是就有朋友来问，用场内的指数增强 ETF，会不会更好？
+ &lt;/p&gt;
+ &lt;p&gt;
+  其实，在提取数据实证之前，我内心就有一个“否定”的预判。基于我对指数增强 ETF 的了解，这类大涨，并非“好球区”。
+ &lt;/p&gt;
+ &lt;p&gt;
+  事实，也是如此。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我从 Wind 提取了所有纳入海通基金分类的 ETF 产品，并筛选出沪深300、中证500、中证1000、科创50、科创100 五个指数的所有指数类 ETF 和指增类 ETF，并分别计算了 9 月 24 日至 10 月 8 日之间的净值涨幅中位值和平均值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下表可以看到，这些年，指增 ETF 也算是大发展，甚至在类似中证1000 这个赛道上，产品数量已经接近于传统指数 ETF 了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但很可惜，无论对比净值涨幅的中位值还是平均值，指增 ETF 在这轮暴涨中，普遍是跑输于指数 ETF 的，跑数幅度 1-2 个点不等。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYajCTFlwslmOyiamT8r98qia5qqibI9nibdNjzGzsZevsYjlVMc8u8qfAOJnCgUBrKA7vUOvWIthwXCrdQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  为什么指增 ETF 没有现金仓位和申购摊薄的拖累，依然在本轮大涨中跑输？
+ &lt;/p&gt;
+ &lt;p&gt;
+  其实，指增 ETF 也是指增，指增基金主流的量化投资模式，无论是多因子还是量价模型，都是依靠大量的押注来积小胜为大胜，但因为市场变动的不可测，所以很难做到短期始终能跑赢指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在指增 ETF 刚热起来时，我就问过一位指增的基金经理，是否会将固定期限(比如每月)跑赢指数的胜率作为模型目标去设定，以此作为比较好的短线波段工具。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但得到的答案是否定的，一方面市场风云变幻，很难做到这一点；另一方面，指增 ETF 的产品定位，更多是让不希望使用场外基金架构的投资者，也能享受指数增强的超额，本质上还是一个长期持有的底仓型产品。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我觉得还有一个因素就在于，本轮 9 月 24 日至 10 月 8 日的上涨，后期以成长风格的逆袭为主，而过往一段时间 A股呈现比较强的价值风格，所以很多指增产品可能或多或少会轻配成长因子，所以在这轮逆袭中，反而会进入逆风局。
+ &lt;/p&gt;
+ &lt;p&gt;
+  说到底，指增产品，无论是场外还是 ETF，赚的都是长期持有后“细水长流”的钱，作为短期抄底博反弹的工具，不好使。要想如臂指使来抄底，赚了指数就赚钱，那还是传统 ETF 最靠谱。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Fri, 18 Oct 2024 06:41:03 GMT</pubDate></item><item><title>股债性价比看沪深300，再跌多少才宜人</title><link>https://mp.weixin.qq.com/s/Y-1mnHS2pnoSGBaBZQv6nw</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  沪深300 继续调整中。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于此前 10 月 8 日高位有减持的基民股民，许多都在问，什么时候重新买回来比较好？
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于增持沪深300，我一直在观察。
+ &lt;/p&gt;
+ &lt;p&gt;
+  一个是看 14日RSI指数，到 40 的区域，我会考虑加仓。不过周三最新值还在60.2点，似乎还遥遥无期。
+ &lt;/p&gt;
+ &lt;p&gt;
+  另一个则是看股债性价比，挑一个还算宜人的估值区间。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是沪深300 过去 10 年的股债性价比的运行区间。我分别试算了四个位置。图上的❶❷❸分别是 2016 年初、2019 年初和2020 年3 月疫情三个低点对应的风险溢价值，第四个则是+1 倍标准差的 6.01 这个水平。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaFVZM9GNiadpOqopDzCqFTymvIzxxTyhoLaDVUOcqERicV3mHO6Cox1RLhiaD95mUP1OMlDfO98O1kA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  在基于十年期国债收益率为 2.13%不变的前提下，我试算了上面四种情景下对应的沪深300 的调整幅度，从 4%到 10%不等。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiaFVZM9GNiadpOqopDzCqFTyiaNiccndkue849aC6TN0pYaU3ShBOsIR1nAsaVGDvNu8ialasvGg3GfEQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果希望在调整中左侧加仓，不害怕沪深300 打回原形奔着+2 倍标准差去的，尤其是之前高位减仓有相当价差空间并相信低估值的长期价值的投资者，倒是可以基于这个试算，慢慢加回一点仓位，这个位置拿着，心里多少是有点底，不那么担心的。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Thu, 17 Oct 2024 03:37:17 GMT</pubDate></item><item><title>用 RSI 跟踪成长风格崛起，很有意思！</title><link>https://mp.weixin.qq.com/s/naAev0q52rSPJxTGGCT4DA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  RSI(相对强弱指标)是我超爱用的一个技术指标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  此前越跌越买逆势加仓的时候，我写过《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650298932&amp;amp;idx=1&amp;amp;sn=5118420f615880b4d310fd54043db05b&amp;amp;chksm=beed08b5899a81a3026da740a1430ca38c0ce8dd7b8e4d898f376ecb0cbc272dd99a980e5dfb&amp;amp;token=484173470&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   下跌中，我们站在历史何处
+  &lt;/a&gt;
+  》，用周线月线 RSI 探究是不是在底部区域。
+ &lt;/p&gt;
+ &lt;p&gt;
+  9 月 28 日收盘后，市场还没疯狂时，我又写过《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650300859&amp;amp;idx=1&amp;amp;sn=bb8980942a93b50479071cd51ce3cf45&amp;amp;chksm=beed333a899aba2c7baa12596676d548e729a8b56945e3bf70f940b2b4d278d4f5dedabf43f9&amp;amp;token=484173470&amp;amp;lang=zh_CN&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   当万得全 A 的 RSI 大于 80，牛市的回归？
+  &lt;/a&gt;
+  》，讨论是否有牛市的回归。
+ &lt;/p&gt;
+ &lt;p&gt;
+  今天，想分享的是最近探索的一个新功能，用 RSI 搭配两个品种的比值曲线，来探究风格轮动，来针对成长板块伺机加仓。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0K3rjOJia4WoqyeN8v1uzJYAV3zf3gvpP53ria1VMl4Vsv54n5OUFfXbAg/640?wx_fmt=png&amp;amp;from=appmsg" style="height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  当比值曲线遇上 RSI
+ &lt;/h2&gt;
+ &lt;p&gt;
+  EarlETF 的老读者应该知道，我对于研究两个品种之间的相对关系特别着迷。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这种思路，更多是受技术分析大师约翰·墨菲(John Murphy)的影响。
+ &lt;/p&gt;
+ &lt;p&gt;
+  传统技术分析中的技术指标，虽然看着教科书挺好用，但在实际使用中，会有太多“例外”。毕竟万众瞩目的交易标的，往往有各种意外，甚至各种“骗线”，让技术分析屡屡失灵。
+ &lt;/p&gt;
+ &lt;p&gt;
+  相比之下，两个标的的比值，因为关注的人极少，所以往往不太容易出现意外，更适合技术分析。我之前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294206&amp;amp;idx=1&amp;amp;sn=a66e5773ee52cc4a8e53d585c5666d5d&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   捕捉风格轮动的新工具，两个！
+  &lt;/a&gt;
+  》中也介绍过两个我自己研究的小工具：❶ 比值曲线的 252 日布林线突破；❷ 两个标的的 40 日收益差。
+ &lt;/p&gt;
+ &lt;p&gt;
+  而最近思考的是，能不能用 RSI 来分析两个比重之间的比值曲线，以研判两个品种之间的轮动。这个功能，在类似 Stockcharts 这样内置比值曲线的美股技术分析网站极为容易，但是在 A股哪怕是 Wind 也做不了这样的分析。
+ &lt;/p&gt;
+ &lt;p&gt;
+  幸好这些年在用 python 做技术分析上有点小长进，所以最近总算有点眉目了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  于我而言，当下最关注的问题，莫过于：
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   成长风格何时回归
+  &lt;/strong&gt;
+  。作为一个在价值/红利板块，尤其是大盘价值上有高仓位的基民，我内心最大的恐惧就是习惯了 2021 年至 2024 年 9 月之前价值持续强势的行情，而因为轻配错过成长板块卷土重来。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下面这张表，正是希望用300 成长和 300 价值的比值曲线搭配 RSI 来回答这个问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  首先对比值分析法做一个简单的科普。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下表上半部分，是 300 成长与 300 价值的比值曲线，将这个指数的收盘点位相除，即 300 成长÷300 价值指数。这条曲线向上，代表 300 成长相对 300 价值走强，反之向下则是 300 价值相对 300 成长走强。比值曲线作为一种分析方法，最大的优势就是对于两个品种孰强孰弱，以及强弱的潮起潮落一目了然。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0KURgCTwCXuljKaaYibZpVHSayZ6bskWw9uibNejUgOkFBwRncr0mvyfsg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于下半部分，则是针对这根比值曲线计算 14 日RSI。RSI 是一个非常经典的技术分析指标，是韦尔斯.怀尔德(Welles Wilder)在1978 年出版的《技术交易系统新思路》中提出，一个比我年纪还大的老爷爷指标。至于为什么选择 14 日计算 RSI，也是怀尔德提出的祖传参数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  传统 RSI 的用法，是作为超买超卖指标，比如认为 70 是超买，就要减持；如果认为 30 是超卖就要加仓。不过这么简单粗暴的用法，不太好使。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我偏爱的，是基于 RSI 的区间判别法，是我 2003 年至 2005 年在香港念硕士时候，在香港一家著名的技术分析书店买到的一本美版书中学到的，请注意书右上角的标签，薄薄一本 304 港元，真是贵。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_jpg/C4xib9axrYagXUlibBafcemjOmicVfPJc0KPF2LqDl0lt446Wkuh5nwKJ7rLDdpudjrpYZa31M7xRicF4S9VcNfuIw/640?wx_fmt=other&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  但这本书使用 RSI 的思路，非常有启发性。此书作者强调，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   在牛市(或者简单认为上升通道中)和熊市(下降通道)中，RSI指标的运行区间是不同的。他认为，牛市RSI在40到80之间运行，熊市RSI在20到60之间运行
+  &lt;/strong&gt;
+  。当然，不同的品种，不同的时间周期，牛熊运行区间上下限会略有不同，但原理一致。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果你用这样的判别思路重看上面那张比值图，就相当有意思了。当2019 年到 2020 年，即300 成长强于 300 价值时，比值曲线的14日RSI指数运行区间是在 30 到 80 之间(红框区域)，而在 2021 年僵持之后，当 2023 年开始 300 价值强于 300 成长时，比值曲线的 14日RSI指数是在 20 到 70 之间(绿框区域)，甚至到后期 RSI 只能反弹到 60 点区域。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0KR14L467A2w5tlbgRtpohRHj7IBy141w2bpwtsiaQ9FYLcs2tfrgQYmw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  那么“9·24”之后发生了什么？
+ &lt;/p&gt;
+ &lt;p&gt;
+  阔别多年之后，300 成长相对 300 价值比值曲线的 14日RSI指数，终于
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   再次飙升至差不多 80 点的位置
+  &lt;/strong&gt;
+  。从RSI 的牛熊区间判别法而言，这是发出了 300 成长相对 300 价值走强的
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   第一信号
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，更安稳，我们还需要第二确认信号，即
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   在随后的比值回落中，RSI 不再跌破 30 点
+  &lt;/strong&gt;
+  。毕竟，这一波 A股的反弹过猛，存在很多的偶然性。能有二次确认，更安稳。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  用创业板作为替代品
+ &lt;/h2&gt;
+ &lt;p&gt;
+  300 成长和 300 价值，是我经常分析的一个指数对。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但我此前也聊过，这套风格指数的基金产品比较弱，300 成长的基金产品比 300 价值更弱，选择少，规模还小。至于另一对 300 价值稳健和 300 成长创新，也是一样的毛病。
+ &lt;/p&gt;
+ &lt;p&gt;
+  思考再三，决定考虑用创业板做 300 成长的替代品。下图是这两个指数 2019 年迄今的走势对比，可以看到在大量的时间段内，这两者走势是趋同的，2021 年下半年创业板因为有新能源的加持，还创出新高，所以 2019 年迄今的涨幅要高出不少。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0KFlYW945RBRD9I3aYu3BGHk1bDeqIDuF9yevg3BqAyk9rWowFIQxhfw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  说到创业板，要反思一个早年犯的错。EarlETF 老读者应该有印象，我早年发现过“二八轮动”策略在 A股挺有效，是在沪深300 和中证500 之间轮动。当时有读者建议，用上证50和创业板会不会更好。但当时我这个处女座觉得这样的搭配远不如沪深300 和中证500 严丝合缝的对齐具有美感。没想到多年运作下来，沪深300 和中证500 越发趋同影响轮动，反而是上证50指数和创业板依然是风格上泾渭分明。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，在捕捉大盘价值和大盘成长轮动时，我不再追求什么“美感”，而是追求交易工具的易得性。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是创业板指和 300 价值的比值曲线和 RSI指标，总体来看极为相似。值得注意的是 2021 年下半年，创业板虽然指数本身和相对 300 价值的比值曲线都创了新高，但 RSI 却再也无力触及 80 点，往往到 70 点就结束，倒也是一种运动区间上的提醒，至于随后 2022 年初 RSI 触及 20 点，则是拉开调整序幕。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0KYIiaUZruFPdubPVmzqsynOkPIXlbRspNKBaJ8hUPOBUJ48U0q3DCpTw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于这一轮，创业板相对 300 价值的比值曲线 RSI 无疑更强劲，一度高过 80 点。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  估值还算宜人
+ &lt;/h2&gt;
+ &lt;p&gt;
+  虽然比值分析这东西更多是观察风格轮换。
+ &lt;/p&gt;
+ &lt;p&gt;
+  不过风格真的要轮换，基本面、宏观面等支持也重要。
+ &lt;/p&gt;
+ &lt;p&gt;
+  成长股的宏观面，之前市场有许多讨论了，美联储降息引发的低利率环境是关键。
+ &lt;/p&gt;
+ &lt;p&gt;
+  至于估值，看了下过去创业板过去 10年的估值，目前是 33.7 倍，而 2019 年初行情起步时的估值是 28.60 倍，这样只是略高一点点的估值水平，我还是比较能接受的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0K4we8d6lXrfE5ZQCNrZF9S97dWXsT0nics4gh4MehibUibIFXDeBsZzbuA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  翻了下创业板的场外指基产品，华夏创业板联接(A：006248 C：006249)算是费率最低的，
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   管理费 0.15%+托管费 0.05%
+  &lt;/strong&gt;
+  ，场外规模 20 亿元+，应对申购也压力不大。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以在 10 月 11 日 A股尾盘加速大跌中，先将小部分价值仓位赎回，建了 1 个观察仓位。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYagXUlibBafcemjOmicVfPJc0KS5gCVVico2F7Sc35ZDfib4uoGUblyaShtBtTYd9nM8Gtah88VoVFxhBA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; height: auto !important;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  随后随时结合市况，考虑在比值曲线 RSI 到 40 点开始，加大转换至创业板的速度。只要未来调整比值曲线的 RSI 不重新触及 20，就将持续进行结构调整，增加比重。
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Wed, 16 Oct 2024 12:08:37 GMT</pubDate></item><item><title>场外指基与 ETF，暴涨中各有各的烦恼</title><link>https://mp.weixin.qq.com/s/UD-RkP3IBpOgpcMWzkINZA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  A股终于不再疯牛。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这波疯牛，对许多基金产品，都可算是一个“压力测试”，许多的工具性问题，也暴露出来了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里随便聊聊ETF 和场外指数基金的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img js_insertlocalimg" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQyvestK9HlHRC65w4860PREsgF2JU7SzPcvxVudwEN9ck0ndjN3jZv4g/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  场外指基的跟不足
+ &lt;/h2&gt;
+ &lt;p&gt;
+  怎样赚了指数就赚钱？
+ &lt;/p&gt;
+ &lt;p&gt;
+  指数基金一直被认为是最理想的解决方法。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但是在这波几天里面上涨超过 30%的疯牛行情中，许多基民突然也发现，指数基金与指数基金，还是很不一样的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我拉了一下市面上所有跟踪沪深300 并被纳入海通证券基金分类的指数基金(不含指增)，一共包含三类：
+ &lt;/p&gt;
+ &lt;ol class="list-paddingleft-1" start=""&gt;
+  &lt;li&gt;
+   &lt;p&gt;
+    场内交易的 ETF
+   &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+   &lt;p&gt;
+    ETF 的场外联接
+   &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+   &lt;p&gt;
+    传统场外指数基金
+   &lt;/p&gt;
+  &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;p&gt;
+  下表就是对他们在9 月 24 日至 10 月 8 日这最疯狂的六天时间里面净值涨幅的对比，作为参考沪深300指数同期上涨了 32.47%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下图你可以看到，场内的 ETF 应该还算“不辱使命”，以 32.25%的平均净值涨幅和 32.36%的中位值，总体跟进了沪深300 的上涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQyjwSJej8gDvF7xOYiadhLpqqwQAcqf4S6kHwQU9vSaPKjLNg8DQ5CPeA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  但是，股票 ETF 联接和复制股票指数型(也就是传统场外指数基金)，表现却有点拉胯，分别净值增长的平均值只有 29.47%和 29.66%，跑输不少。
+ &lt;/p&gt;
+ &lt;p&gt;
+  一般而言，在上涨行情中，ETF 联接和传统指数基金跟不足指数是常态，因为一般仓位只能到 95%，有现金仓位的损耗(同理持续暴跌中会相对抗跌)。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果按照 95%折扣和股票 ETF那段时间32.25%的净值收益率来才算，场外类指数基金理论上的净值收益率应该是 30.64%，但显然实际收益还低了 1 个点左右。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里面，其实就是场外基金“微操”层面的一些细节拖累了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  “9·24”后几天，场外指数基金的申购非常凶猛，尤其是上交所交易故障的那天，许多没法买 ETF 的就直接上场外了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但问题在于，你在 T0 日 15 点前申购，你就可以开始享受第二天的净值。但对基金经理而言，有些慢的要到 T+2 日才能拿到资金投资，即使效率高的公司 T+1 日早上能够拿到资金，但遇上近期大涨高开高走的话，基金经理是没有办法按照 T0 日的收盘价买入股票追踪指数的(对中小盘股居多的指数，更有涨停买不进的问题)。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，这就会造成申购资金的“摊薄”效应。
+ &lt;/p&gt;
+ &lt;p&gt;
+  一般来说，规模越小的场外基金，“抗摊薄”的能力越弱。举个很简单的例子，其实在大涨几天，许多可能只有几亿规模的小基金，一下子涌入差不多规模的资金，如果基金经理手不够快或者对应的股票跳空太快，就会出现大幅的跑输情况。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是 9 月 24 日至 10 月 8 日，所有追踪沪深300 的场外指数基金规模与同期净值涨幅的散点图，请注意左下角那批“迷你基”，出现不少大幅跑输的，低于 28%的都不在少数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQy9u90acPQvwJ0SXrDUqTQnicGWh2bNqyuW3bqaRruQwTo3qWNKiaS0BPQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，请注意，不是说规模大就一定“摊薄”效应低。毕竟摊薄一方面与原本的规模有关，另一方面与涌入的资金有关。当太多的资金都认为某个场外指数基金足够大而拼命申购，就会出现上图右下角孤零零的那个，明明原本规模不小，但估计因为太多涌入，也是跑输，比规模稍小的几个，要落后不少。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  ETF 的涨不足
+ &lt;/h2&gt;
+ &lt;p&gt;
+  相比场外基金跟不足的问题，今次 ETF 暴露出来的问题，则是涨停板限制带来的“涨不足”。
+ &lt;/p&gt;
+ &lt;p&gt;
+  目前除了跟踪创业板和科创板的指数 ETF 可以 20%涨跌停板，其实 ETF 都是 10%，哪怕是港股或者美股的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这次国庆A股休息七天后就出现了问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  国庆期间，港股交易四天，类似恒生科技之类的指数，都是 10%+的涨幅。但按照 A股的交易制度，A股上市追踪恒生科技指数的 ETF，当日只能上涨 10%。
+ &lt;/p&gt;
+ &lt;p&gt;
+  也幸而当日港股迅速回落，所以这个涨停板限制的问题不明显。但随后的半导体指数，就出现指数上涨超过 10%，但跟踪的 ETF只能上涨 10%的问题。
+ &lt;/p&gt;
+ &lt;p&gt;
+  在这波行情之前，我其实一直都挺纳闷，为什么会有人通过港股通去买香港追踪恒生科技的 ETF。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这里强调一个冷知识，港股通最开始的时候，是限定在股票上的，港资通过沪股通深股通也限定在股票上。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但是后来，部分 ETF 也纳入了港股通。下图就是可以通过港股通买入的品类统计，许多持有规模并不小。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQyptTlTN6jHco1DiaIXztJ8JJOYyiaIraeI1GguicuxQJQKoPYDMMzm3V3Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  平时不觉得在港股买这些 A股有的 ETF 有多大意思，但经历这波行情，不得不说，能够
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   不受涨跌停板的约束，是港股通买 ETF 的一大优势
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，类似港股通可以交易到 4 点，不似 A股的香港 ETF在 3 点就收盘，其实对于做短线的交易者，也是一大优势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  场外指数基金和 ETF 的这两个毛病，都是小毛病，只是在特定市场时段凸显。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但谁知道历史是否会重复，所以心理得有这根弦，万一遇上类似情况，用好工具是关键。
+ &lt;/p&gt;
+ &lt;section&gt;
+  &lt;section&gt;
+   &lt;section&gt;
+    &lt;section&gt;
+     &lt;img src="https://mmbiz.qpic.cn/mmbiz_png/dDB9AEpicyTKpuGWyp2L0N7SJVl6KQz2E4iausJ4lXbodP7Lr868LV0enUMxK34eHudc4j8t9niabYIJkSfOgdcsA/640" /&gt;
+    &lt;/section&gt;
+   &lt;/section&gt;
+  &lt;/section&gt;
+ &lt;/section&gt;
+ &lt;p&gt;
+  说到 ETF，今天是 A股 ETF 发展的又一件大事——中证 A500ETF 要批量上市了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  “9·24”迄今，A股大幅震荡，这段时间的涨涨跌跌，倒是很能体现中证 A500 这个新一代宽基指数的特点。
+ &lt;/p&gt;
+ &lt;p&gt;
+  之前我们也分析过，中证 A500 通过 500 个成分股，实现对 A股整体行业分布的对标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  从下图可以看到，因为编制规则的优势，就中证三级行业的覆盖，中证 A500 是要胜过沪深300、中证A50 的。也因为细分行业覆盖多，所以会对细分行业的“小巨人”覆盖更全面。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQyroTibcdpc5nesxTs7X5qwFETSBz4TSHqasI2DXI198q1P04SLtt4FYQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h6&gt;
+  数据来源：Wind金融终端
+ &lt;/h6&gt;
+ &lt;p&gt;
+  而相比此前发行的中证A50，因为
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   中证 A500成分股更多，所以会呈现稍强的小盘股暴露
+  &lt;/strong&gt;
+  。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下表便是“9·24”迄今逐日沪深300、中证800、中证A50 和中证 A500 指数的对比。可以看到，黄色高亮的是中证800 显著跑赢沪深300 的交易日，也就是小盘股表现相对优异的交易日。而在这些交易日，中证 A500 比中证800 有更优秀的表现，是一个极为不俗的中证800 加强。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQyGyocAbEywBbe22WzjJURxNy4O579oK3PicxXW422L8FKbzPiaU3ibWQlg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，在预期中小盘股有优势，但又不想过分下沉时，中证 A500 或许是相比传统沪深300、中证800 更好的选择。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，不是所有的资金，都对大小盘轮动有兴趣的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果我们从长期持有角度来看，中证 A500，依然有不可忽略的地位。
+ &lt;/p&gt;
+ &lt;p&gt;
+  今年，A股新一代宽基有两轮集中发行，先是中证A50，后是此轮中证 A500。这两个指数，你认为哪个的历史地位更重要？
+ &lt;/p&gt;
+ &lt;p&gt;
+  我本以为应该是先登场的中证A50，但最近做数据比较时才发现，或许中证 A500 才是更重要的那个。
+ &lt;/p&gt;
+ &lt;p&gt;
+  一个不起眼但极为重要的事实就是，中证A50 的基点设计为2014 年 12 月 31 日，这意味着在这之前 A股的历史，它是无法表征的。
+ &lt;/p&gt;
+ &lt;p&gt;
+  而中证 A500 的基点却设计为2004 年 12 月 31 日，比中证A50 整整提前了十年。
+ &lt;/p&gt;
+ &lt;p&gt;
+  熟悉 A股尤其是 A股指数发展史的读者应该知道，类似沪深300、中证500、中证1000 这样经典的上一代宽基指数，基点全部是 2004 年 12 月 31 日，这样的基点才能体现自2005 年股权分置改革以来 A股的表现，才能体现过去 20 年波澜壮阔的 A股。就这点而言，中证A50 是所欠缺。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是从 2004 年 12 月 31 日迄今(截至 10 月 11 日)，沪深300、中证800 和中证 A500 这三个指数包含股息再投资的全收益指数的走势对比，可以看到以年化收益而言，沪深300 和中证800 其实相若，长期来看大小盘表现相若。但中证 A500 则是有相对显著的超额，相比中证800 全收益指数要多 0.51 个百分点一年。可别小看这点差距，经过差不多 20 年的日积月累，就是累计收益 476.86%与 532.52%的差异。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYahhcIwExyUXibQhePRtG9RQyfsLSGNZ5mNUpuA27ame2CQjjdJkgqls9aXUhSiakghEBcTwkBicbNl2A/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  今天，中证 A500的相关 ETF 终于要上市了，有兴趣并且关注深市份额的，可以关注中证 A500ETF(159338.SZ)。这只 ETF 采用了今年大热的月月评估分红机制，力争未来能实现月月分红。对于强调大宽基收息的投资者，这是一个重要的特性。
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Tue, 15 Oct 2024 00:43:06 GMT</pubDate></item><item><title>未雨绸缪的 ETF 品种</title><link>https://mp.weixin.qq.com/s/QQr7u2qYa3uoQuq20_jRQw</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  “9・24” 迄今的这波 A 股，在连续上涨之后，终于开始分化，调整。
+ &lt;/p&gt;
+ &lt;p&gt;
+  作为一个憧憬慢牛长牛的老基民，其实还是喜闻乐见的。那么未来如果还有上涨第二波，在 ETF 品种上，该如何未雨绸缪，该如何加 “自选股” 呢。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  不确定性的优点
+ &lt;/h2&gt;
+ &lt;p&gt;
+  这轮上涨，另一个让投资者学习的投资范式是 “交易不确定性”。
+ &lt;/p&gt;
+ &lt;p&gt;
+  为什么成长股这波领涨？有一段评论很有意思，大意是说：在市场下行阶段，不确定性是成长股最大的缺点；但在市场上行阶段，不确定性则是成长股最大的优点。市场下行阶段，不确定性高，下限较低；市场上行阶段，不确定性高，上限较高。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这套思维方式，其实是从 “风险偏好” 角度入手，某种程度上是一个基于 PEG 模型，考虑估值与增长速率关系的思考方式。
+ &lt;/p&gt;
+ &lt;p&gt;
+  那么一个有趣的问题来了，本轮行情大出风头的创业板、科创板 50 和科创板 100 三个指数，谁的 “不确定性” 更强？
+ &lt;/p&gt;
+ &lt;p&gt;
+  下表是 Wind 汇总的上述三个指数的归母净利润预期，可以看到创业板的预测成长增速相对偏弱，科创板 50 稍强，而科创板 100 则是预期最强。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjT3aBHsHZDmPibZ1ZmaCgewxTHaTaenImYGLRLfDwUib6xHMquXrUYoiag/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; width: 5.76389in; height: 1.07431in;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  相比利润预期的实现度，市场对利润的预期，正是 “不确定性” 的来源，也是市场想象力所在。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  行业分布大不同
+ &lt;/h2&gt;
+ &lt;p&gt;
+  当我们在讨论类似创业板、科创板 50、科创板 100 这样的指数时，我们到底在讨论什么？
+ &lt;/p&gt;
+ &lt;p&gt;
+  很大程度上，是在讨论 “隐藏” 在板块背后的行业偏性。
+ &lt;/p&gt;
+ &lt;p&gt;
+  尤其是科创板 50 和科创板 100 这两个指数，作为聚焦科创板的规模指数，简单而言可以认为是分别囊括了科创板流通市值前 50 的，和 51 至 150 位的股票。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正因为这种规模的分层，搭配科创板目前公司的生态，所以会呈现迥异的行业偏性。
+ &lt;/p&gt;
+ &lt;p&gt;
+  根据 Wind 数据来看，下表是基于申万 31 个一级行业指数的分类，列出了这三个指数任意一个权重高于 5 个行业分布，可以看出指数与指数之间不同的偏性。毫无疑问，创业板指在电力设备也就是新能源上，有着比较强的暴露，差不多三分之一了，再加上医药生物，两者占去半壁江山；至于科创板 50 更集中，将近六成在电子板块，俨然是 “准” 半导体指数，国庆后的相对坚挺，也正收益于此。相比之下，科创板 100，无疑有着更分散的行业分布，比较均衡的分布在电力、医药生物和电子三大板块。（截至 20241010）
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果你希望在科创，或者说科技 TMT 行业大类上有分布，但又不希望过于侧重单一行业，那么科创板 100 无疑是一个更均衡的指数。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjSC5kcVWUW1RAeHYHlxLgY6o7aCib6Kf2Hpv0doX2OH2Tj224sZM5TUg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto; width: 5.76389in; height: 2.75556in;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  另外，横向对比来看，科创 100 最大的特色就是在医药生物上，有相对较高的暴露，这可能也为科创 100 指数贡献了不少弹性。（数据来源：Wind，截至 20241010）
+ &lt;/p&gt;
+ &lt;p&gt;
+  对于 ETF 交易者，这样的弹性，某种程度上恰恰是交易者追求的。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  上涨若有第二波
+ &lt;/h2&gt;
+ &lt;p&gt;
+  始于 “9・24” 的上涨，似乎是暂告段落了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但如果你认为上涨已经终结，那或许又是另一种的不理智。
+ &lt;/p&gt;
+ &lt;p&gt;
+  对笔者这样的乐观主义者，或许要用丘吉尔的那句名言来形容当下：
+ &lt;/p&gt;
+ &lt;blockquote&gt;
+  &lt;p&gt;
+   这不是结束，这不是结束的开始，这或许只是开始的结束 (Now this is not theend.It is not even the beginning of the end.But it is,perhaps,the endof the beginning.)
+  &lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;p&gt;
+  经过合理的调整，或许未来会有第二波，一波落在景气度上的行情。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjwKic11t4XTlZqAvpTb4QbLLzFEdpQh1Y5aggCylldb91JNTHk99m3KA/640?wx_fmt=png&amp;amp;from=appmsg" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  伴随美联储的降息，市场的风险偏好无疑会提升，对不确定性的渴求也会提升，对成长性愿意给出更高的估值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，作为一个老股民老基民，建议关注
+  &lt;strong style="color: rgb(17, 17, 17);"&gt;
+   科创 100ETF (588190)
+  &lt;/strong&gt;
+  之类的标的效果会更好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  如果是场外的投资者，也可以关注它的联接（A 类：019859；C 类：019860）。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;br /&gt;
+ &lt;/p&gt;
+ &lt;section&gt;
+  &lt;section&gt;
+   &lt;section class="js_darkmode__13"&gt;
+    &lt;section&gt;
+     &lt;section&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        风险提示：
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        投资有风险，投资需谨慎。基金是一种长期投资工具，其主要功能是分散投资，降低投资单一证券所带来的个别风险。基金不同于银行储蓄等能够提供固定收益预期的金融工具，当您购买基金产品时，既可能按持有份额分享基金投资所产生的收益，也可能承担基金投资所带来的损失。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和本风险揭示书，充分认识本基金的风险收益特征和产品特性，认真考虑本基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        根据有关法律法规，银华基金管理股份有限公司做出如下风险揭示：
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        一、依据投资对象的不同，基金分为股票基金、混合基金、债券基金、货币市场基金、基金中基金、商品基金等不同类型，您投资不同类型的基金将获得不同的收益预期，也将承担不同程度的风险。一般来说，基金的收益预期越高，您承担的风险也越大。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        二、基金在投资运作过程中可能面临各种风险，既包括市场风险，也包括基金自身的管理风险、技术风险和合规风险等。巨额赎回风险是开放式基金所特有的一种风险，即当单个开放日基金的净赎回申请超过基金总份额的一定比例（开放式基金为百分之十，定期开放基金为百分之二十，中国证监会规定的特殊产品除外）时，您将可能无法及时赎回申请的全部基金份额，或您赎回的款项可能延缓支付。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        三、您应当充分了解基金定期定额投资和零存整取等储蓄方式的区别。定期定额投资是引导投资者进行长期投资、平均投资成本的一种简单易行的投资方式，但并不能规避基金投资所固有的风险，不能保证投资者获得收益，也不是替代储蓄的等效理财方式。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        四、特殊类型产品风险揭示：请投资者关注标的指数波动的风险以及 ETF（交易型开放式基金）投资的特有风险。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        五、基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产，但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。银华基金管理股份有限公司提醒您基金投资的 “买者自负” 原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        &lt;br /&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+        六、本基金由银华基金管理股份有限公司依照有关法律法规及约定申请募集，并经中国证券监督管理委员会（以下简称 “中国证监会”）许可注册。本基金的基金合同、基金招募说明书和基金产品资料概要已通过中国证监会基金电子披露网 http://eid.csrc.gov.cn/fund 和基金管理人网站 www.yhfund.com.cn 进行了公开披露。中国证监会对本基金的注册，并不表明其对本基金的投资价值、市场前景和收益作出实质性判断或保证，也不表明投资于本基金没有风险。
+       &lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+       &lt;span&gt;
+       &lt;/span&gt;
+      &lt;/p&gt;
+     &lt;/section&gt;
+    &lt;/section&gt;
+   &lt;/section&gt;
+  &lt;/section&gt;
+ &lt;/section&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Mon, 14 Oct 2024 03:25:26 GMT</pubDate></item><item><title>EarlETF图表周刊2024-10-12</title><link>https://mp.weixin.qq.com/s/asAtoKUuyJAhomW92hDRlA</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  作为一个从技术分析时代走过来，如今又笃信动量投资的草根投资者，我始终是相信指数和图表的力量。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的指数，可以让我们跳过个股，一窥全貌。
+ &lt;/p&gt;
+ &lt;p&gt;
+  好的图表，可以将一些价格之外我们不容易看到的“真相”展现出来，更好的帮助我们把握市场的脉络。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这段时间，我设计了不少的图表。独乐乐不如众乐乐，所以每周日更新一下，放在 EarlETF 上与诸位分享。目前，这个还只是半成品，应该陆续还会有新的图表模型添加。
+ &lt;/p&gt;
+ &lt;h2&gt;
+  Wind全A五年之锚
+ &lt;/h2&gt;
+ &lt;p&gt;
+  五年之锚，是我此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293637&amp;amp;idx=1&amp;amp;sn=bff1a40b7f23a6a5302c308a658ff31c&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果A股很烂，烂市场生存法则是什么？
+  &lt;/a&gt;
+  》中提及的一个图表风格。
+ &lt;/p&gt;
+ &lt;p&gt;
+  它的本意就是不考虑什么长期投资长期收益，将A股当作类似商品这样有波幅少升幅的品种，更强调以五年均线为锚点，低位多买点，高位管住手甚至减仓。此后我在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293764&amp;amp;idx=1&amp;amp;sn=088aa1e88e1bd69ae47c5a8831173d4b&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   “五年之锚”还能怎么用
+  &lt;/a&gt;
+  》中又提到，五年之锚可以辅助定投，当指数超过五年均线+15%的位置，就可以考虑暂停；此外，当指数无论是上下偏离五年均线比较多时，就可以考虑通过动态平衡来重置风险配置，并等待下一次回归五年均线后再次再平衡，避免过快的再平衡。
+ &lt;/p&gt;
+ &lt;p&gt;
+  所以，每周率先更新一下 Wind 全 A 指数的五年之锚图，让你对当下 A股在历史长河中到底处于什么位置，有一个直观的认知。为了既保留全貌，又能看清近景。所以图表有两张，第一张始于2000 年，第二张则是放大 2019 年迄今的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjtrdnYdEKojmL1QjBKRXuZm7ZictJto6wrXCibh4WfrdOqRbib1VBR9s4Q/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjeot9vMSSOwbic3ia8b2vBBfQPOM3byhrENh5X9aANnicfUq1u7xAoibVlw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中美视角下的 A股股债性价比
+ &lt;/h2&gt;
+ &lt;p&gt;
+  脱胎于美联储 FED 模型的股债性价比，是一个用动态市盈率倒数减去十年期国债收益率来代表股票相对债券的性价比，数值越高，代表股票越具有性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但正如笔者此前在《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293673&amp;amp;idx=1&amp;amp;sn=c1914d7fc6dadfac0e39af9cc6df0633&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   中美视角下，A股有何不同
+  &lt;/a&gt;
+  》中所提到的，A股的参与者既有内资，也有大量美元本位的外资，他们彼此之间对于债券收益率的基准是不同的，这就造成了同样的
+A股，在内资和美元资金眼中，性价比迥异。
+ &lt;/p&gt;
+ &lt;p&gt;
+  2019 年初，中美利率接近，所以判断相近。而经历了 2022 年和 2023 年的美联储加息，10年期美债收益率正处于高位，所以美元资金视角下，A股的吸引力锐减，这对于外资偏爱的“核心资产”类A股是坏消息。
+ &lt;/p&gt;
+ &lt;p&gt;
+  相对而言，A股中的高息红利股、小盘股，往往由内资主导定价，中国 10 年期股债引申的股债性价比更具参考价值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  时刻比较中美两种股债性价比的视角，有助于判断 A股结构性行情下的真正性价比。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是最新数值。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjwjriaMQibK58VzGr2M8QSia2FhBd5NxYhFzgJtwfbAJibLFQw00NeHafRQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  偏股基金3年滚动年化收益
+ &lt;/h2&gt;
+ &lt;p&gt;
+  中证偏股基金指数3年滚动年化收益这个指标，最早是董承非在“公转私”后与客户分享时使用的一个指标。2022 年 10
+月我在写《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650286978&amp;amp;idx=1&amp;amp;sn=93012c01cf1143dc83aadd1b2365aad1&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   如果熊市还要一年多？
+  &lt;/a&gt;
+  》时，引用过这个指标。
+ &lt;/p&gt;
+ &lt;p&gt;
+  这个指标无论是用 30%提示泡沫，还是用-10%提示底部，都挺好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  考虑到当下 A股内资越来越多的资金是通过偏股基金来投资，所以这个指数作为市场情绪的衡量，重要性或许会越来越强。在 2023 年 9月我写过的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650293268&amp;amp;idx=1&amp;amp;sn=1536517d9752fca49906b5b5b279059e&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   偏股基金指数跌到位了吗？
+  &lt;/a&gt;
+  》中，提到过如果按照此前两波的规律，可能就要期待2024 年 2 月到 6 月期间两波双底-10%水平才能走出阴霾。当然，历史不会简单重复，所以要时刻关注最新的走势。
+ &lt;/p&gt;
+ &lt;p&gt;
+  需要说明的是，此次为了更快呈现变动，所以改用日线数据，3 年滚动年化收益率采用 726 个交易日(242×3)的收益率计算，与中证指数官网披露的数据略有偏差。不过这个数据，关注的是历史纵向的对比，而不是绝对数值的高低。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjIUn5MI9dew92zkWX4UqvVl9hxKoZURodsjJibic6EETgxMJWicSa94Iew/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  规模风格轮动三棱镜
+ &lt;/h2&gt;
+ &lt;p&gt;
+  在A股投资时，除了股债配置这样的整体考量之外，一个提高收益潜力的重要问题就是针对大小盘、成长/价值风格轮动的选择。笔者之前写的《
+  &lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NjkxNTE4Mg==&amp;amp;mid=2650294206&amp;amp;idx=1&amp;amp;sn=a66e5773ee52cc4a8e53d585c5666d5d&amp;amp;scene=21#wechat_redirect" style="cursor: pointer; color: rgb(17, 17, 17); border-bottom: 1px solid rgb(242, 74, 114); font-weight: 700;"&gt;
+   捕捉风格轮动的新工具，两个！
+  &lt;/a&gt;
+  》中介绍的“轮动三棱镜”图表范式，正是希望给大家在研判轮动上有更多可参考的数据。
+ &lt;/p&gt;
+ &lt;p&gt;
+  正如我在上文中说到的，当比值上穿或下穿 252 日布林线，或者比值跌破五年均线，又或者是 40 日收益差 252 日均线上下穿 0值这三个信号凑齐两个的时候，你就要对一波轮动开始的可能，高度重视了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，不是所有的品种之间，都适合用这样的趋势思路去看待，比如 1000 成长创新和 1000 价值稳健明显比值就在一个区间内震荡，看着比值低买高卖或许更好。
+ &lt;/p&gt;
+ &lt;p&gt;
+  就个人偏爱，300 价值稳健和 300 成长创新之间的轮动，是比较适合用这个图表去跟踪的，毕竟 A股的大盘股风格轮动，往往两三年一波，趋势性比较强。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjxMPSbCZkCmL76tsOKlTPxSEhR4BJZQsmLNQAQrLM4f4Q2cTZ0bxsDA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjerjF2ibny7GzDn6HV8RVvOM4oXicEI75mjpfk8cZYn78w0ob4DUrzNBA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjsTSFYoEibMkcuXsviaib7ppPFl5AsCFxKhl5vSib4Wh2VlvR4LBO6nW2kQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjUGKUCVIHm710vd9Bz8lLRR1gia6o9EDvza43Sh5RVxe6ZxRMNopYsPQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjGibmEZF0JicszIQYIXIucZhHayDkTNJUL75x5erZrpQF3QdufX3LnIpA/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利股息率追踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  过去数年,中证红利是熊市中少数的亮点。但也正因此，许多投资者觉得红利已经出现泡沫了。
+ &lt;/p&gt;
+ &lt;p&gt;
+  但我始终觉得,过去数年红利的强势,不过是抗跌,不过是核心资产等其他品种的疲弱衬托的而已。要真正评价中证红利的潜力，还是要回归股息率。下面这种图，列出了中证红利历史股息率走势，同时考虑到险资的话语权越来越大，所以也加入了中证红利股息率和 10 年期中国国债的差值作为股票风险溢价率的体现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjqwQlnMk4T2IHUf4YA6nBH3IqNiaHfHNkkqibb6Od2HqgADF1kGhGuApQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  中证红利 40 日收益差跟踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  虽然红利是一个长期稳健的策略，但近年也时不时会有一波强势行情。在这种强势末期杀入红利，短期可能要相对 A股疲弱一段时间。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利相对 Wind全A 的轮动三棱镜，请密切注意 40 日收益差，过高的时候不要追高，可以静待回落到零轴甚至此前常见的更低点时杀入。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjCB6ic360LHicG4RpUkoB7j2ExXrR6bCSXG3CBP3HTjgl3LwKGSUFBGsg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;h2&gt;
+  红利A股港股 40日收益差跟踪
+ &lt;/h2&gt;
+ &lt;p&gt;
+  伴随 A股红利策略的走强，港股高股息策略也日益受到关注。虽然都是红利策略，但 A股和港股也有此消彼长的情况。
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是中证红利相对中证港股通高股息指数(CNY)的轮动三棱镜，请密切注意 40 日收益差，过高时可以多买点港股高股息，过低时则要多多考虑中证红利。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOj9WKINmQ8FHPpa3WtXafXibkDgIFYRuVv3zCacLmMV5w1Cw4MLOpyUbw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sun, 13 Oct 2024 01:06:02 GMT</pubDate></item><item><title>三五十指增组合复盘 | 202409</title><link>https://mp.weixin.qq.com/s/UiTEeOYV5Kx4ruus8VoLTg</link><description>&lt;div class="rich_media_content js_underline_content autoTypeSetting24psection" id="js_content"&gt;
+ &lt;p&gt;
+  过去一周忙着跟踪 A股忙，所以每月初惯常的“
+  &lt;a class="weapp_text_link js_weapp_entry" href="" style="font-size: 16px;"&gt;
+   三五十指增
+  &lt;/a&gt;
+  ”组合跟投复盘也没来及写。周日补上。
+ &lt;/p&gt;
+ &lt;p&gt;
+  过去的九月，是 A股大举反弹的九月。但对场外基金，因为申购的摊薄效应，大多跟不足指数。“
+  &lt;a class="weapp_text_link js_weapp_entry" href=""&gt;
+   三五十指增
+  &lt;/a&gt;
+  ”组合也不例外，作为基准的三五十等权重 95%上涨 21.64%，而三五十指增上涨 18.9%，跑输 2.77 个百分点。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjicQEm5SYiad5kOtmDrAHuGpCG87NWvFLibr34TeaXM1LAwPfo3ic4Dnytg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  也因为 9 月的跑输，所以整个三季度也跑输 2.21 个百分点，是我开始定投“
+  &lt;a class="weapp_text_link js_weapp_entry" href=""&gt;
+   三五十指增
+  &lt;/a&gt;
+  ”以来，第一个跑输的季度。不过这也没办法，指增赚的是细水长流的超额，类似这种暴涨行情，是天然不适应的。只能希望四季度中能够在追上来。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjdDLGastFg00ibQoaa9HLEG2wVDCJIvgialpoQfBfcoZatPQczQnoibQwg/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  当然，组合本身的表现是一回事，跟投的操作又是另一回事。
+ &lt;/p&gt;
+ &lt;p&gt;
+  我之前说过，我是采用“价值平均”的策略来定投
+  &lt;a class="weapp_text_link js_weapp_entry" href=""&gt;
+   三五十指增
+  &lt;/a&gt;
+  的，即要求每个月的净值上涨 5000 元，根据计划 9 月要达成38.5 万元。本来 9 月见底前的最后一跌，距离我自己合成的三五十指增的 14日RSI指数到 30 点一步之遥，我差一点就要继续大手笔加仓，可惜失之交臂，随后就是大涨。
+ &lt;/p&gt;
+ &lt;p&gt;
+  由于大涨使得整个投资的净值远超过目标的 38.5万元，所以我从 9 月 26 日开始逐日减持，依次减持 5%、4%、8%和最后一笔 10 月 8 日的 4%，累计减持了 21%。其中 6.9 万元的减持金额已经在下图的 9 月记录中体现。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjh12FwEeBABKjyDyU2Jy2PS2Hb02uibUIS6kFgqY3Us8icckqiabMejiauw/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+  下图是目前的构成，
+  &lt;a class="weapp_text_link js_weapp_entry" href=""&gt;
+   三五十指增
+  &lt;/a&gt;
+  的金额经过过去几天的回调，缩水至 35.2 万元，但加上 8.5 万元的现金储备，合计还有 43.8 万元，依然远高于十月目标的 39 万元。所以我暂时不会加仓，除非三五十指增组合的 14日RSI指数出现 30 点这种极端低值，否则就让调整再继续一下。
+ &lt;/p&gt;
+ &lt;p&gt;
+  &lt;img class="rich_pages wxw-img" src="https://mmbiz.qpic.cn/mmbiz_png/C4xib9axrYaiatObfWoVKchU0B77N7QsOjxNVy93vDQ8J58HUK7iaKibk8vET2h3btd8VdDx3EvYhjnRScfxCskIuQ/640?wx_fmt=png&amp;amp;from=appmsg" style="vertical-align: middle; border-width: 0px; border-color: initial; display: block; margin: auto;" /&gt;
+ &lt;/p&gt;
+ 
+ &lt;p&gt;
+  
+  
+ &lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Sun, 13 Oct 2024 01:05:38 GMT</pubDate></item></channel></rss>
